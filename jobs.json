@@ -1,0 +1,222 @@
+[
+  {
+    "id": "j1",
+    "company": "Jane Street",
+    "role": "Quantitative Researcher",
+    "type": "QR",
+    "location": "New York / London",
+    "status": "rolling",
+    "link": "https://www.janestreet.com/join-jane-street/open-roles/",
+    "notes": "Core research role — probability, maths puzzles",
+    "posted": "Rolling"
+  },
+  {
+    "id": "j2",
+    "company": "Jane Street",
+    "role": "Quantitative Trader",
+    "type": "QT",
+    "location": "New York / London / HK",
+    "status": "rolling",
+    "link": "https://www.janestreet.com/join-jane-street/open-roles/",
+    "notes": "Trading & research combined",
+    "posted": "Rolling"
+  },
+  {
+    "id": "j3",
+    "company": "Citadel",
+    "role": "Quantitative Researcher",
+    "type": "QR",
+    "location": "Chicago / New York",
+    "status": "open",
+    "link": "https://www.citadel.com/careers/",
+    "notes": "Markets, Equities, Fixed Income desks",
+    "posted": "2026-01"
+  },
+  {
+    "id": "j4",
+    "company": "Citadel Securities",
+    "role": "Quantitative Developer",
+    "type": "QD",
+    "location": "Chicago / London",
+    "status": "open",
+    "link": "https://www.citadelsecurities.com/careers/",
+    "notes": "C++ heavy, low-latency focus",
+    "posted": "2026-01"
+  },
+  {
+    "id": "j5",
+    "company": "Two Sigma",
+    "role": "Quantitative Research Associate",
+    "type": "QR",
+    "location": "New York",
+    "status": "open",
+    "link": "https://www.twosigma.com/careers/",
+    "notes": "Statistical modelling & ML",
+    "posted": "2026-02"
+  },
+  {
+    "id": "j6",
+    "company": "Two Sigma",
+    "role": "Quantitative Software Engineer",
+    "type": "SWE",
+    "location": "New York / Houston",
+    "status": "open",
+    "link": "https://www.twosigma.com/careers/",
+    "notes": "Python/C++, distributed systems",
+    "posted": "2026-02"
+  },
+  {
+    "id": "j7",
+    "company": "D.E. Shaw",
+    "role": "Quantitative Analyst",
+    "type": "QR",
+    "location": "New York",
+    "status": "rolling",
+    "link": "https://www.deshaw.com/careers/",
+    "notes": "Discretionary + systematic",
+    "posted": "Rolling"
+  },
+  {
+    "id": "j8",
+    "company": "Renaissance Technologies",
+    "role": "Research Analyst",
+    "type": "QR",
+    "location": "New York",
+    "status": "rolling",
+    "link": "https://careers.rentec.com/",
+    "notes": "PhD preferred, very selective",
+    "posted": "Rolling"
+  },
+  {
+    "id": "j9",
+    "company": "Virtu Financial",
+    "role": "Quantitative Researcher",
+    "type": "QR",
+    "location": "New York",
+    "status": "open",
+    "link": "https://www.virtu.com/careers/",
+    "notes": "Market making, execution research",
+    "posted": "2026-01"
+  },
+  {
+    "id": "j10",
+    "company": "Optiver",
+    "role": "Quantitative Researcher",
+    "type": "QR",
+    "location": "Amsterdam / Chicago",
+    "status": "open",
+    "link": "https://optiver.com/working-at-optiver/career-opportunities/",
+    "notes": "Options & vol focus",
+    "posted": "2026-02"
+  },
+  {
+    "id": "j11",
+    "company": "Optiver",
+    "role": "Software Engineer (Trading)",
+    "type": "SWE",
+    "location": "Amsterdam / Chicago / Sydney",
+    "status": "open",
+    "link": "https://optiver.com/working-at-optiver/career-opportunities/",
+    "notes": "Low-latency C++",
+    "posted": "2026-02"
+  },
+  {
+    "id": "j12",
+    "company": "IMC Trading",
+    "role": "Quantitative Researcher",
+    "type": "QR",
+    "location": "Amsterdam / Chicago",
+    "status": "open",
+    "link": "https://careers.imc.com/",
+    "notes": "Options market making",
+    "posted": "2026-01"
+  },
+  {
+    "id": "j13",
+    "company": "Jump Trading",
+    "role": "Quantitative Researcher",
+    "type": "QR",
+    "location": "Chicago / London",
+    "status": "rolling",
+    "link": "https://www.jumptrading.com/careers/",
+    "notes": "Very competitive, PhD focus",
+    "posted": "Rolling"
+  },
+  {
+    "id": "j14",
+    "company": "SIG",
+    "role": "Quantitative Trader",
+    "type": "QT",
+    "location": "Philadelphia",
+    "status": "rolling",
+    "link": "https://sig.com/open-positions/",
+    "notes": "Options trading, training programme",
+    "posted": "Rolling"
+  },
+  {
+    "id": "j15",
+    "company": "Hudson River Trading",
+    "role": "Algorithm Developer",
+    "type": "QD",
+    "location": "New York",
+    "status": "open",
+    "link": "https://www.hudsonrivertrading.com/careers/",
+    "notes": "C++/Python, cross-discipline",
+    "posted": "2026-01"
+  },
+  {
+    "id": "j16",
+    "company": "Millennium Management",
+    "role": "Quantitative Researcher",
+    "type": "QR",
+    "location": "New York / London",
+    "status": "rolling",
+    "link": "https://www.mlp.com/careers/",
+    "notes": "Multi-strat pod structure",
+    "posted": "Rolling"
+  },
+  {
+    "id": "j17",
+    "company": "AQR Capital",
+    "role": "Quantitative Research Associate",
+    "type": "QR",
+    "location": "Greenwich / London",
+    "status": "open",
+    "link": "https://careers.aqr.com/",
+    "notes": "Factor investing & alternatives",
+    "posted": "2026-02"
+  },
+  {
+    "id": "j18",
+    "company": "Man Group",
+    "role": "Quantitative Researcher",
+    "type": "QR",
+    "location": "London",
+    "status": "open",
+    "link": "https://www.man.com/careers",
+    "notes": "Man AHL/Numeric systematic",
+    "posted": "2026-01"
+  },
+  {
+    "id": "j19",
+    "company": "Squarepoint Capital",
+    "role": "Quantitative Developer",
+    "type": "QD",
+    "location": "London / New York",
+    "status": "rolling",
+    "link": "https://www.squarepoint-capital.com/careers",
+    "notes": "ML & systems dev",
+    "posted": "Rolling"
+  },
+  {
+    "id": "j20",
+    "company": "Cubist Systematic",
+    "role": "Quantitative Researcher",
+    "type": "QR",
+    "location": "New York",
+    "status": "open",
+    "link": "https://point72.com/cubist/",
+    "notes": "Point72's systematic arm",
+    "posted": "2026-01"
+  }
+]
