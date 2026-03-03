@@ -24,14 +24,15 @@
     "status": 0
   },
   {
+    //fixed link and lecture count
     "id": "c2",
     "subject": "Comp Sci",
     "institution": "MIT",
     "code": "MIT 6.0002",
     "name": "Introduction to Computational Thinking and Data Science",
     "source": "MIT OCW",
-    "link": "https://ocw.mit.edu/search/?q=Introduction+to+computational+thinking+and+data+sci",
-    "lectures": "0/?",
+    "link": "https://youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd&si=7TRZMhQ_QctCO8Dx",
+    "lectures": "0/15",
     "priority": "A",
     "status": 0
   },
