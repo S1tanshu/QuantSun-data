@@ -30,7 +30,8 @@
     "code": "MIT 6.0002",
     "name": "Introduction to Computational Thinking and Data Science",
     "source": "MIT OCW",
-    "link": "https://youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd&si=7TRZMhQ_QctCO8Dx",
+    "link":"https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/",
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd&si=7TRZMhQ_QctCO8Dx",
     "lectures": "0/15",
     "priority": "A",
     "status": 0
