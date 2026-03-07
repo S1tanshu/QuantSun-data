@@ -6,7 +6,7 @@
     "code": "MIT 6.042J",
     "name": "Mathematics for Computer Science",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+6.042J+Mathematics+for+Computer+Science,+Fall+2010",
+    "link": "https://youtube.com/playlist?list=PLB7540DEDD482705B&si=7KcscNhHMGVl6b76",
     "lectures": "25/25",
     "priority": "A",
     "status": 0
@@ -15,11 +15,11 @@
     "id": "c1",
     "subject": "Comp Sci",
     "institution": "MIT",
-    "code": "MIT 6.041",
+    "code": "MIT 6.041sc",
     "name": "Probability Systems Analysis and Applied Probability",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+6.041SC+Probabilistic+Systems+Analysis+and+Applied+Probability,+Fall+2013",
-    "lectures": "0/25",
+    "link": "https://youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe&si=d-c5CL0Zlmcd81GL",
+    "lectures": "0/76",
     "priority": "A",
     "status": 0
   },
@@ -43,8 +43,8 @@
     "code": "MCS202",
     "name": "Computer Organisation",
     "source": "NPTEL",
-    "link": "https://www.youtube.com/results?search_query=Computer+Sc+-+Computer+Organization",
-    "lectures": "4/33",
+    "link": "https://youtube.com/playlist?list=PL1A5A6AE8AFC187B7&si=P6u6eEb4S1hM5_OM",
+    "lectures": "0/33",
     "priority": "A",
     "status": 0
   },
@@ -52,11 +52,11 @@
     "id": "c4",
     "subject": "Comp Sci",
     "institution": "Carnegie Mellon",
-    "code": "447/MCS202",
+    "code": "18-447",
     "name": "Computer Architecture",
     "source": "Others",
-    "link": "https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq",
-    "lectures": "1/39",
+    "link": "https://youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&si=kmrjKVsQRNPWqdZ_",
+    "lectures": "0/39",
     "priority": "A",
     "status": 0
   },
@@ -67,8 +67,8 @@
     "code": "MIT 18.086",
     "name": "Mathematical Methods for Engineers",
     "source": "MIT OCW",
-    "link": "https://ocw.mit.edu/search/?q=MIT+18.086+Mathematical+methods+for+engineers",
-    "lectures": "0/?",
+    "link": "https://youtube.com/playlist?list=PL3A13781649466805&si=OAFtElegUjWvyDTv",
+    "lectures": "0/29",
     "priority": "B",
     "status": 0
   },
@@ -79,8 +79,8 @@
     "code": "MIT 18.S191",
     "name": "Introduction to Computational Thinking",
     "source": "MIT OCW",
-    "link": "https://ocw.mit.edu/search/?q=Introduction+to+computational+thinking",
-    "lectures": "0/?",
+    "link": "https://youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0&si=nZE0AiPtY_cSTuYn",
+    "lectures": "0/25",
     "priority": "B",
     "status": 0
   },
@@ -91,7 +91,7 @@
     "code": "CS 109",
     "name": "Introduction to Probability for Computer Scientists",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Stanford+CS109+Introduction+to+Probability+for+Computer+Scientists+2022+Chris+Piech",
+    "link": "https://youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg&si=G87EcfMgmrupXC6P",
     "lectures": "0/29",
     "priority": "A",
     "status": 0
@@ -103,8 +103,8 @@
     "code": "CS 110",
     "name": "Principles of Computer Systems",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Stanford+CS110+Principles+of+Computer+Systems",
-    "lectures": "0/?",
+    "link": "https://youtube.com/playlist?list=PL9o9lNrP1luVQoR25mdOPP2yKyhNLLK0W&si=HZPumZBiRRMceDN5",
+    "lectures": "0/38",
     "priority": "B",
     "status": 0
   },
@@ -115,7 +115,7 @@
     "code": "CS 149",
     "name": "Parallel Computing",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Stanford+CS149+Parallel+Computing+2023",
+    "link": "https://youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp&si=6niJc7sHFUUGv3Hd",
     "lectures": "0/19",
     "priority": "B",
     "status": 0
@@ -127,7 +127,7 @@
     "code": "CS 224",
     "name": "Advanced Algorithms",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Advanced+Algorithms+COMPSCI+224",
+    "link": "https://youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf&si=SO0PniTWhx5aYJV4",
     "lectures": "0/25",
     "priority": "A",
     "status": 0
@@ -444,6 +444,21 @@
     "priority": "B",
     "status": 0
   },
+
+   {
+    "id": "ml13",
+    "subject": "Machine Learning",
+    "institution": "Udacity",
+    "code": "ML for trading",
+    "name": "Machine Learning for Trading",
+    "source": "Youtube",
+    "link": "https://youtube.com/playlist?list=PLAwxTw4SYaPnIRwl6rad_mYwEk4Gmj7Mx&si=ckisSv6foO7EBafN",
+    "lectures": "0/218",
+    "priority": "B",
+    "status": 0
+  },
+
+  
   {
     "id": "p0",
     "subject": "Programming",
@@ -607,8 +622,8 @@
     "code": "C++ Finance",
     "name": "C++ for Finance",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=C+++for+finance",
-    "lectures": "0/?",
+    "link": "https://youtube.com/playlist?list=PLDkrNO-iQ9O4cLL0_jIIOwsXsQqfUXyQy&si=V0jIRtzktY40WT08",
+    "lectures": "0/205",
     "priority": "A",
     "status": 0
   },
@@ -751,8 +766,8 @@
     "code": "MIT 18.01",
     "name": "Single Variable Calculus",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+18.01+Single+Variable+Calculus+Fall+2006",
-    "lectures": " 1/35",
+    "link": "https://youtube.com/playlist?list=PLm0X8hqw4lIp2qV8KkMgdK4Jr3P04wANy&si=juRaRgKi9l11rAX8",
+    "lectures": " 0/122",
     "priority": "A",
     "status": 0
   },
@@ -799,8 +814,8 @@
     "code": "MIT 18.06",
     "name": "Linear Algebra",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+18.06SC+Linear+Algebra+Fall+2011",
-    "lectures": "70/70",
+    "link": "https://youtube.com/playlist?list=PL221E2BBF13BECF6C&si=Pg-red_7rM9-HUgR",
+    "lectures": "0/74",
     "priority": "A",
     "status": 0
   },
@@ -895,8 +910,8 @@
     "code": "Harvard 110",
     "name": "Probability and Distributions (Statistics 110)",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Statistics+110+Probability+Harvard",
-    "lectures": "14/35",
+    "link": "https://youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&si=31eOp_93Bte9sU3u",
+    "lectures": "0/35",
     "priority": "A",
     "status": 0
   },
@@ -1123,8 +1138,8 @@
     "code": "Econ 252",
     "name": "Financial Markets (Robert Shiller)",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Financial+Markets+2011+with+Robert+Shiller",
-    "lectures": "23/23",
+    "link": "https://youtube.com/playlist?list=PL8FB14A2200B87185&si=aZqD4mnjpr5zu9pi",
+    "lectures": "0/23",
     "priority": "A",
     "status": 0
   },
@@ -1135,8 +1150,8 @@
     "code": "Econ 159",
     "name": "Game Theory",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Game+Theory+Yale+ECON+159",
-    "lectures": "24/24",
+    "link": "https://youtube.com/playlist?list=PL6EF60E1027E1A10B&si=kjSQThE2TvkmzFid",
+    "lectures": "0/24",
     "priority": "A",
     "status": 0
   },
