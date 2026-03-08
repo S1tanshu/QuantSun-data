@@ -773,13 +773,13 @@
       },
       {
         "n": 2,
-        "title": "Lecture - 2 Introduction To System : Software",
+        "title": "Lecture - 2 Introduction To System: Software",
         "videoId": "VG9VopzV_T0",
         "ps": false
       },
       {
         "n": 3,
-        "title": "Lecture - 3 Introduction To System : Hardware",
+        "title": "Lecture - 3 Introduction To System: Hardware",
         "videoId": "FOyuMclwymw",
         "ps": false
       },
@@ -803,7 +803,7 @@
       },
       {
         "n": 7,
-        "title": "Lecture - 7 Data Path Controller : Micro Programmed",
+        "title": "Lecture - 7 Data Path Controller: Micro Programmed",
         "videoId": "fo-yfZyrW4c",
         "ps": false
       },
@@ -851,7 +851,7 @@
       },
       {
         "n": 15,
-        "title": "Lecture 15 - Inroduction to memory system",
+        "title": "Lecture 15 - Introduction to memory system",
         "videoId": "tas2eUavhRE",
         "ps": false
       },
@@ -965,8 +965,8 @@
       }
     ]
   },
-  
-"c4": {
+
+ "c4": {
     "playlistUrl": "https://youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&si=kmrjKVsQRNPWqdZ_",
     "notesPage": "",
     "psets": [],
@@ -1207,7 +1207,6 @@
       }
     ]
   },
-
   
   "c5": {
     "playlistUrl": "https://youtube.com/playlist?list=PL3A13781649466805&si=OAFtElegUjWvyDTv",
