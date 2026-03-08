@@ -758,5 +758,1497 @@
         "ps": true
       }
     ]
+  },
+{
+  "c3": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL1A5A6AE8AFC187B7&si=P6u6eEb4S1hM5_OM",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture - 1 Introduction To Computing",
+        "videoId": "leWKvuZVUE8",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture - 2 Introduction To System : Software",
+        "videoId": "VG9VopzV_T0",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture - 3 Introduction To System : Hardware",
+        "videoId": "FOyuMclwymw",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture - 4 Processor Activities",
+        "videoId": "Zm1saVDpS7g",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture - 5 Processor As a State Machine",
+        "videoId": "piuWSMLNeco",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture - 6 Data Path Architecture",
+        "videoId": "ceuXLsuZhLE",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture - 7 Data Path Controller : Micro Programmed",
+        "videoId": "fo-yfZyrW4c",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture - 8 State Machine Design",
+        "videoId": "hg2QxXeI_-8",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture - 9 Controller Design: Microprogrammed and Hardwired",
+        "videoId": "6CCwWCstDGc",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture - 10 Controller Design (Contd)",
+        "videoId": "QmVX73K_hyo",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture - 11 Typical Micro Instructions",
+        "videoId": "UYv36HV3Sng",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture - 12 Addressing Modes",
+        "videoId": "p9wxyIx-j-c",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture - 13 Problem Exercise",
+        "videoId": "F5pU5LbmLVg",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture - 14 Problem Exercise",
+        "videoId": "hhvl7nbVpLo",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 15 - Inroduction to memory system",
+        "videoId": "tas2eUavhRE",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture - 16 CPU - Memory Interaction",
+        "videoId": "mAK9KklkRYY",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture - 17 Cache Organization",
+        "videoId": "VcO3ja6WS2E",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture - 18 Cache Organization",
+        "videoId": "Opp-annh9sg",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture - 19 Virtual Memory",
+        "videoId": "e9w_XERZ2UM",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture - 20  Virtual Memory",
+        "videoId": "3ye2OXj32DM",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture - 21 Performance Calculation",
+        "videoId": "8s4b8mYCMAE",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture - 22 Segmentation",
+        "videoId": "HWwNTWY1rxo",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture - 23 Address Translation and Protection",
+        "videoId": "G0rbpTX_ytE",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture - 24 Programmed I/O",
+        "videoId": "aGvMubj8NXk",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 25 - Interrupt Driven I/O",
+        "videoId": "C02weCM9yWA",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture - 26 DMA : Direct Memory Access",
+        "videoId": "3RfqkVyvnnc",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture - 27 Device Service Routines",
+        "videoId": "XIFbPXcG2W4",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture - 28 Evolution Of I/O",
+        "videoId": "Zsr8kODwr08",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lecture 29 - I/O devices",
+        "videoId": "AtfXJ0PNesk",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lecture 30 - I/O Devices - Contd",
+        "videoId": "pW5QK6Fp8-g",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lecture 31 - Buses",
+        "videoId": "fYl2PoGoQWY",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lecture 32 - Buses Contd",
+        "videoId": "29SNQooq5wM",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Lecture - 33 Conclusion",
+        "videoId": "ZKBLirP5jo8",
+        "ps": false
+      }
+    ]
+  },
+  
+  {
+  "c4": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&si=kmrjKVsQRNPWqdZ_",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 1. Introduction and Basics - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "zLP_X4wyHbY",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 2. Fundamental Concepts and ISA - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "NpC39uS4K4o",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 3. ISA Tradeoffs  - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "QKdiZSfwg-g",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 4. ISA Tradeoffs & MIPS ISA - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "RBgeCCW5Hjs",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Review Session 1 - CMU - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "Z1jsJKAlWjw",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 5. Intro to Microarchitecture - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "qJmTZwzf1L4",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 6. Microarchitecture II - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "b4Dl85FVSok",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 7. Pipelining  - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "dKXbONPqBNY",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 8. Pipelining II: Data and Control Dependence Handling - CMU - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "2Sa55D_Ve4U",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 9. Branch Prediction I - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "CkOPbj5KhP8",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 10. Branch Prediction II - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "NCUDEgLfC_I",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Review Session 2 - CMU - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "y94DjKHPYVk",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 11. Precise Exceptions, State Maintenance/Recovery - CMU - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "nMfbtzWizDA",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 12. Out of Order Execution - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "P-mXr9adbCc",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 13. Out of Order Execution II and Data Flow - CMU - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "z0EknfZdlIs",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 14. SIMD (Vector Processors) - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "oGwvMk5re3Y",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 15. GPUs, VLIW, Execution Models - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "U8K13P6loyk",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 16. Static Instruction Scheduling - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "isBEVkIjgGA",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 17. Memory Hierarchy and Caches - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "AXf_C5qOm8o",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 18. Caches - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "4_Z07m8tf6k",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 19. High Performance Caches - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "jDHx2K9HxlM",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 20. Virtual Memory - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "2RhGMpY18zw",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Recitation 3  - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "cIhExOjdFPI",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Midterm 1 Review  - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "tXIO8JNwCi0",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 21: Main Memory and the DRAM System - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "IUk9o9wvX1Y",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture 22: Memory Controllers - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "tpQPN01i3GA",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture 23: Memory Management - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "WQL2yMciD2M",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture 24: Simulation & Memory Latency Tolerance - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "RKyCrSUjd-Q",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lecture 25: Prefetching - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "ibPL7T9iEwY",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lecture 26. More Prefetching and Emerging Memory Technologies - CMU - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "TUFins4z6o4",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lecture 27. Multiprocessors - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "PhUo1IMo6UU",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lecture 28. Memory Consistency and Cache Coherence - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "JfjT1a0vi4E",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Lecture 29. Cache Coherence - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "X6DZchnMYcw",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Lecture 30. In-memory Processing - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "r9HbMrb98CQ",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Lecture 31. Predictable Performance - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "gQvaT_AU0Gg",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Lecture 32. Heterogeneous Systems - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "MB_mzk4dACo",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Midterm 2 Review - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "B2PPyATuSvs",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Lecture 33. Interconnection Networks - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "93CVEOXM3T4",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Final Review Session - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "5Oi7tvYE7fI",
+        "ps": false
+      }
+    ]
+  },
+
+  {
+  "c5": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL3A13781649466805&si=OAFtElegUjWvyDTv",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lec 1 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "gv-AB35V2k8",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lec 2 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "nlO9ci0kPLg",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lec 3 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "dxNyJxI_2eI",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lec 4 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "HHwDX-3IPT0",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lec 5 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "0aa6fUHTTeU",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "6. Wave Profiles, Heat Equation / point source",
+        "videoId": "ZPmBMd6OZeQ",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lec 7 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "ByGXz_uHEdM",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lec 8 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "FrrTXj13DNk",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lec 9 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "sleOqiMUTXE",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lec 10 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "NpTzMWTYbM8",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lec 11 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "ZpOJJk6en2o",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lec 12 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "r1-r1t5i58g",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lec 13 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "S6dw885-SZI",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lec 14 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "pEuuJ5E7ZS0",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lec 15 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "LtNVodIs1dI",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lec 16 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "XPo4dHK48Nw",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lec 17 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "Y25UBGeu_2g",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lec 18 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "vIydsgrYGIY",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lec 19 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "zha1744fTRs",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lec 20 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "kyx2QgGkEpc",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lec 21 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "7dVYOOHB4g4",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lec 22 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "zIK5EnoiLL0",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lec 23 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "94nmfDkTL-E",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lec 24 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "c9XosfcouiM",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lec 25 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "j-C6QC5ufSw",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lec 26 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "xzUOJ-uQ8F0",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lec 27 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "iVUsEwSg-lw",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lec 28 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "fpwsw7SdkyY",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lec 29 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "NEsObJTwDXI",
+        "ps": false
+      }
+    ]
+  },
+{
+  "c6": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0&si=nZE0AiPtY_cSTuYn",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Course Welcome + Intro to Arrays & Images! MIT Computational Thinking Spring 2021 | Lecture 1",
+        "videoId": "3zTO3LEY-cM",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Transforming Images , MIT Computational Thinking Spring 2021 | Lecture 2",
+        "videoId": "uZYVjDDZW9A",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Transformations & AutoDiff | Lecture 3 | MIT Computational Thinking Spring 2021",
+        "videoId": "AAREeuaKCic",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Transformations 2: Composability and Linearity | MIT Computational Thinking Spring 2021 | Lecture 4",
+        "videoId": "VDPf3RjoCpY",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Inverses and Newton method | MIT Computational Thinking Spring 2021 | Lecture 5",
+        "videoId": "Wjcx9sNSLP8",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Dynamic Programming and Seam Carving | MIT Computational Thinking Spring 2021 | Lecture 6",
+        "videoId": "KyBXJV1zFlo",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Structure | MIT Computational Thinking Spring 2021 | Lecture 7",
+        "videoId": "wZrVxbmX218",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Principal Component Analysis | MIT Computational Thinking | Spring 2021 | Lecture 8",
+        "videoId": "iuKrM_NzxCk",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Sampling and random variables | MIT Computational Thinking Spring | Lecture 9",
+        "videoId": "7HrpoFZzITI",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Modeling with stochastic simulation | MIT Computational Thinking Spring 2021 | Lecture 10",
+        "videoId": "d8BohH76C7E",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Random variables as types | MIT Computational Thinking Spring 2021 | Lecture 11",
+        "videoId": "xKAO38UsXo0",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Random walks I | MIT Computational Thinking Spring 2021 | Lecture 12",
+        "videoId": "WLQ1l75jSwU",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Random walks II | MIT Computational Thinking Spring | Lecture 13",
+        "videoId": "pIAFHyLmwbM",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Discrete & Continuous | MIT Computational Thinking Spring 2021 | Lecture 14",
+        "videoId": "H6Dcx3YeTkE",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Linear models and simulations | MIT Computational Thinking Spring 2021 | Lecture 15",
+        "videoId": "O6NTKsR8TjQ",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Optimization | MIT Computational Thinking Spring 2021 | Lecture 16",
+        "videoId": "44RA9fclTdA",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Time stepping and differential equations | MIT Computational Thinking Spring 2021 | Lecture 17",
+        "videoId": "3Y5gVyO8KcI",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Libraries & parameterized types | MIT Computational Thinking Spring 2021 | Lecture 18",
+        "videoId": "S71YIZ8e7MQ",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Why can't we predict the weather? | MIT Computational Thinking Spring 2021 | Lecture 19",
+        "videoId": "M3udLzIHtsc",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "A first climate model | MIT Computational Thinking Spring 2021 | Lecture 20",
+        "videoId": "J1UsMa1cTeE",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "How to collaborate on software | MIT Computational Thinking Spring 2021 | Lecture 21",
+        "videoId": "7N9Vvc8amGM",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Snowball Earth and hysteresis | MIT Computational Thinking Spring 2021 | Lecture 22",
+        "videoId": "cdIgr_2nUvI",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Advection and diffusion: PDEs in 1D | MIT Computational Thinking Spring 2021 | Lecture 23",
+        "videoId": "Xb-iUwXI78A",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Resistors, stencils and climate models | MIT Computational Thinking Spring 2021 | Lecture 24",
+        "videoId": "DdTWgBlDgr0",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Modeling climate change | MIT Computational Thinking Spring 2021 | Lecture 25",
+        "videoId": "nm86_hDwYTU",
+        "ps": false
+      }
+    ]
+  },
+  
+{
+  "c7": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg&si=G87EcfMgmrupXC6P",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Stanford CS109 Probability for Computer Scientists I Counting I 2022 I Lecture 1",
+        "videoId": "2MuDZIAzBMY",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Stanford CS109 Probability for Computer Scientists I Combinatorics I 2022 I Lecture 2",
+        "videoId": "ag4Ei15CG0c",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Stanford CS109 Probability for Computer Scientists I What is Probability? I 2022 I Lecture 3",
+        "videoId": "EGgMCE2AgyU",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Stanford CS109 I Conditional Probability and Bayes I 2022 I Lecture 4",
+        "videoId": "NHRoXvPaZqY",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Stanford CS109 Probability for Computer Scientists I Independence I 2022 I Lecture 5",
+        "videoId": "zTJDZ2wmaRU",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Stanford CS109 I Random Variables and Expectation I 2022 I Lecture 6",
+        "videoId": "8QCg2ur-3fo",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Stanford CS109 Probability for Computer Scientists I Variance Bernoulli Binomial I 2022 I Lecture 7",
+        "videoId": "I2UBspTNAG0",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Stanford CS109 Probability for Computer Scientists I Poisson I 2022 I Lecture 8",
+        "videoId": "QV3IRiG6dVs",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Stanford CS109 Probability for Computer Scientists I Continuous Random Variables I 2022 I Lecture 9",
+        "videoId": "OFgBn4rQkqc",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Stanford CS109 Probability for Computer Scientists I Normal Distribution I 2022 I Lecture 10",
+        "videoId": "rpB_NNXiWlM",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Stanford CS109 Probability for Computer Scientists I Joint Distributions I 2022 I Lecture 11",
+        "videoId": "8Il2M7kbQSc",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Stanford CS109 Probability for Computer Scientists I Inference I 2022 I Lecture 12",
+        "videoId": "fvgQBAsg5Zo",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Stanford CS109 Probability for Computer Scientists I Inference II I 2022 I Lecture 13",
+        "videoId": "d0ImA7m4BEg",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Stanford CS109 Probability for Computer Scientists I Modelling I 2022 I Lecture 14",
+        "videoId": "q9lk8l8P-E4",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Stanford CS109 Probability for Computer Scientists I General Inference I 2022 I Lecture 15",
+        "videoId": "c0QGjtu9GZg",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Stanford CS109 Probability for Computer Scientists I Beta I 2022 I Lecture 16",
+        "videoId": "aOhk9mFrHdU",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Stanford CS109 Probability for Computer Scientists I Adding Random Variables I 2022 I Lecture 17",
+        "videoId": "UEyHbI9FRtM",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Stanford CS109 I Central Limit Theorem I 2022 I Lecture 18",
+        "videoId": "6Q9wT6JGMMM",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Stanford CS109 Probability for Computer Scientists I Bootstraping and P-Values  I 2022 I Lecture 19",
+        "videoId": "NXJwyPT1vsc",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Stanford CS109 I Algorithmic Analysis I 2022 I Lecture 20",
+        "videoId": "Ht9yUPtppwY",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Stanford CS109 Probability for Computer Scientists I M.L.E. I 2022 I Lecture 21",
+        "videoId": "utFEufMXHgw",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Stanford CS109 Probability for Computer Scientists I  M.A.P. I 2022 I Lecture 22",
+        "videoId": "sL1zOr-P4xc",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Stanford CS109 Probability for Computer Scientists I Naive Bayes I 2022 I Lecture 23",
+        "videoId": "yqF3DvDVpvw",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Stanford CS109 Probability for Computer Scientists I Logistic Regression I 2022 I Lecture 24",
+        "videoId": "ILqZWvDWKEc",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Stanford CS109 I Deep Learning I 2022 I Lecture 25",
+        "videoId": "MSfI6TTgyl4",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Stanford CS109 I Fairness I 2022 I Lecture 26",
+        "videoId": "cbzwbr5H_LA",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Stanford CS109 I Advanced Probability I 2022 I Lecture 27",
+        "videoId": "BquE8Z9htws",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Stanford CS109 I Future of Probability I 2022 I Lecture 28",
+        "videoId": "SoXygq5LtiM",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Stanford CS109 Probability for Computer Scientists I Counting I 2022 I Lecture 29",
+        "videoId": "yyKSsjRt42o",
+        "ps": false
+      }
+    ]
+  },
+{
+  "c8": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL9o9lNrP1luVQoR25mdOPP2yKyhNLLK0W&si=HZPumZBiRRMceDN5",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "CoSc 330 5thEd Lecture 1",
+        "videoId": "3XipSI9ZzJA",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "CoSc 330 5thEd Lecture 2",
+        "videoId": "0hHK_5b_DNw",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "CoSc 330 5thEd Lecture 3",
+        "videoId": "7vdJVBI3e1I",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "CoSc 330 5thEd Lecture 4",
+        "videoId": "LffmRoKN8uY",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "CoSc 330 5thEd Lecture 5",
+        "videoId": "cYTbZhSoeNM",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "CoSc 330 5thEd Lecture 6",
+        "videoId": "76oHeNqRNXk",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "CoSc 330 5thEd Lecture 7",
+        "videoId": "ufCuH8cjbvo",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "CoSc 330 5thEd Lecture 8",
+        "videoId": "FJohfDGU4IU",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "CoSc 330 5thEd Lecture 9",
+        "videoId": "Au_h2c4Bpqs",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "CoSc 330 5thEd Lecture 10",
+        "videoId": "eGvFNXKB7Ds",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "CoSc 330 5thEd Lecture 11",
+        "videoId": "lq2xlYgPqGc",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "CoSc 330 5thEd Lecture 12",
+        "videoId": "iyqhlsstPxY",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "CoSc 330 5thEd Lecture 13",
+        "videoId": "isptNktMppY",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "CoSc 330 5thEd Lecture 14",
+        "videoId": "2k8ETMpQv-k",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "CoSc 330 5thEd Lecture 15",
+        "videoId": "u-oDwAWeF4w",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "CoSc 330 5thEd Lecture 16",
+        "videoId": "FGrmwk_096I",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "CoSc 330 5thEd Lecture 17",
+        "videoId": "3HmVyH96Q9c",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "CoSc 330 5thEd Lecture 18",
+        "videoId": "p7jq7gxC0KU",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "CoSc 330 5thEd Lecture 19",
+        "videoId": "NFNQj72NA2k",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "CoSc 330 5thEd Lecture 20",
+        "videoId": "VdZbpSYeofE",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "CoSc 330 5thEd Lecture 21",
+        "videoId": "fN5B-jY6dhk",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "CoSc 330 5thEd Lecture 22",
+        "videoId": "3aK_MlNv8UU",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "CoSc 330 5thEd Lecture 23",
+        "videoId": "rG8HoR07EbY",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "CoSc 330 5thEd Lecture 24",
+        "videoId": "PlDnRjWOHpw",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "CoSc 330 5thEd Lecture 25",
+        "videoId": "C4cRmJmrLmI",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "CoSc 330 5thEd Lecture 26",
+        "videoId": "xkmvrolic4c",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "CoSc 330 5thEd Lecture 27",
+        "videoId": "SC0O2FcW89U",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "CoSc 330 5thEd Lecture 28",
+        "videoId": "8jH578YIND4",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "CoSc 330 5thEd Lecture 29",
+        "videoId": "FYWpFn4urcw",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "CoSc 330 5thEd Lecture 30",
+        "videoId": "EDL-cbfbGmU",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "CoSc 330 5thEd Lecture 31",
+        "videoId": "O0GZsRhXM_s",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "CoSc 330 5thEd Lecture 32",
+        "videoId": "Q3Goq5S8ykU",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "CoSc 330 5thEd Lecture 33",
+        "videoId": "w88enBZxd7o",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "CoSc 330 5thEd Lecture 34",
+        "videoId": "Oa1-14hp4gw",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "CoSc 330 5thEd Lecture 35",
+        "videoId": "kuWKJ3xV_-8",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "CoSc 330 5thEd Lecture 36",
+        "videoId": "UD9gYkA5yr8",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "CoSc 330 5thEd Lecture 37",
+        "videoId": "uKk2xxTz3qU",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "CoSc 330 5thEd Lecture 38",
+        "videoId": "h7sed7eOAUI",
+        "ps": false
+      }
+    ]
+  },
+
+  {
+  "c9": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp&si=6niJc7sHFUUGv3Hd",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 1 - Why Parallelism? Why Efficiency?",
+        "videoId": "V1tINV2-9p4",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 2 - A Modern Multi-Core Processor",
+        "videoId": "CKmNpAO5rS4",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Stanford CS149 I 2023 I Lecture 3 - Multi-core Arch Part II + ISPC Programming Abstractions",
+        "videoId": "F4bVSyz_jxo",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 4 - Parallel Programming Basics",
+        "videoId": "0-ztm8SKq70",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Stanford CS149 I 2023 I Lecture 5 - Performance Optimization I: Work Distribution and Scheduling",
+        "videoId": "mmO2Ri_dJkk",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Stanford CS149 I Lecture 6 - Performance Optimization II: Locality, Communication, and Contention",
+        "videoId": "Mhdny2JNhmc",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 7 - GPU architecture and CUDA Programming",
+        "videoId": "qQTDF0CBoxE",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 8 - Data-Parallel Thinking",
+        "videoId": "Ba3TqxSgnTk",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Stanford CS149 I 2023 I Lecture 9 - Distributed Data-Parallel Computing Using Spark",
+        "videoId": "jaMWmLq422U",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 10 - Efficiently Evaluating DNNs on GPUs",
+        "videoId": "qbKtU0X6-WU",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 11 - Cache Coherence",
+        "videoId": "lrCfG2CPDEw",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 12 - Memory Consistency",
+        "videoId": "nFXWmo9MFiY",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Stanford CS149 I 2023 I Lecture 13 - Fine-Grained Synchronization and Lock-Free Programming",
+        "videoId": "GA1ObImqaMo",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 14 - Midterm Review",
+        "videoId": "nHPKVtLz5Ko",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 15 - Domain Specific Programming Languages",
+        "videoId": "sRuyBNxCkGQ",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 16 - Transactional Memory 1",
+        "videoId": "rFFf3WIJ7BA",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 17 - Transactional Memory 2",
+        "videoId": "Tbk1vnYLQqI",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 18 - Hardware Specialization",
+        "videoId": "2tAb3EgyjNw",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 19 - Accessing Memory + Course Wrap Up",
+        "videoId": "J7v_ubArrno",
+        "ps": false
+      }
+    ]
+  },
+
+  {
+  "c10": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf&si=SO0PniTWhx5aYJV4",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 1",
+        "videoId": "0JUN9aDxVmI",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 2",
+        "videoId": "3_o0-zPRQqw",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 3",
+        "videoId": "WqBc0ZCU4Uw",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 4",
+        "videoId": "edOWKZE1t84",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 5",
+        "videoId": "rLMikQTOVnI",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 6",
+        "videoId": "gxp_FrgTkQI",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 7",
+        "videoId": "LbX51mey3vo",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 8",
+        "videoId": "aHW6HKVC-SY",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 9",
+        "videoId": "KBVkri8k3Ao",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 10",
+        "videoId": "Jsg9TwLRTbM",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 11",
+        "videoId": "vnS9_NKoEKI",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 12",
+        "videoId": "2Gl-yNso0_0",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 13",
+        "videoId": "VuM1WnwEMRQ",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 15",
+        "videoId": "U7158Q-2rJc",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 16",
+        "videoId": "4A5LiJpPDRw",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 17",
+        "videoId": "PPCnYiTpbCo",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 18",
+        "videoId": "kqt1YV9dEoE",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 19",
+        "videoId": "R9mT5CtdHLg",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 20",
+        "videoId": "TdTFYVjzs1I",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 21",
+        "videoId": "rfTt7k6Nv-I",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 22",
+        "videoId": "HFqO_8Eoc1U",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 23",
+        "videoId": "nDLe6_sPSfs",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 24",
+        "videoId": "GAKpnKLnJtc",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 25",
+        "videoId": "M42rQM0vC4g",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 26",
+        "videoId": "DpxNW0T8CWg",
+        "ps": false
+      }
+    ]
   }
 }
+  
