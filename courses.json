@@ -295,7 +295,7 @@
     "code": "MIT 6.034",
     "name": "Artificial Intelligence",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+6.034+Artificial+Intelligence+Fall+2010",
+    "link": "https://youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&si=jUhsTwjIis3vdQhY",
     "lectures": "0/30",
     "priority": "A",
     "status": 0
@@ -307,8 +307,8 @@
     "code": "MIT 6.S191",
     "name": "Introduction to Deep Learning",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+6.S191+Introduction+to+Deep+Learning",
-    "lectures": "0/80",
+    "link": "https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=UhKsAVoikD2_rHUG",
+    "lectures": "0/81",
     "priority": "A",
     "status": 0
   },
@@ -316,11 +316,11 @@
     "id": "ml2",
     "subject": "Machine Learning",
     "institution": "MIT",
-    "code": "MIT 6.s866",
-    "name": "Machine Learning for Healthcare",
+    "code": "MIT 15.773",
+    "name": "Hands on Deep Learning",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+6.S897+Machine+Learning+for+Healthcare+Spring+2019",
-    "lectures": "0/25",
+    "link": "https://youtube.com/playlist?list=PLUl4u3cNGP60YyhMjYmXuVmX562QcClSp&si=sOXnTHjoaTn_qs_E",
+    "lectures": "0/11",
     "priority": "B",
     "status": 0
   },
@@ -331,7 +331,7 @@
     "code": "MIT 6.867",
     "name": "Machine Learning (MIT)",
     "source": "MIT OCW",
-    "link": "https://ocw.mit.edu/search/?q=MIT+6.867+machine+learning",
+    "link": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/lecture-notes/",
     "lectures": "0/24",
     "priority": "A",
     "status": 0
@@ -343,7 +343,7 @@
     "code": "CS 221",
     "name": "Artificial Intelligence: Principles and Techniques",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Stanford+CS221+Artificial+Intelligence+Principles+and+Techniques+Autumn+2019",
+    "link": "https://youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&si=KDHVWQYqK19yF3-h",
     "lectures": "0/19",
     "priority": "A",
     "status": 0
@@ -353,9 +353,9 @@
     "subject": "Machine Learning",
     "institution": "Stanford",
     "code": "CS 229",
-    "name": "Machine Learning (Andrew Ng 2018)",
+    "name": "Machine Learning (Anand Avati 2019)",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Stanford+CS229+Machine+Learning+Full+Course+Andrew+Ng+Autumn+2018",
+    "link": "https://youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&si=fp_igsDcAseg6pFz",
     "lectures": "0/20",
     "priority": "A",
     "status": 0
@@ -367,8 +367,8 @@
     "code": "CS 234",
     "name": "Reinforcement Learning",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Stanford+CS234+Reinforcement+Learning+Spring+2024+Emma+Brunskill",
-    "lectures": "0/16",
+    "link": "https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&si=5MHCdqCh-k2J0mkj",
+    "lectures": "0/15",
     "priority": "A",
     "status": 0
   },
@@ -391,7 +391,7 @@
     "code": "MIT 9.13",
     "name": "The Human Brain",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+9.13+The+Human+Brain+Spring+2019",
+    "link": "https://youtube.com/playlist?list=PLpXfHEl2fzl6JWpKGs4w2X2laduGk9xY3&si=TNrMUnmvuH3RyqhE",
     "lectures": "0/17",
     "priority": "C",
     "status": 0
@@ -403,7 +403,7 @@
     "code": "MIT 9.40",
     "name": "Introduction to Neural Computation",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+9.40+Introduction+to+Neural+Computation+Spring+2018",
+    "link": "https://youtube.com/playlist?list=PLUl4u3cNGP61I4aI5T6OaFfRK2gihjiMm&si=xW6xPcWD_KDywEqt",
     "lectures": "0/20",
     "priority": "B",
     "status": 0
@@ -427,7 +427,7 @@
     "code": "CS 224N",
     "name": "NLP with Deep Learning",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Stanford+CS224N+Natural+Language+Processing+with+Deep+Learning+2023",
+    "link": "https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&si=Zut2qPGNKQ9zNKmM",
     "lectures": "0/23",
     "priority": "B",
     "status": 0
@@ -456,9 +456,7 @@
     "lectures": "0/218",
     "priority": "B",
     "status": 0
-  },
-
-  
+  }, 
   {
     "id": "p0",
     "subject": "Programming",
