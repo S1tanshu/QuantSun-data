@@ -2247,6 +2247,1022 @@
     ]
   },
 
+  "c11": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLjG2IDGftWft9Y11xC0sfgeT5jyTJqB-i&si=0cMQ6ZhLF8HMhTzD",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1 computing",
+        "videoId": "YzKmKcBHogg",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2 curriculum",
+        "videoId": "SrXZPzgJ3Jc",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "4 proofs",
+        "videoId": "FSf7KnMR4Is",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "5 DFA Overview",
+        "videoId": "-PJY5bHl_HA",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "6 DFA",
+        "videoId": "mQqB7KER3r8",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "7 DFAClosure1",
+        "videoId": "VDUs9g6rU7E",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "8 NFA",
+        "videoId": "n_EG8J-VFJ4",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "9 NFA2DFA",
+        "videoId": "AsAb2BiUw8c",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "10 DFA Closure2",
+        "videoId": "ukk9ZL3_Ff4",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "11 RegExp",
+        "videoId": "9NMfJNDoZhQ",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "12 pumping",
+        "videoId": "4XRR3UurDoQ",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "13 minimizingDFA",
+        "videoId": "WzrXOMw_cEI",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "14 Myhill Nerpde",
+        "videoId": "BJOABHS_OuM",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "15 learning DFA",
+        "videoId": "85QZN45-CoQ",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "16 Streaming",
+        "videoId": "0xXV1jALAdQ",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "17 CC",
+        "videoId": "6iNbuivj1ZA",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "18 TM overview",
+        "videoId": "DRBDcMAB2qg",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "19 TM",
+        "videoId": "dope-PGUbUM",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "20 TM variants",
+        "videoId": "Fz1hBSZC5mY",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "21 Universal TM",
+        "videoId": "hFbnLn4bD58",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "22 counting argument",
+        "videoId": "T0RJqD_yTLs",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "23 concrete undecidable",
+        "videoId": "S3bYfIAdEmM",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "24 mapping reductions",
+        "videoId": "_0163dZIBvw",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "25 rices theorem",
+        "videoId": "KHMyz1pAWg8",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "26 oracle reductions",
+        "videoId": "-EBYph6R1eI",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "27 self reference",
+        "videoId": "vUHmltEPXIk",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "28 logic",
+        "videoId": "KBhoU7sfR3k",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "29 Kolmogorov Complexity",
+        "videoId": "PwNIDjc9cYc",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "30 complexity overview",
+        "videoId": "r6lW-3Rttb0",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "31 time complexity",
+        "videoId": "SqG_D1Mp5CY",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "32 NP",
+        "videoId": "ioq7srEOWvw",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "33 poly time reductions",
+        "videoId": "mYwVCePIzG8",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "34 Cook Levin",
+        "videoId": "-lLBjGmVqNY",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "35 more NPC",
+        "videoId": "Ds5LKk73oZQ",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "36 co NP",
+        "videoId": "LbLP_wIAJe4",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "37 polynomial hierarchy",
+        "videoId": "IS1A0N1EF2o",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "38 space complexity",
+        "videoId": "fvNeT3n8Ubk",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "39 Proofs++",
+        "videoId": "1XF9V-5YrIE",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "40 Algorithmic Fairness",
+        "videoId": "YjRS91Mv-f4",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "41 Randomness",
+        "videoId": "jmSSkC7yVog",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "42 Parting thoughts",
+        "videoId": "gt_pqWJy210",
+        "ps": false
+      }
+    ]
+  },
+
+  "c12": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC&si=bUiHgbzizspg02AZ",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "CS162 Lecture 1: What is an Operating System?",
+        "videoId": "pPzVV2kkGHc",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "CS162 Lecture 2: Four Fundamental OS Concepts",
+        "videoId": "4FpG1DcvHzc",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "CS162 Lecture 3: Abstractions 1: Threads and Processes",
+        "videoId": "QSep-J6vtdc",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "CS162 Lecture 4: Abstractions 2: Files and I/O",
+        "videoId": "WHmmT_syaG8",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "CS162 Lecture 5: Abstractions 3: IPC, Pipes and Sockets",
+        "videoId": "MKcSCaP0ZrQ",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "CS162: Lecture 6: Synchronization 1: Concurrency and Mutual Exclusion",
+        "videoId": "5uyGn147rr0",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "CS162: Lecture 6.5: Concurrency and Mutual Exclusion (Supplemental)",
+        "videoId": "utYC2tKDdoQ",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "CS162 Lecture 7: Synchronization 2: Semaphores (Con't), Lock Implementation, Atomic Instructions",
+        "videoId": "gRX-YxdFQzk",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "CS162 Lecture 8: Synchronization 3: Atomic Instructions (Con't), Monitors, Readers/Writers",
+        "videoId": "yqsqjqLGMe4",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "CS162 Lecture 9: Synchronization 4: Monitors and Readers/Writers (Con't), Process Structure",
+        "videoId": "snp580kqCto",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "CS162 Lecture 10: Scheduling 1: Concepts and Classic Policies",
+        "videoId": "U7P4FbrraYs",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "CS162 Lecture 11: Scheduling 2: Case Studies, Real Time, and Forward Progress",
+        "videoId": "v388OYBkfME",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "CS162 Lecture 12: Scheduling 3: Deadlock",
+        "videoId": "FDwJ6EW4dCM",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "CS162 Lecture 13: Memory 1: Address Translation and Virtual Memory",
+        "videoId": "1SJeLcI8otk",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "CS162 Lecture 14: Memory 2: Virtual Memory (Con't), Caching and TLBs",
+        "videoId": "aaCeY4YCCmM",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "CS162 Lecture 15: Memory 3: Caching and TLBs (Con't), Demand Paging",
+        "videoId": "IBgkKX6DUTM",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "CS162 Lecture 16: Memory 4: Demand Paging Policies",
+        "videoId": "THoYkBItSkk",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "CS162 Lecture 17: Demand Paging (Finished), General I/O, Storage Devices",
+        "videoId": "5pXaixRmj8U",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "CS162 Lecture 18: General I/O (Con't), Storage Devices, Performance",
+        "videoId": "obZ3HQaDly4",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "CS162 Lecture 19: Filesystems 1: Performance (Con't), Queueing Theory, Filesystem Design",
+        "videoId": "CrpLw5s2HQs",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "CS162 Lecture 20: Filesystems 2: Filesystem Design (Con't), Filesystem Case Studies",
+        "videoId": "9UQza7XNt6M",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "CS162 Lecture 21: Filesystems 3: Case Studies (Con't), Buffering, Reliability, and Transactions",
+        "videoId": "NpM0n6xBbrA",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "CS162 Lecture 22: Transactions (Con't), End-to-End Arguments, Distributed Decision Making",
+        "videoId": "50IU9PwlKas",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "CS162 Lecture 23: Distributed Decision Making (Con't), Networking and TCP/IP",
+        "videoId": "DDmExpQj1VI",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "CS162 Lecture 24: Networking and TCP/IP (Con't), RPC, Distributed File Systems",
+        "videoId": "nKqqtV-33k0",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "CS162 Lecture 25: Distributed Storage, NFS and AFS, Key Value Stores",
+        "videoId": "ROq0rGmR3GE",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "CS162 Lecture 26 (Optional): Key Value Stores (Con't), Chord, DataCapsules, Quantum Computing",
+        "videoId": "cgsU5R5dY2Y",
+        "ps": false
+      }
+    ]
+  },
+
+  "c13": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4&si=lHS0IFiEFRLFxhR0",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Algorithmic Game Theory (Lecture 1: Introduction and Examples)",
+        "videoId": "TM_QFmQU_VA",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Algorithmic Game Theory (Lecture 2: Mechanism Design Basics)",
+        "videoId": "z1QZqYuiGa8",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Algorithmic Game Theory (Lecture 3: Myerson's Lemma)",
+        "videoId": "9qZwchMuslk",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Algorithmic Game Theory (Lecture 4: Algorithmic Mechanism Design)",
+        "videoId": "BMoSLmuJsak",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Algorithmic Game Theory (Lecture 5: Revenue-Maximizing Auctions)",
+        "videoId": "jQsAoMcxlIo",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Algorithmic Game Theory (Lecture 6: Simple Near-Optimal Auctions)",
+        "videoId": "DkZswYeJLRE",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Algorithmic Game Theory (Lecture 7: Multi-Parameter Mechanism Design and the VCG Mechanism)",
+        "videoId": "TLl3FVXPVIY",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Algorithmic Game Theory (Lecture 8: Combinatorial and Wireless Spectrum Auctions)",
+        "videoId": "TttPqjl991A",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Algorithmic Game Theory (Lecture 9: Beyond Quasi-Linearity)",
+        "videoId": "zV6yH3-AdEg",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Algorithmic Game Theory (Lecture 10: Kidney Exchange and Stable Matching)",
+        "videoId": "NT07sILhsv4",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Algorithmic Game Theory (Lecture 11: Selfish Routing and the Price of Anarchy)",
+        "videoId": "jnLEEr3pc4Y",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Algorithmic Game Theory (Lecture 12: Network Over-Provisioning and Atomic Selfish Routing)",
+        "videoId": "JUc5BbotCVA",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Algorithmic Game Theory (Lecture 13: Potential Games; A Hierarchy of Equilibria)",
+        "videoId": "aV16MDoRZoc",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Algorithmic Game Theory (Lecture 14: Robust Price-of-Anarchy Bounds in Smooth Games)",
+        "videoId": "eYd7VxtITrE",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Algorithmic Game Theory (Lecture 15: Best-Case and Strong Nash Equilibria)",
+        "videoId": "VjCKNl-GENI",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Algorithmic Game Theory (Lecture 16: Best-Response Dynamics)",
+        "videoId": "QOCmIDzOcJA",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Algorithmic Game Theory (Lecture 17: No-Regret Dynamics)",
+        "videoId": "ssAEgJKRe9o",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Algorithmic Game Theory (Lecture 18: From External Regret to Swap Regret and the Minimax Theorem)",
+        "videoId": "XQ32p6clz9k",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Algorithmic Game Theory (Lecture 19: Pure Nash Equilibria and PLS-Completeness)",
+        "videoId": "5xu8C0wj7UU",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Algorithmic Game Theory (Lecture 20: Mixed Nash Equilibria and PPAD-Completeness)",
+        "videoId": "P8adJn_KQO0",
+        "ps": false
+      }
+    ]
+  },
+
+  "c14": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx&si=Mj0_lYKY_OWw-ro3",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Meet the Educator",
+        "videoId": "MOdNzHR_tck",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Course Design and Orienting Students with the \"V Model\"",
+        "videoId": "Wc0PmAIEUhM",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Teaching the Class as a Small Private Online Course (SPOC)",
+        "videoId": "aiSpEUZzP0A",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Engaging Students in the Design Process through the CanSat Competition",
+        "videoId": "v6eIvQ9wU1w",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Learning from CanSat Examples",
+        "videoId": "4hYgHHC-5z8",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Ideal Team Size for the CanSat Competition",
+        "videoId": "rh9ggz7vyM8",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Team Charters",
+        "videoId": "7IqUQUic5cI",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Assessing Student Work Completed as Teams",
+        "videoId": "-Km2237G0P8",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Teaching with Concept Questions",
+        "videoId": "RsOCnszziDA",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Online Written and Oral Exams",
+        "videoId": "3_vcJ6l7b8Y",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Reflective Memos",
+        "videoId": "Gv3fPjWiQhs",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "2. Requirements Definition",
+        "videoId": "J_y2I09rj_I",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "3. Systems Modeling Languages",
+        "videoId": "CTVFDb44ses",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "4. System Architecture and Concept Generation",
+        "videoId": "ScbSrUSbumo",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "5. Concept Selection and Tradespace Exploration",
+        "videoId": "sOkQ4HBmZXo",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "6. Design Definition and Multidisciplinary Optimization",
+        "videoId": "d44SDevJYR0",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "7. Miscellaneous Topics — MBSE and Introduction to CAD",
+        "videoId": "dv8Dbyfcrd4",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "8. Systems Integration and Interface Management",
+        "videoId": "9AtMQqCBdhw",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "9. Verification and Validation",
+        "videoId": "-63JXElqPaY",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "10. Commissioning and Operations",
+        "videoId": "rpGJsC5INd4",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "11. Lifecycle Management",
+        "videoId": "b0VqqwHLqcI",
+        "ps": false
+      }
+    ]
+  },
+  
+  "c15": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf&si=Mb5qwOB2A7RMNHvl",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1. Introduction and Matrix Multiplication",
+        "videoId": "o7h_sYMk_oc",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2. Bentley Rules for Optimizing Work",
+        "videoId": "H-1-X9bkop8",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "3. Bit Hacks",
+        "videoId": "ZusiKXcz_ac",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "4. Assembly Language & Computer Architecture",
+        "videoId": "L1ung0wil9Y",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "5. C to Assembly",
+        "videoId": "wt7a5BOztuM",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "6. Multicore Programming",
+        "videoId": "dx98pqJvZVk",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "7. Races and Parallelism",
+        "videoId": "a_R_DpsENfk",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "8. Analysis of Multithreaded Algorithms",
+        "videoId": "6I26_r1BKd8",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "9. What Compilers Can and Cannot Do",
+        "videoId": "ulJm7_aTiQM",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "10. Measurement and Timing",
+        "videoId": "LvX3g45ynu8",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "11. Storage Allocation",
+        "videoId": "nmMUUuXhk2A",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "12. Parallel Storage Allocation",
+        "videoId": "d5e_YJGXXFU",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "13. The Cilk Runtime System",
+        "videoId": "Z7r4aAZ9Vqo",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "14. Caching and Cache-Efficient Algorithms",
+        "videoId": "xDKnMXtZKq8",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "15. Cache-Oblivious Algorithms",
+        "videoId": "xwE568oVQ1Y",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "16. Nondeterministic Parallel Programming",
+        "videoId": "mXkPCaZUXhg",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "17. Synchronization Without Locks",
+        "videoId": "5sZo3SrLrGA",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "18. Domain Specific Languages and Autotuning",
+        "videoId": "bd-mavr5YlA",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "19. Leiserchess Codewalk",
+        "videoId": "euO8bqSW_Ow",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "20. Speculative Parallelism & Leiserchess",
+        "videoId": "gyaqXwi4BDk",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "21. Tuning a TSP Algorithm",
+        "videoId": "SS5KfIFzfEE",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "22. Graph Optimization",
+        "videoId": "IT_4fw6gfJw",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "23. High Performance in Dynamic Languages",
+        "videoId": "6JcMuFgnA6U",
+        "ps": false
+      }
+    ]
+  },
+
+  "c16": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&si=1Ls2jJa8jhsGFa0t",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 1: Introduction",
+        "videoId": "cQP8WApzIQQ",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 2: RPC and Threads",
+        "videoId": "gA4YXUJX7t8",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 3: GFS",
+        "videoId": "EpIgvowZr00",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 4: Primary-Backup Replication",
+        "videoId": "M_teob23ZzY",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 5: Go, Threads, and Raft",
+        "videoId": "UzzcUS2OHqo",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 6: Fault Tolerance: Raft (1)",
+        "videoId": "64Zp3tzNbpE",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 7: Fault Tolerance: Raft (2)",
+        "videoId": "4r8Mz3MMivY",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 8: Zookeeper",
+        "videoId": "pbmyrNjzdDk",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 9: More Replication, CRAQ",
+        "videoId": "IXHzbCuADt0",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 10: Cloud Replicated DB, Aurora",
+        "videoId": "jJSh54J1s5o",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 11: Cache Consistency: Frangipani",
+        "videoId": "-pKNCjUhPjQ",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 12: Distributed Transactions",
+        "videoId": "aDp99WDIM_4",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 13: Spanner",
+        "videoId": "4eW5SWBi7vs",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 14: Optimistic Concurrency Control",
+        "videoId": "Cw6Nj2evjSs",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 15: Big Data: Spark",
+        "videoId": "mzIoSW-cInA",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 16: Cache Consistency: Memcached at Facebook",
+        "videoId": "Myp8z0ybdzM",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 17: COPS, Causal Consistency",
+        "videoId": "fR_NB714EAI",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 18: Fork Consistency, Certificate Transparency",
+        "videoId": "UKdLJ7-0iFM",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 19: Bitcoin",
+        "videoId": "K_euhRou98Y",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 20: Blockstack",
+        "videoId": "XvXK_vZ0BNw",
+        "ps": false
+      }
+    ]
+  },
+
+  "c17": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL4d5ZtfQonW3iAhXvTYCnoGEeRhxhKHMc&si=64z1C6pe_b3VSmvz",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Information Theory, Lecture 1: Defining Entropy and Information - Oxford Mathematics 3rd Yr Lecture",
+        "videoId": "ScX2aBFyrVU",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Information Theory, Lecture 2: Basic Properties of Information - 3rd Year Student Lecture",
+        "videoId": "dnEG3vYoMow",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Information Theory, Lecture 3: Introducing Codes - Oxford Mathematics 3rd Year Student Lecture",
+        "videoId": "9KknYY33alA",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Information Theory, Lecture 4: Typical sequences - Oxford Mathematics 3rd Year Student Lecture",
+        "videoId": "xeNVrE2t3M4",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Information Theory, Lecture 5: Optimal codes and block coding - 3rd Year Student Lecture",
+        "videoId": "CBC1ngWVrHE",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Information Theory, Lecture 6: Shannon’s code - Oxford Mathematics 3rd Year Student Lecture",
+        "videoId": "iiA8b-IWfkU",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Information Theory, Lecture 7: Huffman and Arithmetic codes - Oxford Mathematics 3rd Year Lecture",
+        "videoId": "y9jUqbSJF2U",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Information Theory, Lecture 8: Tunstall’s code - Oxford Mathematics 3rd Year Student Lecture",
+        "videoId": "Xd0YBQUre4w",
+        "ps": false
+      }
+    ]
+  },
+  
   "f1": {
     "playlistUrl": "https://youtube.com/playlist?list=PL8FB14A2200B87185&si=aZqD4mnjpr5zu9pi",
     "notesPage": "",
@@ -2393,6 +3409,908 @@
     ]
   },
 
+  "c18": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLDEN2FPNHwVZKAFqfFl1b_NNAESTJwV9o&si=pTfRehvMusSpgmYT",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 1",
+        "videoId": "QJCKwTOKjQQ",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 2",
+        "videoId": "3Km0-5zy21I",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 3 Part 1",
+        "videoId": "q_V6bVoJw44",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 3 Part 2",
+        "videoId": "lQYOgusNfPg",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 4",
+        "videoId": "WxN0kFSEDZ8",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 5 Part 1",
+        "videoId": "fWKtQ6Gc2Yc",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 5 Part 2",
+        "videoId": "e1lK7XeIlQ4",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 6 Part 1",
+        "videoId": "2-7oxCJLsJU",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 6 Part 2",
+        "videoId": "4H3_Bu8d5zc",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 7 Part 1",
+        "videoId": "jmIckFcvp9s",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 7 Part 2",
+        "videoId": "qpUced8qLSk",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 8 Part 1",
+        "videoId": "p7LZyYZ5MB4",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 8 part 2",
+        "videoId": "ZWO0aZo5WIg",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 9 Part 1",
+        "videoId": "LLmZVrJkNVA",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 9 Part 2",
+        "videoId": "7-vJ5o75cvc",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 10 Part 1",
+        "videoId": "c97IT14Lu6Y",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 10 Part 2",
+        "videoId": "RqrRjFdUMNQ",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 11 Epilogue",
+        "videoId": "DVAFSWYsCCg",
+        "ps": false
+      }
+    ]
+  },
+
+  "c19": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLwdnzlV3ogoVOBjwmNLnTN8fTWHy3wNOq&si=4GRUPuFsG-w8Fu1U",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Randomized Algorithms [Intro Video]",
+        "videoId": "uiArBfjtIAw",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 1: Introduction to Randomized Algorithms",
+        "videoId": "rfAHeilGWoE",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 2: Randomized Mincut Algorithm",
+        "videoId": "Kiz4OufHkjg",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 3: Randomized Find",
+        "videoId": "FcQBZUe95TU",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 4: Probability Review",
+        "videoId": "oCWhUqVt3kQ",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 5: Expectation of Random Variables",
+        "videoId": "WHY-hZay_rc",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lec 6: Conditional Probability and Conditional Expectation2",
+        "videoId": "EC-bPnr-c68",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lec 7: Birthday Paradox",
+        "videoId": "Xh_UVOByt6s",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 8: Markov and Chebychev's Inequalities",
+        "videoId": "uNWvNFS_Nu4",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 9: Median Algorithm",
+        "videoId": "Wo5sBYiaGns",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 10: Chernoff Bound",
+        "videoId": "c6TmsAgsYbE",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lec 11: Permutation Routing on a Hypercube",
+        "videoId": "hS7LbYHP4JE",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lec 12: Permutation Routing on a Hypercube(Analysis)",
+        "videoId": "iwhx2smcaXc",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lec 13: Introduction to Probabilistic Method",
+        "videoId": "bV20gCQm8MQ",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lec 14: More Examples on Probabilistic Method",
+        "videoId": "2Ck1Cv23q2E",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lec 15: Lovasz Local Lemma",
+        "videoId": "iRLRvwO5z2Q",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lec 16: Introduction to Markov Chains",
+        "videoId": "m_BspKtRTJs",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lec 17:  2-SAT and Markov Chains",
+        "videoId": "vE4TdrDVUPw",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lec 18:  3-SAT and Markov Chains",
+        "videoId": "kj0MVNDl9YI",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lec 19: Electrical Networks",
+        "videoId": "cHIpsUkA4DY",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lec 20: Cover Time",
+        "videoId": "YOX7SAvJYX0",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lec 21: Rapid Mixing",
+        "videoId": "5PeF334JdBo",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lec 22: Introduction to Computational Complexity",
+        "videoId": "M7Wt8rIL6SQ",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lec 23: Pratt's Certificate",
+        "videoId": "JGcGgBDTYvU",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lec 24: Primality Testing",
+        "videoId": "A1h5uf0nGGc",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lec 25: Miller Rabin Algorithm",
+        "videoId": "0NXcD5mpoUg",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lec 26: All pair shortest path-I",
+        "videoId": "1czxd0CULlw",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lec 27: All pair shortest path-II",
+        "videoId": "q-OVoFUkCC4",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lec 28: Randomized MST",
+        "videoId": "5IVMDrgBE90",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lec 29: Introduction to approximate counting",
+        "videoId": "NYsFvYaT5_8",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lec 30: DNF counting",
+        "videoId": "mSclSWDtG-8",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lec 31: Perfect Matching-I",
+        "videoId": "JK3_cGWkulc",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Lec 32: Perfect Matching-II",
+        "videoId": "h4aQjHL63Kg",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Lec 33: Perfect Matching-III",
+        "videoId": "PP_FPWSApGY",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Lec 34: Treaps",
+        "videoId": "V0VDll0R2Hk",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Lec 35: Hashing",
+        "videoId": "2LpVcSARjyE",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Lec 36: Probabilistically checkable proofs - I",
+        "videoId": "fgO21OhDom8",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Lec 37: Probabilistically checkable proofs - II",
+        "videoId": "0NNTf9ieWGw",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Lec 38: Probabilistically checkable proofs - III",
+        "videoId": "3zpGLUB2zpk",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Lec 39: LFKN Protocol",
+        "videoId": "8Q8itrVzZnw",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Lec 40: Summary",
+        "videoId": "dVp9CBOXPX8",
+        "ps": false
+      }
+    ]
+  },
+
+  "c20": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLyqSpQzTE6M8XNc8SxMLbUxdR7lDSuIGw&si=M_CtqGMmGk6kV6h6",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Optimization Theory and Algorithms - Introduction",
+        "videoId": "BMdLYXKZZtE",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Introduction to the course - 1 - Prerequisites, key elements",
+        "videoId": "LlP-lcV9ARo",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Introduction to the course - 2 - Types of problems",
+        "videoId": "xju3O5PCjyg",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Introduction to the course - 3 - an optimization example to live longer",
+        "videoId": "zpilLHCrBJI",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Summary of background material  - Linear Algebra 1",
+        "videoId": "QD4h03UaQB0",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Summary of background material  - Linear Algebra II",
+        "videoId": "RAlwafbfEWo",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Summary of background material -  Analysis I",
+        "videoId": "FfheLC-laYo",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Summary of background material  - Analysis II",
+        "videoId": "_epZpuk-2Ds",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Summary of background material - Analysis III",
+        "videoId": "NgGE9g2bEIM",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Summary of background material - Calculus 1",
+        "videoId": "WHLKINW-zUE",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Summary of background material - Calculus 2",
+        "videoId": "-H6GT0tjfC4",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Summary of background material - Calculus 3",
+        "videoId": "qwGE6I9Jg7Y",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Example of Multivariate Differentiation",
+        "videoId": "-JnIIr8M3eA",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Gradient of Quadratic form and product rule",
+        "videoId": "Szz82xWGF9Y",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Directional derivative, hessian, and mean value theorem",
+        "videoId": "freaaiSNV_Q",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Unconstrained optimization -1- Roadmap of the course and Taylor’s theorem",
+        "videoId": "Ya93bjd_DcY",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Unconstrained optimization - 2 - Identifying a local minima - 1st and 2nd order conditions",
+        "videoId": "xDzpVbq37uU",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Unconstrained optimization - 3 - Proof of 1st Order Condition",
+        "videoId": "jnUvK4Xe1As",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Unconstrained optimization - 4 - overview of algorithms and choosing a descent direction",
+        "videoId": "_bNufP6704w",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Unconstrained optimization - 5 - properties of descent directions   steepest descent direction",
+        "videoId": "Ir9Eq2A8jxA",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Unconstrained optimization - 6 - properties of descent directions   newton direction",
+        "videoId": "5oGwV--eDNM",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Unconstrained optimization - 7 - Trust Region Methods",
+        "videoId": "5UhkfGVQqiA",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "A MATLAB session",
+        "videoId": "XNEp8xDBic0",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Introduction to Line Search",
+        "videoId": "E0oiq-ZGi_g",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Wolfe Conditions",
+        "videoId": "HdEE2sgak9Q",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Strong Wolfe Conditions",
+        "videoId": "K34BkqPhi1Q",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Backtracking Line Search",
+        "videoId": "UDgLspZRfqE",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Line Search - Analysis",
+        "videoId": "6ohtSgl7Dzs",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Line Search - Convergence and Rate  - 1",
+        "videoId": "lxkVpSL795E",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Line Search - Convergence and Rate - 2",
+        "videoId": "MDnQF-aP-UE",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Convergence analysis of a descent algorithm - 1",
+        "videoId": "fQF_k7hoekc",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Convergence analysis of a descent algorithm - 2",
+        "videoId": "EDrrrbaLsNg",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Implementation of an optimization algorithm in MATLAB",
+        "videoId": "16ukiLfsWR0",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Conjugate Gradient Methods - Introduction and Proof",
+        "videoId": "UIsjsGIqs_4",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Visualizing Quadratic Forms",
+        "videoId": "sQTv8azo0LI",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Orthogonality and Conjugacy",
+        "videoId": "xUp5CNGp7WI",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Conjugate Directions Method - Introduction and Proof",
+        "videoId": "llxywBiJ4Cs",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Discussion on doubts",
+        "videoId": "MPmin_EVx08",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "More on Conjugate Directions Method",
+        "videoId": "WFDbw7Py0Yw",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Ways of Generating Conjugate Directions",
+        "videoId": "aukm4slm8tc",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Expanding Subspace Theorem",
+        "videoId": "DILaiviunz4",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Discussion on doubts",
+        "videoId": "B7tVE5MfyVE",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "Conjugate Gradient Method",
+        "videoId": "t-bNXpTWtwE",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "MATLAB implementation on CGM",
+        "videoId": "LAdSIEIgKrg",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "Discussion on doubts",
+        "videoId": "MFHmGQIFoaY",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "Preconditioned Conjugate Gradient - Part 1",
+        "videoId": "spVxMlbN_8M",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "Preconditioned Conjugate Gradient - Part 2",
+        "videoId": "p61xa9I_fWo",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "Preconditioned Conjugate Gradient - Part 3",
+        "videoId": "iUHVAZO8xH0",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "Non Linear Conjugate Gradient method",
+        "videoId": "EhmGe-gW_Mc",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "Intro to Newton methods",
+        "videoId": "fg50XtiaW9s",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "Newton methods and convergence",
+        "videoId": "-e7WtK1obJ4",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "Checks for positive definite matrices",
+        "videoId": "hX-78ESCXeA",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "Hessian Modification",
+        "videoId": "RO-_TXJU87c",
+        "ps": false
+      },
+      {
+        "n": 54,
+        "title": "Quasi newton methods",
+        "videoId": "IcQzcs2Houc",
+        "ps": false
+      },
+      {
+        "n": 55,
+        "title": "BFGS method",
+        "videoId": "NeRQIuHg5io",
+        "ps": false
+      },
+      {
+        "n": 56,
+        "title": "Least squares problems",
+        "videoId": "20dwxzg_eiU",
+        "ps": false
+      },
+      {
+        "n": 57,
+        "title": "Linear least squares - Part 1",
+        "videoId": "c33o23bsQzs",
+        "ps": false
+      },
+      {
+        "n": 58,
+        "title": "Linear least squares - Part 2",
+        "videoId": "souOzfExIZI",
+        "ps": false
+      },
+      {
+        "n": 59,
+        "title": "Solving least squares using SVD",
+        "videoId": "rvVUyCwXpwM",
+        "ps": false
+      },
+      {
+        "n": 60,
+        "title": "Non linear least squares",
+        "videoId": "mhqFfzRw3NQ",
+        "ps": false
+      },
+      {
+        "n": 61,
+        "title": "Constrained Optimisation",
+        "videoId": "aQqznCCauIo",
+        "ps": false
+      },
+      {
+        "n": 62,
+        "title": "Single equality constraint",
+        "videoId": "p4tUZz73uSA",
+        "ps": false
+      },
+      {
+        "n": 63,
+        "title": "Single inequality constraint",
+        "videoId": "Yj7JSu3K_7I",
+        "ps": false
+      },
+      {
+        "n": 64,
+        "title": "Single inequality constraint - part 2",
+        "videoId": "rsSc9Jc1ihg",
+        "ps": false
+      },
+      {
+        "n": 65,
+        "title": "Two inequality constraints example",
+        "videoId": "wcmzAaKi_lk",
+        "ps": false
+      },
+      {
+        "n": 66,
+        "title": "Linearised feasible directions",
+        "videoId": "BwFlDt_uXT4",
+        "ps": false
+      },
+      {
+        "n": 67,
+        "title": "Feasible sequences and tangent cone",
+        "videoId": "gHTj-m6eWmg",
+        "ps": false
+      },
+      {
+        "n": 68,
+        "title": "LICQ conditions",
+        "videoId": "i0tfy-G9QCo",
+        "ps": false
+      },
+      {
+        "n": 69,
+        "title": "KKT conditions (First order necessary conditions)",
+        "videoId": "YGHZmo-m_Z0",
+        "ps": false
+      },
+      {
+        "n": 70,
+        "title": "Proof sketch for KKT conditions - Part 1",
+        "videoId": "KPMIgO9As9o",
+        "ps": false
+      },
+      {
+        "n": 71,
+        "title": "Proof sketch for KKT conditions - Part 2",
+        "videoId": "1BoLwZ-s25o",
+        "ps": false
+      },
+      {
+        "n": 72,
+        "title": "Introduction to Projected gradient descent",
+        "videoId": "2mNkeTWWN6k",
+        "ps": false
+      },
+      {
+        "n": 73,
+        "title": "Projected gradient descent and proof of convergence",
+        "videoId": "J1D58-cxFWE",
+        "ps": false
+      },
+      {
+        "n": 74,
+        "title": "Proof of convergence - Part 2",
+        "videoId": "KOGUBj02lMI",
+        "ps": false
+      },
+      {
+        "n": 75,
+        "title": "Subgradients and Subdifferential",
+        "videoId": "oQuJSNUQZBw",
+        "ps": false
+      },
+      {
+        "n": 76,
+        "title": "Projection onto l1 ball",
+        "videoId": "_R4MtygMDV8",
+        "ps": false
+      },
+      {
+        "n": 77,
+        "title": "Soft thresholding example",
+        "videoId": "NR-2mQ5U34c",
+        "ps": false
+      },
+      {
+        "n": 78,
+        "title": "Recap of Projection onto l1 ball",
+        "videoId": "vHdxWPJKTKc",
+        "ps": false
+      },
+      {
+        "n": 79,
+        "title": "KKT and duality introduction",
+        "videoId": "O9cV11Z_VGQ",
+        "ps": false
+      },
+      {
+        "n": 80,
+        "title": "Intuition of duality and dual problem",
+        "videoId": "r5itGJ-VbS0",
+        "ps": false
+      },
+      {
+        "n": 81,
+        "title": "Proof of concavity of the dual problem",
+        "videoId": "aOD7kC68WZI",
+        "ps": false
+      },
+      {
+        "n": 82,
+        "title": "Proof of concavity of the dual problem - Part 2",
+        "videoId": "83VQNr8dKc4",
+        "ps": false
+      },
+      {
+        "n": 83,
+        "title": "Proof of concavity of the dual problem - Part 3",
+        "videoId": "Bw5N9sFGWiA",
+        "ps": false
+      }
+    ]
+  },
+  
+  "c21": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLy6XYfx2fDJ-1nbvL-2YRhKil2nfk0Xn1&si=nXolT6EAu94LQ8oN",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Data Engineering Course for Beginners",
+        "videoId": "PHsC_t0j1dU",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Database Design Course - Learn how to design and plan a database for beginners",
+        "videoId": "ztHopE5Wnpc",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Data Engineering with Python and AI/LLMs – Data Loading Tutorial",
+        "videoId": "T23Bs75F7ZQ",
+        "ps": false
+      }
+    ]
+  },
+  
   "f2": {
     "playlistUrl": "https://youtube.com/playlist?list=PL6EF60E1027E1A10B&si=kjSQThE2TvkmzFid",
     "notesPage": "",
@@ -2400,7 +4318,7 @@
     "lectures": [
       {
         "n": 1,
-        "title": "1. Introduction: five first lessons",
+        "title": "1. Introduction: first five lessons",
         "videoId": "nM3rTU927io",
         "ps": false
       },
