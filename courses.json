@@ -764,7 +764,7 @@
     "code": "MIT 18.01",
     "name": "Single Variable Calculus",
     "source": "MIT OCW",
-    "link": "https://youtube.com/playlist?list=PLm0X8hqw4lIp2qV8KkMgdK4Jr3P04wANy&si=juRaRgKi9l11rAX8",
+    "link": "https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/",
     "lectures": " 0/122",
     "priority": "A",
     "status": 0
@@ -776,7 +776,7 @@
     "code": "MIT 18.02",
     "name": "Multivariable Calculus",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+18.02+Multivariable+Calculus+Fall+2007",
+    "link": "https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/pages/lecture-notes/",
     "lectures": "0/35",
     "priority": "A",
     "status": 0
@@ -788,7 +788,7 @@
     "code": "MIT 18.03",
     "name": "Differential Equations",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+18.03+Differential+Equations+Spring+2006",
+    "link": "https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/lecture-notes/",
     "lectures": "0/33",
     "priority": "A",
     "status": 0
@@ -800,8 +800,8 @@
     "code": "MIT 18.05",
     "name": "Introduction to Probability and Statistics",
     "source": "MIT OCW",
-    "link": "https://ocw.mit.edu/search/?q=MIT+18.05+probability+statistics",
-    "lectures": "0/?",
+    "link": "https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/",
+    "lectures": "0/27",
     "priority": "A",
     "status": 0
   },
@@ -812,7 +812,7 @@
     "code": "MIT 18.06",
     "name": "Linear Algebra",
     "source": "MIT OCW",
-    "link": "https://youtube.com/playlist?list=PL221E2BBF13BECF6C&si=Pg-red_7rM9-HUgR",
+    "link": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/",
     "lectures": "0/74",
     "priority": "A",
     "status": 0
@@ -821,11 +821,11 @@
     "id": "m5",
     "subject": "Mathematics",
     "institution": "MIT",
-    "code": "MIT",
-    "name": "Discrete Mathematics",
+    "code": "18.200",
+    "name": "Principals of Discrete Applied Mathematics",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Discrete+Mathematics+Full+Course",
-    "lectures": "0/?",
+    "link": "https://ocw.mit.edu/courses/18-200-principles-of-discrete-applied-mathematics-spring-2024/lists/lecture-notes/",
+    "lectures": "0/20",
     "priority": "A",
     "status": 0
   },
@@ -836,7 +836,7 @@
     "code": "MIT 6.262",
     "name": "Discrete Stochastic Processes",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+6.262+Discrete+Stochastic+Processes+Spring+2011",
+    "link": "https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/pages/course-notes/",
     "lectures": "0/25",
     "priority": "A",
     "status": 0
@@ -848,7 +848,7 @@
     "code": "NPTEL",
     "name": "Theory of Probability and Applications",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Mathematics+Probability+Theory+and+Applications+NPTEL",
+    "link": "https://youtube.com/playlist?list=PLbMVogVj5nJQWowhOG0-K-yI-bwRRmm3C&si=FNifQvTZCJDfmnoi",
     "lectures": "0/40",
     "priority": "A",
     "status": 0
@@ -860,8 +860,8 @@
     "code": "MIT 18.175",
     "name": "Theory of Probability",
     "source": "MIT OCW",
-    "link": "https://ocw.mit.edu/search/?q=MIT+18.175+theory+of+probability",
-    "lectures": "0/?",
+    "link": "https://ocw.mit.edu/courses/18-175-theory-of-probability-spring-2014/pages/lecture-slides/",
+    "lectures": "0/39",
     "priority": "A",
     "status": 0
   },
@@ -872,7 +872,7 @@
     "code": "MIT 18.065",
     "name": "Matrix Methods in Data Analysis, Signal Processing and ML",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+18.065+Matrix+Methods+in+Data+Analysis+Signal+Processing+Machine+Learning+Spring+2018",
+    "link": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/pages/readings/",
     "lectures": "0/36",
     "priority": "A",
     "status": 0
@@ -884,8 +884,8 @@
     "code": "NPTEL",
     "name": "Nonlinear Programming",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Nonlinear+Programming+Prof+S.K.+Gupta+NPTEL",
-    "lectures": "0/20",
+    "link": "https://ocw.mit.edu/courses/15-084j-nonlinear-programming-spring-2004/pages/lecture-notes/",
+    "lectures": "0/21",
     "priority": "B",
     "status": 0
   },
@@ -896,7 +896,7 @@
     "code": "MIT 6.252J",
     "name": "Nonlinear Programming (MIT)",
     "source": "MIT OCW",
-    "link": "https://ocw.mit.edu/search/?q=MIT+6.252J+nonlinear+programming",
+    "link": "https://ocw.mit.edu/courses/6-252j-nonlinear-programming-spring-2003/pages/lecture-notes/",
     "lectures": "0/?",
     "priority": "B",
     "status": 0
