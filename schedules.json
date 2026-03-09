@@ -5873,6 +5873,1518 @@
     ]
   },
 
+  "ml0": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&si=jUhsTwjIis3vdQhY",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1. Introduction and Scope",
+        "videoId": "TjZBTDzGeGg",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2. Reasoning: Goal Trees and Problem Solving",
+        "videoId": "PNKj529yY5c",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "3. Reasoning: Goal Trees and Rule-Based Expert Systems",
+        "videoId": "leXa7EKUPFk",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "4. Search: Depth-First, Hill Climbing, Beam",
+        "videoId": "j1H3jAAGlEA",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "5. Search: Optimal, Branch and Bound, A*",
+        "videoId": "gGQ-vAmdAOI",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "6. Search: Games, Minimax, and Alpha-Beta",
+        "videoId": "STjW3eH0Cik",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "7. Constraints: Interpreting Line Drawings",
+        "videoId": "l-tzjenXrvI",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "8. Constraints: Search, Domain Reduction",
+        "videoId": "dARl_gGrS4o",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "9. Constraints: Visual Object Recognition",
+        "videoId": "gvmfbePC2pc",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "10. Introduction to Learning, Nearest Neighbors",
+        "videoId": "09mb78oiPkA",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "11. Learning: Identification Trees, Disorder",
+        "videoId": "SXBG3RGr_Rc",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "12a: Neural Nets",
+        "videoId": "uXt8qF2Zzfo",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "12b: Deep Neural Nets",
+        "videoId": "VrMHA3yX_QI",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "13. Learning: Genetic Algorithms",
+        "videoId": "kHyNqSnzP8Y",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "14. Learning: Sparse Spaces, Phonology",
+        "videoId": "L73hY1pBcQI",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "15. Learning: Near Misses, Felicity Conditions",
+        "videoId": "sh3EPjhhd40",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "16. Learning: Support Vector Machines",
+        "videoId": "_PwhiWxHK8o",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "17. Learning: Boosting",
+        "videoId": "UHBmv7qCey4",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "18. Representations: Classes, Trajectories, Transitions",
+        "videoId": "bQI0OmJPby4",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "19. Architectures: GPS, SOAR, Subsumption, Society of Mind",
+        "videoId": "PimSbFGrwXM",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "21. Probabilistic Inference I",
+        "videoId": "A6Ud6oUCRak",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "22. Probabilistic Inference II",
+        "videoId": "EC6bf8JCpDQ",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "23. Model Merging, Cross-Modal Coupling, Course Summary",
+        "videoId": "XPEJg_6Cg6o",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Mega-R1. Rule-Based Systems",
+        "videoId": "iusTmgQyZ44",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Mega-R2. Basic Search, Optimal Search",
+        "videoId": "Tl_p5pgBsyM",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Mega-R3. Games, Minimax, Alpha-Beta",
+        "videoId": "hM2EAvMkhtk",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Mega-R4. Neural Nets",
+        "videoId": "JMrFgnqSS0w",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Mega-R5. Support Vector Machines",
+        "videoId": "6nDqY8MPLDM",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Mega-R6. Boosting",
+        "videoId": "ZZmzMJB-tow",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Mega-R7. Near Misses, Arch Learning",
+        "videoId": "J-ocRQCjcwE",
+        "ps": false
+      }
+    ]
+  },
+
+
+  "ml1": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=UhKsAVoikD2_rHUG",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "MIT Introduction to Deep Learning | 6.S191",
+        "videoId": "alfdI7S6wCY",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention",
+        "videoId": "GvezxUdLrEk",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "MIT 6.S191: Convolutional Neural Networks",
+        "videoId": "oGpzWAlP5p0",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "MIT 6.S191: Deep Generative Modeling",
+        "videoId": "SdTZAMDKrNY",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "MIT 6.S191: Reinforcement Learning",
+        "videoId": "to-lHJfK4pw",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "MIT 6.S191: Language Models and New Frontiers",
+        "videoId": "HLKo4fJx_7k",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "MIT 6.S191 (Google): Large Language Models",
+        "videoId": "ZNodOsz94cc",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "MIT 6.S191 (Liquid AI): Large Language Models",
+        "videoId": "_HfdncCbMOE",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "MIT 6.S191 (Comet ML): A Hipocratic Oath, for *your* AI",
+        "videoId": "CyCUZAf8xSU",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "MIT 6.S191 (Microsoft): AI for Biology",
+        "videoId": "SSzSOeGP87I",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "MIT Introduction to Deep Learning (2024) | 6.S191",
+        "videoId": "ErnWZxJovaM",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "MIT 6.S191 (2024): Recurrent Neural Networks, Transformers, and Attention",
+        "videoId": "dqoEU9Ac3ek",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "MIT 6.S191 (2024): Convolutional Neural Networks",
+        "videoId": "2xqkSUhmmXU",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "MIT 6.S191 (2024): Deep Generative Modeling",
+        "videoId": "Dmm4UG-6jxA",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "MIT 6.S191 (2024): Reinforcement Learning",
+        "videoId": "8JVRbHAVCws",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "MIT 6.S191 (2024): Language Models and New Frontiers",
+        "videoId": "N1fbskTpwZ0",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "MIT 6.S191 (2024): Google - Generative AI for Media",
+        "videoId": "P7Hkh2zOGQ0",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "MIT 6.S191 (2024): Building AI Models in the Wild",
+        "videoId": "ZAGiinWiFsE",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "MIT Introduction to Deep Learning (2023) | 6.S191",
+        "videoId": "QDX-1M5Nj7s",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "MIT 6.S191 (2023): Recurrent Neural Networks, Transformers, and Attention",
+        "videoId": "ySEx_Bqxvvo",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "MIT 6.S191 (2023): Convolutional Neural Networks",
+        "videoId": "NmLK_WQBxB4",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "MIT 6.S191 (2023): Deep Generative Modeling",
+        "videoId": "3G5hWM6jqPk",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "MIT 6.S191 (2023): Robust and Trustworthy Deep Learning",
+        "videoId": "kIiO4VSrivU",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "MIT 6.S191 (2023): Reinforcement Learning",
+        "videoId": "AhyznRSDjw8",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "MIT 6.S191 (2023): Deep Learning New Frontiers",
+        "videoId": "FHeCmnNe0P8",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "MIT 6.S191 (2023): Text-to-Image Generation",
+        "videoId": "SA-v6Op2kL4",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "MIT 6.S191 (2023): The Modern Era of Statistics",
+        "videoId": "p1NpGC8K-vs",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "MIT 6.S191 (2023): The Future of Robot Learning",
+        "videoId": "WHvWSYKGMDQ",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "MIT Introduction to Deep Learning (2022) | 6.S191",
+        "videoId": "7sB052Pz0sQ",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "MIT 6.S191 (2022): Recurrent Neural Networks and Transformers",
+        "videoId": "QvkQ1B3FBqA",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "MIT 6.S191 (2022): Convolutional Neural Networks",
+        "videoId": "uapdILWYTzE",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "MIT 6.S191 (2022): Deep Generative Modeling",
+        "videoId": "QcLlc9lj2hk",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "MIT 6.S191 (2022): Reinforcement Learning",
+        "videoId": "-WbN61qtTGQ",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "MIT 6.S191 (2022): Deep Learning New Frontiers",
+        "videoId": "wySXLRTxAGQ",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "MIT 6.S191: LiDAR for Autonomous Driving",
+        "videoId": "NHZMfSMAHlo",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "MIT 6.S191: Automatic Speech Recognition",
+        "videoId": "sR6_bZ6VkAg",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "MIT 6.S191: AI for Science",
+        "videoId": "QZxcTZj0L-M",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "MIT 6.S191: Uncertainty in Deep Learning",
+        "videoId": "veYq6EWZyVc",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "MIT 6.S191 (2021): Introduction to Deep Learning",
+        "videoId": "5tvmMX8r_OM",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "MIT 6.S191 (2021): Recurrent Neural Networks",
+        "videoId": "qjrad0V0uJE",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "MIT 6.S191 (2021): Convolutional Neural Networks",
+        "videoId": "AjtX1N_VT9E",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "MIT 6.S191 (2021): Deep Generative Modeling",
+        "videoId": "BUNl0To1IVw",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "MIT 6.S191 (2021): Reinforcement Learning",
+        "videoId": "93M1l_nrhpQ",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "MIT 6.S191 (2021): Deep Learning New Frontiers",
+        "videoId": "-boCMDouF2g",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "MIT 6.S191: Evidential Deep Learning and Uncertainty",
+        "videoId": "toTcf7tZK8c",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "MIT 6.S191: AI Bias and Fairness",
+        "videoId": "wmyVODy_WD8",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "MIT 6.S191: Deep CPCFG for Information Extraction",
+        "videoId": "WkUYsVC3hKI",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "MIT 6.S191: Taming Dataset Bias via Domain Adaptation",
+        "videoId": "eS-OHAHOqU0",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "MIT 6.S191: Towards AI for 3D Content Creation",
+        "videoId": "lkkFcg9k9ho",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "MIT 6.S191: AI in Healthcare",
+        "videoId": "cvXVK8oqU4Q",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "MIT 6.S191 (2020): Introduction to Deep Learning",
+        "videoId": "njKP3FqW3Sk",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "MIT 6.S191 (2020): Recurrent Neural Networks",
+        "videoId": "SEnXr6v2ifU",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "MIT 6.S191 (2020): Convolutional Neural Networks",
+        "videoId": "iaSUYvmCekI",
+        "ps": false
+      },
+      {
+        "n": 54,
+        "title": "MIT 6.S191 (2020): Deep Generative Modeling",
+        "videoId": "rZufA635dq4",
+        "ps": false
+      },
+      {
+        "n": 55,
+        "title": "MIT 6.S191 (2020): Reinforcement Learning",
+        "videoId": "nZfaHIxDD5w",
+        "ps": false
+      },
+      {
+        "n": 56,
+        "title": "MIT 6.S191 (2020): Deep Learning New Frontiers",
+        "videoId": "tfM_DdbGTLs",
+        "ps": false
+      },
+      {
+        "n": 57,
+        "title": "MIT 6.S191 (2020): Neurosymbolic AI",
+        "videoId": "4PuuziOgSU4",
+        "ps": false
+      },
+      {
+        "n": 58,
+        "title": "MIT 6.S191 (2020): Generalizable Autonomy for Robot Manipulation",
+        "videoId": "8Kn4Gi8iSYQ",
+        "ps": false
+      },
+      {
+        "n": 59,
+        "title": "MIT 6.S191 (2020): Neural Rendering",
+        "videoId": "BCZ56MU-KhQ",
+        "ps": false
+      },
+      {
+        "n": 60,
+        "title": "MIT 6.S191 (2020): Machine Learning for Scent",
+        "videoId": "Z5Pw5eWItiw",
+        "ps": false
+      },
+      {
+        "n": 61,
+        "title": "Barack Obama: Intro to Deep Learning | MIT 6.S191",
+        "videoId": "l82PxsKHxYc",
+        "ps": false
+      },
+      {
+        "n": 62,
+        "title": "MIT 6.S191 (2019): Introduction to Deep Learning",
+        "videoId": "5v1JnYv_yWs",
+        "ps": false
+      },
+      {
+        "n": 63,
+        "title": "MIT 6.S191 (2019): Recurrent Neural Networks",
+        "videoId": "_h66BW-xNgk",
+        "ps": false
+      },
+      {
+        "n": 64,
+        "title": "MIT 6.S191 (2019): Convolutional Neural Networks",
+        "videoId": "H-HVZJ7kGI0",
+        "ps": false
+      },
+      {
+        "n": 65,
+        "title": "MIT 6.S191 (2019): Deep Generative Modeling",
+        "videoId": "yFBFl1cLYx8",
+        "ps": false
+      },
+      {
+        "n": 66,
+        "title": "MIT 6.S191 (2019): Deep Reinforcement Learning",
+        "videoId": "i6Mi2_QM3rA",
+        "ps": false
+      },
+      {
+        "n": 67,
+        "title": "MIT 6.S191 (2019): Deep Learning Limitations and New Frontiers",
+        "videoId": "INja7C5_vqk",
+        "ps": false
+      },
+      {
+        "n": 68,
+        "title": "MIT 6.S191 (2019): Visualization for Machine Learning (Google Brain)",
+        "videoId": "ulLx2iPTIcs",
+        "ps": false
+      },
+      {
+        "n": 69,
+        "title": "MIT 6.S191 (2019): Biologically Inspired Neural Networks (IBM)",
+        "videoId": "4lY-oAY0aQU",
+        "ps": false
+      },
+      {
+        "n": 70,
+        "title": "MIT 6.S191 (2019): Image Domain Transfer (NVIDIA)",
+        "videoId": "_MzaThb_jno",
+        "ps": false
+      },
+      {
+        "n": 71,
+        "title": "MIT 6.S191 (2018): Introduction to Deep Learning",
+        "videoId": "JN6H4rQvwgY",
+        "ps": false
+      },
+      {
+        "n": 72,
+        "title": "MIT 6.S191 (2018): Sequence Modeling with Neural Networks",
+        "videoId": "CznICCPa63Q",
+        "ps": false
+      },
+      {
+        "n": 73,
+        "title": "MIT 6.S191 (2018): Convolutional Neural Networks",
+        "videoId": "NVH8EYPHi30",
+        "ps": false
+      },
+      {
+        "n": 74,
+        "title": "MIT 6.S191 (2018): Deep Generative Modeling",
+        "videoId": "JVb54xhEw6Y",
+        "ps": false
+      },
+      {
+        "n": 75,
+        "title": "MIT 6.S191 (2018): Deep Reinforcement Learning",
+        "videoId": "s5qqjyGiBdc",
+        "ps": false
+      },
+      {
+        "n": 76,
+        "title": "MIT 6.S191 (2018): Deep Learning Limitations and New Frontiers",
+        "videoId": "l_yWLAQg7LU",
+        "ps": false
+      },
+      {
+        "n": 77,
+        "title": "MIT 6.S191 (2018): Issues in Image Classification",
+        "videoId": "QYwESy6isuc",
+        "ps": false
+      },
+      {
+        "n": 78,
+        "title": "MIT 6.S191 (2018): Faster ML Development with TensorFlow",
+        "videoId": "FkHWKq86tSw",
+        "ps": false
+      },
+      {
+        "n": 79,
+        "title": "MIT 6.S191 (2018): Deep Learning - A Personal Perspective",
+        "videoId": "Z7YMDwzUTds",
+        "ps": false
+      },
+      {
+        "n": 80,
+        "title": "MIT 6.S191 (2018): Beyond Deep Learning: Learning+Reasoning",
+        "videoId": "mNqVGB2HkXg",
+        "ps": false
+      },
+      {
+        "n": 81,
+        "title": "MIT 6.S191 (2018): Computer Vision Meets Social Networks",
+        "videoId": "aFEnWHxUd7s",
+        "ps": false
+      }
+    ]
+  },
+
+  
+  "ml2": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP60YyhMjYmXuVmX562QcClSp&si=sOXnTHjoaTn_qs_E",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1: Introduction to Neural Networks and Deep Learning; Training Deep NNs",
+        "videoId": "kyQ0CRkYhy4",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2: Training Deep NNs (cont.); Introduction to Keras/Tensorflow; Application to Tabular Data",
+        "videoId": "3Lr8nVUDCpk",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "3: Deep Learning for Computer Vision – Building Convolutional Neural Networks from Scratch",
+        "videoId": "8QuyDcMIdRc",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "4: Deep Learning for Computer Vision – Transfer Learning and Fine-Tuning; Intro to HuggingFace",
+        "videoId": "8xh7Y0pBrCE",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "5: Deep Learning for Natural Language – The Basics",
+        "videoId": "duBLxHjaecQ",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "6: Deep Learning for Natural Language – Embeddings",
+        "videoId": "LqFc0z-pQTg",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "7: Deep Learning for Natural Language – Transformers",
+        "videoId": "IeF7aATDaw4",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "8: Deep Learning for Natural Language – Transformers, Self-Supervised Learning",
+        "videoId": "v-lHsawHyaI",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "9: Generative AI – Large Language Models (LLMs) and Retrieval Augmented Generation (RAG)",
+        "videoId": "KGDe1QvfKJ8",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "10: Generative AI – Adapting LLMs with Parameter-Efficient Fine-Tuning",
+        "videoId": "d-tngNnaG4U",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "11: Generative AI – Text-to-Image Models",
+        "videoId": "NQBhhRG-Pe4",
+        "ps": false
+      }
+    ]
+  },
+
+
+  "ml4": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&si=KDHVWQYqK19yF3-h",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Overview Artificial Intelligence Course | Stanford CS221: Learn AI (Autumn 2019)",
+        "videoId": "J8Eh7RqggsU",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Machine Learning 1 - Linear Classifiers, SGD | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "zrT2qETJilw",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Machine Learning 2 - Features, Neural Networks | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "BRgKyNdD9qU",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Machine Learning 3 - Generalization, K-means | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "O9vCb30sHBA",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Search 1 - Dynamic Programming, Uniform Cost Search | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "aIsgJJYrlXk",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Search 2 - A* | Stanford CS221: Artificial Intelligence (Autumn 2019)",
+        "videoId": "HEs1ZCvLH2s",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Markov Decision Processes 1 - Value Iteration | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "9g32v7bK3Co",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Markov Decision Processes 2 - Reinforcement Learning | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "HpaHTfY52RQ",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Game Playing 1 - Minimax, Alpha-beta Pruning | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "3pU-Hrz_xy4",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Game Playing 2 - TD Learning, Game Theory | Stanford CS221: Artificial Intelligence (Autumn 2019)",
+        "videoId": "WoFwXj4p4Sc",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Factor Graphs 1 - Constraint Satisfaction Problems | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "Yo-xat4cn8M",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Factor Graphs 2 - Conditional Independence | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "o0mKSvbMunA",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Bayesian Networks 1 - Inference | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "U23yuPEACG0",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Bayesian Networks 2 - Forward-Backward | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "GPoj3zfX60g",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Bayesian Networks 3 - Maximum Likelihood | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "Fa-rr6AXMwg",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Logic 1 - Propositional Logic | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "xL0kNw5TudI",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Logic 2 - First-order Logic | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "_Iz83hfkFds",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Deep Learning | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "7v933EUdxzU",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Conclusion | Stanford CS221: AI (Autumn 2019)",
+        "videoId": "a0sqE7y53W8",
+        "ps": false
+      }
+    ]
+  },
+
+
+  "ml5": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&si=fp_igsDcAseg6pFz",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 1 - Introduction and Linear Algebra",
+        "videoId": "KzH1ovd4Ots",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 2 - Matrix Calculus and Probability Theory",
+        "videoId": "b0HvwszmqcQ",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 3 - Probability and Statistics",
+        "videoId": "Mi8wnYc1m04",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 4 - Linear Regression",
+        "videoId": "lNHaZlZJATw",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 5 - Perceptron and Logistic Regression",
+        "videoId": "WViuTuAOPlM",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 6 - Exponential Family & GLM",
+        "videoId": "sj0iPn03i7Q",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 7 - GDA, Naive Bayes & Laplace Smoothing",
+        "videoId": "yieIOW9Kaw4",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 8 - Kernel Methods & Support Vector Machine",
+        "videoId": "p61QzJakQxg",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 9 - Bayesian Methods - Parametric &  Non",
+        "videoId": "IgUi7BDe1DQ",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 10 - Deep learning - I",
+        "videoId": "mpJ2bFF6o8s",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 11 - Deep Learning - II",
+        "videoId": "4wmqDaFhs9E",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 12 - Bias and Variance & Regularization",
+        "videoId": "XhyOAX6oSX4",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 13-Statistical Learning Uniform Convergence",
+        "videoId": "AbhV49lfaWw",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 14 - Reinforcement Learning - I",
+        "videoId": "jNevGGOkklE",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 15 - Reinforcement Learning - II",
+        "videoId": "4BbHU2_wphg",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 16 - K-means, GMM, and EM",
+        "videoId": "LmpkKwsyQj4",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 17 - Factor Analysis & ELBO",
+        "videoId": "pA-bo8_HNy4",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 18 - Principal & Independent CA",
+        "videoId": "7pJ6XNvpO8M",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 19 - Maximum Entropy and Calibration",
+        "videoId": "i6d5QTmPXiw",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 20 - Variational Autoencoder",
+        "videoId": "-TPFg-RG-KY",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 21 - Evaluation Metrics",
+        "videoId": "Lb1-iNIOLBw",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 22 - Practical Tips and Course Recap",
+        "videoId": "OftHZYlrK-E",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 23 - Course Recap and Wrap Up",
+        "videoId": "_-uzSvC5m60",
+        "ps": false
+      }
+    ]
+  },
+
+  "ml6": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&si=5MHCdqCh-k2J0mkj",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 1 - Introduction - Emma Brunskill",
+        "videoId": "FgzM3zpZ55o",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 2 - Given a Model of the World",
+        "videoId": "E3f2Camj0Is",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 3 -  Model-Free Policy Evaluation",
+        "videoId": "dRIhrn8cc9w",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 4 - Model Free Control",
+        "videoId": "j080VBVGkfQ",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 5 - Value Function Approximation",
+        "videoId": "buptHUzDKcE",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 6 - CNNs and Deep Q Learning",
+        "videoId": "gOV8-bC1_KU",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 7 - Imitation Learning",
+        "videoId": "V7CY68zH6ps",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 8 - Policy Gradient I",
+        "videoId": "8LEuyYXGQjU",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 9 - Policy Gradient II",
+        "videoId": "E-_ecpD5PkE",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 10 - Policy Gradient III & Review",
+        "videoId": "o_i5F1zGPLs",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 11 - Fast Reinforcement Learning",
+        "videoId": "RN8qpSs8ozY",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 12 - Fast Reinforcement Learning II",
+        "videoId": "jJ7JbQBTChM",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 13 - Fast Reinforcement Learning III",
+        "videoId": "Hg_uyWezMM0",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 15 - Batch Reinforcement Learning",
+        "videoId": "zPU1SRHuAW8",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 16 - Monte Carlo Tree Search",
+        "videoId": "vDF1BYWhqL8",
+        "ps": false
+      }
+    ]
+  },
+
+
+  "ml8": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLpXfHEl2fzl6JWpKGs4w2X2laduGk9xY3&si=TNrMUnmvuH3RyqhE",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1. Introduction to the Human Brain",
+        "videoId": "ba-HMvDn_vU",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2. Neuroanatomy",
+        "videoId": "bAkuNXtgrLA",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "4. Cognitive Neuroscience Methods I",
+        "videoId": "vFZY--lgmHs",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "5. Cognitive Neuroscience Methods II",
+        "videoId": "YD7QG4G7WVg",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "6. Introduction to the Human Brain",
+        "videoId": "Nk0H3o-hRMA",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "7. Category Selectivity, Controversies, and MVPA",
+        "videoId": "otriwYhNtm0",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "8. Navigation I",
+        "videoId": "MuRVOQY8KoY",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "9. Navigation II",
+        "videoId": "ppxK4R8XWfU",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "10. Development, Nature & Nurture I",
+        "videoId": "kAX_PRnliMo",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "11. Development, Nature & Nurture II (2018)",
+        "videoId": "xA00vkxG3lE",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "13. Number",
+        "videoId": "W2PY6z1Wddg",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "15. Hearing and Speech",
+        "videoId": "9Bz-5-RC690",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "16. Music",
+        "videoId": "YVHM8dSkimo",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "18. Language I",
+        "videoId": "XRdJ5mXBo8A",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "20. Theory of Mind & Mentalizing",
+        "videoId": "pfZY5aDJazA",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "21. Brain Networks",
+        "videoId": "SchmVoc5NzY",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "24. Attention and Awareness",
+        "videoId": "B4a0WdGp52g",
+        "ps": false
+      }
+    ]
+  },
+
+  
+  "ml9": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP61I4aI5T6OaFfRK2gihjiMm&si=xW6xPcWD_KDywEqt",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1: Course Overview and Ionic Currents - Intro to Neural Computation",
+        "videoId": "PnJEj6TokDA",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2: Resistor Capacitor Circuit and Nernst Potential - Intro to Neural Computation",
+        "videoId": "3GC721pNRLE",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "3: Resistor Capacitor Neuron Model - Intro to Neural Computation",
+        "videoId": "KXnHxZdn8NU",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "4: Hodgkin-Huxley Model Part 1 - Intro to Neural Computation",
+        "videoId": "88tKZLGOr3M",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "5: Hodgkin-Huxley Model Part 2 - Intro to Neural Computation",
+        "videoId": "K1pxJVdqlxw",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "6: Dendrites - Intro to Neural Computation",
+        "videoId": "dNHqd6nGr5o",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "7: Synapses - Intro to Neural Computation",
+        "videoId": "r1VX3WXrYUw",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "8: Spike Trains - Intro to Neural Computation",
+        "videoId": "osYGG7TKcz8",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "9: Receptive Fields - Intro to Neural Computation",
+        "videoId": "fCqt07IXUPI",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "10: Time Series - Intro to Neural Computation",
+        "videoId": "smHwRzk81b0",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "11: Spectral Analysis Part 1 - Intro to Neural Computation",
+        "videoId": "4ip-4ai6kN8",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "12: Spectral Analysis Part 2 - Intro to Neural Computation",
+        "videoId": "Hf1Ma9YkOMY",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "13: Spectral Analysis Part 3 - Intro to Neural Computation",
+        "videoId": "VQXxs59Eiak",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "14: Rate Models and Perceptrons - Intro to Neural Computation",
+        "videoId": "5KhcA454er0",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "15: Matrix Operations - Intro to Neural Computation",
+        "videoId": "Oq_k8F2T1Jc",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "16: Basis Sets - Intro to Neural Computation",
+        "videoId": "Yjeexoq_WAI",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "17: Principal Components Analysis_ - Intro to Neural Computation",
+        "videoId": "N-49t1j-XWY",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "18: Recurrent Networks - Intro to Neural Computation",
+        "videoId": "EpPtCLkCGOk",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "19: Neural Integrators - Intro to Neural Computation",
+        "videoId": "vQpo3rTwUjc",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "20: Hopfield Networks - Intro to Neural Computation",
+        "videoId": "gt52wUN3VrQ",
+        "ps": false
+      }
+    ]
+  },
+  
+  "ml11": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&si=Zut2qPGNKQ9zNKmM",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 1 - Intro and Word Vectors",
+        "videoId": "DzpHeXVSC5I",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 2 - Word Vectors and Language Models",
+        "videoId": "nBor4jfWetQ",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 3 - Backpropagation, Neural Network",
+        "videoId": "HnliVHU2g9U",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 4 - Dependency Parsing",
+        "videoId": "KVKvde-_MYc",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 5 - Recurrent Neural Networks",
+        "videoId": "fyc0Jzr74y4",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 6 - Sequence to Sequence Models",
+        "videoId": "Ba6Fn1-Jsfw",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 7 - Attention, Final Projects and LLM Intro",
+        "videoId": "J7ruSOIzhrE",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 8 - Self-Attention and Transformers",
+        "videoId": "LWMzyfvuehA",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 9 - Pretraining",
+        "videoId": "DGfCRXuNA2w",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 11 - Natural Language Generation",
+        "videoId": "N9L32bFieEY",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 10 - Post-training by Archit Sharma",
+        "videoId": "35X6zlhoCy4",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 11 - Benchmarking by Yann Dubois",
+        "videoId": "TO0CqzqiArM",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 12 - Efficient Training, Shikhar Murty",
+        "videoId": "UVX7SYGCKkA",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Stanford CS224N: NLP w/ DL| Spring 2024 | Lecture 13 - Brain-Computer Interfaces, Chaofei Fan",
+        "videoId": "tfVgHsKpRC8",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 14 - Reasoning and Agents by Shikhar Murty",
+        "videoId": "I0tj4Y7xaOQ",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 15 - After DPO by Nathan Lambert",
+        "videoId": "dnF463_Ar9I",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 16 - ConvNets and TreeRNNs",
+        "videoId": "S8d-7v3f5MQ",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 18 - NLP, Linguistics, Philosophy",
+        "videoId": "NxH0Y78xcF4",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 16 - Multimodal Deep Learning, Douwe Kiela",
+        "videoId": "5vfIT5LOkR0",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lec. 19 - Model Interpretability & Editing, Been Kim",
+        "videoId": "cd3pRpEtjLs",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Stanford CS224N NLP with Deep Learning | 2023 | Python Tutorial, Manasi Sharma",
+        "videoId": "8j4wpU98Q74",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Stanford CS224N NLP with Deep Learning | 2023 | PyTorch Tutorial,  Drew Kaul",
+        "videoId": "Uv0AIRr3ptg",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Stanford CS224N NLP with Deep Learning | 2023 | Hugging Face Tutorial, Eric Frankel",
+        "videoId": "b80by3Xk_A8",
+        "ps": false
+      }
+    ]
+  },
+  
   "ml13": {
     "playlistUrl": "https://youtube.com/playlist?list=PLAwxTw4SYaPnIRwl6rad_mYwEk4Gmj7Mx&si=ckisSv6foO7EBafN",
     "notesPage": "",
