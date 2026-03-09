@@ -5203,6 +5203,424 @@
     ]
   },
 
+  "m1": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL4C4C8A7D06566F38&si=tF4bpHWVdr0qdaCS",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lec 1: Dot product | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "PxCxlsl_YwY",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lec 2: Determinants; cross product | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "9FLItlbBUPY",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lec 3: Matrices; inverse matrices | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "bHdzkFrgRcA",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lec 4: Square systems; equations of planes | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "YBajUR3EFSM",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lec 5: Parametric equations for lines and curves | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "57jzPlxf4fk",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lec 6: Velocity, acceleration; Kepler's second law | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "0D4BbCa4gHo",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lec 7: Review | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "U1EcnfTKXJ0",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lec 8: Level curves; partial derivatives; tangent plane | MIT 18.02 Multivariable Calculus, Fall 07",
+        "videoId": "dK3NEf13nPc",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lec 9: Max-min problems; least squares | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "UYe98CcxPbs",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lec 10: Second derivative test; boundaries & infinity | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "3_goGnJm5sA",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lec 11: Differentials; chain rule | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "7eZVshlT33Q",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lec 12: Gradient; directional derivative; tangent plane | MIT 18.02 Multivariable Calculus, Fall 07",
+        "videoId": "2XraaWefBd8",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lec 13: Lagrange multipliers | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "15HVevXRsBA",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lec 14: Non-independent variables | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "23xbkrpQuAo",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lec 15: Partial differential equations; review | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "ChiM2-MV-qM",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lec 16: Double integrals | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "YP_B0AapU0c",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lec 17: Double integrals in polar coords; applications | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "60e4hdCi1D4",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lec 18: Change of variables | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "UZb9hZIAvL4",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "xrypSZU8cBE",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "o7UCBjGsRTE",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lec 21: Gradient fields and potential functions | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "z5TPjZrsp2k",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lec 22: Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "tYdoS0tkAHA",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "_CdoRiNSrqI",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lec 24: Simply connected regions; review | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "PnPIqh7Frlw",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lec 25: Triple integrals in rectangular & cylindrical | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "44R5HgbrUmc",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lec 26: Spherical coordinates; surface area | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "RMBGQtwkoyU",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lec 27: Vector fields in 3D; surface integrals & flux | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "phk05iSMezA",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lec 28: Divergence theorem | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "WfEQabCGAqI",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lec 29: Divergence theorem (cont.): applications & proof | MIT 18.02 Multivariable Calculus, Fall 07",
+        "videoId": "wu8kXZSAp20",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lec 30: Line integrals in space, curl, exactness... | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "seO7-TwXH_I",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lec 31: Stokes' theorem | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "tzoYhe3H5dM",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lec 32: Stokes' theorem (cont.); review | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "sr7kCpzAuYw",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Lec 33: Topological considerations; Maxwell's equations | MIT 18.02 Multivariable Calculus, Fall 07",
+        "videoId": "BChhAS1sFvA",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Lec 34: Final review | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "ZwpwmGP5ITM",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Lec 35: Final review (cont.) | MIT 18.02 Multivariable Calculus, Fall 2007",
+        "videoId": "24v9onS9Kcg",
+        "ps": false
+      }
+    ]
+  },
+
+  "m2": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLE6E3CDE772FACAF4&si=58qdyR_Aojo0OE_f",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lec 1 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "XDhJ8lVGbl8",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lec 2 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "LbKKzMag5Rc",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lec 3 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "tVzaX9u6YAE",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lec 4 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "WBJ_iXudb-s",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lec 5 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "te6Mplq3DCU",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lec 6 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "EQJBp6Ym-6A",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lec 7 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "SioXozu-Loo",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lec 8 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "MdzfsfBNJIw",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lec 9 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "vP-oRQqmeg4",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lec 10 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "YQ7HEE8-OfA",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lec 11 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "rZ3-nFV6l8w",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lec 12 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "eyNm7XGJr4s",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lec 13 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "9KbpbBMThTE",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lec 14 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "Y9_zrupnz0Q",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lec 15 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "EWWw0jryj1A",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lec 16 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "xWa5_OXI6VM",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lec 17 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "yD0_EQLxHcw",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lec 19 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "sZ2qulI6GEk",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lec 20 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "qZHseRxAWZ8",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lec 21 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "3ejfkMHr_DE",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lec 22 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "_YVcjNmjHik",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lec 23 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "peYvLk_HZdw",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lec 24 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "MCrDzhpu3-s",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lec 25 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "heBvViSi9xQ",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lec 26 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "hEtWqTPPXuc",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lec 27 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "e3FfmXtkppM",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lec 28 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "2SuTN8rpe4I",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lec 29 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "zreI4HllD80",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lec 30 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "uNOyxQwIV8o",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lec 31 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "UJG0f0BSX14",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lec 32 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "z-meBrqcy_I",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lec 33 | MIT 18.03 Differential Equations, Spring 2006",
+        "videoId": "kRR9EVzr4lc",
+        "ps": false
+      }
+    ]
+  },
+
   "m4": {
     "playlistUrl": "https://youtube.com/playlist?list=PL221E2BBF13BECF6C&si=Pg-red_7rM9-HUgR",
     "notesPage": "",
@@ -5655,6 +6073,898 @@
     ]
   },
 
+  "m5": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP61p2fXeXjNCrfNHFwyW-bl0&si=BMiCbtkSmY-0Jsaa",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 1: Pigeonhole Principle",
+        "videoId": "Z1zgrgstVAw",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 2: Independence and Conditioning",
+        "videoId": "DxpSDeG7lL4",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 3: Inclusion-Exclusion",
+        "videoId": "cqPcQ3QqYnE",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 4: Counting",
+        "videoId": "H-Ix7gIt9i4",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 5: More Counting and Generating Functions",
+        "videoId": "HpQUVd1MGso",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 6: More on Generating Functions",
+        "videoId": "XfRe9i3FR1U",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 7: Generating Functions for Catalan Numbers",
+        "videoId": "JNSyyOAeMOc",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 8: Tail Bounds",
+        "videoId": "HC54KcgvReg",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 9: Chernoff Bounds",
+        "videoId": "FPj3OOM6DEc",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 10: Modular Arithmetic",
+        "videoId": "wkmDtvO222A",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 11: Basic Group Theory",
+        "videoId": "hUtdHAeyY6Y",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 12: Introduction to Linear Programming",
+        "videoId": "qKNkP6IfjvY",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 13: Duality in Linear Programming",
+        "videoId": "oyVZ3rao6M4",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 14: Zero-Sum Games",
+        "videoId": "o6blhvYXfq4",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 15: Max-Flow Min-Cut Theorem",
+        "videoId": "pX-HnYwO454",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 16: Data Compression and Shannon’s Noiseless Coding Theorem",
+        "videoId": "4OpiI5NLjIE",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 17: Huffman Coding",
+        "videoId": "zZN1A0Ufb8E",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 18: Transmitting Information Reliably over a Noisy Channel & Shannon’s Noisy Coding Theorem",
+        "videoId": "kWsJ_JDuFaI",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 19: Error-Correcting Codes—Hamming Codes",
+        "videoId": "N81pBt3KUWI",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 20: Reed-Solomon Codes",
+        "videoId": "OapnQzIDBM0",
+        "ps": false
+      }
+    ]
+  },
+
+  "m6": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLEEF5322B331C1B98&si=8DKmAqex2dKaQK_3",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1. Introduction and Probability Review",
+        "videoId": "7CYXy9J4Aao",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2. More Review; The Bernoulli Process",
+        "videoId": "d4xfax4_Iww",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "3. Law of Large Numbers, Convergence",
+        "videoId": "k0UZNZwPO8Q",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "4. Poisson (the Perfect Arrival Process)",
+        "videoId": "qxaBDDib9_A",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "5. Poisson Combining and Splitting",
+        "videoId": "ct0QGoi3n4Q",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "6. From Poisson to Markov",
+        "videoId": "cE6OD7DkCSU",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "7. Finite-state Markov Chains; The Matrix Approach",
+        "videoId": "0aqgeLTNfQ0",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "8. Markov Eigenvalues and Eigenvectors",
+        "videoId": "GCFd0VVnWTw",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "9. Markov Rewards and Dynamic Programming",
+        "videoId": "mNGVkKeMUtc",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "10. Renewals and the Strong Law of Large Numbers",
+        "videoId": "uHMVJJHsym4",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "11. Renewals: Strong Law and Rewards",
+        "videoId": "QWHtRR1jMEQ",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "12. Renewal Rewards, Stopping Trials, and Wald's Inequality",
+        "videoId": "8KQR4NAl3Iw",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "13. Little, M/G/1, Ensemble Averages",
+        "videoId": "pOhZUJ5BQXk",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "14. Review",
+        "videoId": "pY9ol9So2Yw",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "15. The Last Renewal",
+        "videoId": "fY7NgCWCWoQ",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "16. Renewals and Countable-state Markov",
+        "videoId": "k2PjTm1JyuI",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "17. Countable-state Markov Chains",
+        "videoId": "s98jdWi2kEs",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "18. Countable-state Markov Chains and Processes",
+        "videoId": "_IDgYAGKyuo",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "19. Countable-state Markov Processes",
+        "videoId": "ImKFBTqLqdE",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "20. Markov Processes and Random Walks",
+        "videoId": "hzJpaNcAoko",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "21. Hypothesis Testing and Random Walks",
+        "videoId": "goT94BheP3E",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "22. Random Walks and Thresholds",
+        "videoId": "K-iHODiS0-8",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "23. Martingales (Plain, Sub, and Super)",
+        "videoId": "GwVjWQykCDw",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "24. Martingales: Stopping and Converging",
+        "videoId": "TOvSJkC1nRI",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "25. Putting It All Together",
+        "videoId": "mq3nFovdG3o",
+        "ps": false
+      }
+    ]
+  },
+
+  "m7": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLbMVogVj5nJQWowhOG0-K-yI-bwRRmm3C&si=FNifQvTZCJDfmnoi",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Mod-01 Lec-01 Basic principles of counting",
+        "videoId": "mrCrjeqJv6U",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Mod-01 Lec-02 Sample space , events, axioms of probability",
+        "videoId": "POv_YgCqAv8",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Mod-01 Lec-03 Conditional probability, Independence of events.",
+        "videoId": "hxn_QwwWZBQ",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Mod-01 Lec-04 Random variables, cumulative density function, expected value",
+        "videoId": "bjybXMwWjjc",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Mod-01 Lec-05 Discrete random variables and their distributions",
+        "videoId": "p1Y4yJ1XnKY",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Mod-01 Lec-06 Discrete random variables and their distributions",
+        "videoId": "rVBFva3G_aU",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Mod-01 Lec-07 Discrete random variables and their distributions",
+        "videoId": "71p3XsXiXmM",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Mod-01 Lec-08 Continuous random variables and their distributions.",
+        "videoId": "tD71ga-rAJw",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Mod-01 Lec-09 Continuous random variables and their distributions.",
+        "videoId": "oGSfnDcBEqo",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Mod-01 Lec-10 Continuous random variables and their distributions.",
+        "videoId": "6EZe5rGI5wQ",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Mod-01 Lec-11 Function of random variables, Momement generating function",
+        "videoId": "hKsaduxYTwY",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Mod-01 Lec-12 Jointly distributed random variables, Independent r. v. and their sums",
+        "videoId": "nvMQzz80vX8",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Mod-01 Lec-13 Independent r. v. and their sums.",
+        "videoId": "rdLTll6ZFeo",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Mod-01 Lec-14 Chi – square r. v., sums of independent normal r. v., Conditional distr.",
+        "videoId": "Rm-APM83TKc",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Mod-01 Lec-15 Conditional disti, Joint distr. of functions of r. v., Order statistics",
+        "videoId": "fJDyaZHRPCE",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Mod-01 Lec-16 Order statistics, Covariance and correlation",
+        "videoId": "zVhAp55-axs",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Mod-01 Lec-17 Covariance, Correlation, Cauchy- Schwarz inequalities, Conditional expectation.",
+        "videoId": "yWxoC3k-PW8",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Mod-01 Lec-18 Conditional expectation, Best linear predictor",
+        "videoId": "bwga7Pnv30c",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Mod-01 Lec-19 Inequalities and bounds.",
+        "videoId": "tgrZsDgzuZ4",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Mod-01 Lec-20 Convergence and limit theorems",
+        "videoId": "gA7GIaZKBsI",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Mod-01 Lec-21 Central limit theorem",
+        "videoId": "SgFcQcKdPAA",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Mod-01 Lec-22 Applications of central limit theorem",
+        "videoId": "JiCeoj5KoGQ",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Mod-01 Lec-23 Strong law of large numbers, Joint mgf.",
+        "videoId": "klNEEo7JcHw",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Mod-01 Lec-24 Convolutions",
+        "videoId": "pQQ2t-GqP58",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Mod-01 Lec-25 Stochastic processes: Markov process.",
+        "videoId": "l04F077ICkw",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Mod-01 Lec-26 Transition and state probabilities.",
+        "videoId": "c-hh-XaRKQ4",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Mod-01 Lec-27 State prob., First passage and First return prob",
+        "videoId": "5c4Xw4KBwTE",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Mod-01 Lec-28 First passage and First return prob. Classification of states.",
+        "videoId": "vo2fX9thVQU",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Mod-01 Lec-29 Random walk, periodic and null states.",
+        "videoId": "IfwQ3wgwgU0",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Mod-01 Lec-30 Reducible Markov chains",
+        "videoId": "zVcR4x-x6tk",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Mod-01 Lec-34 Queuing Models: M/M/I, Birth and death process, Little’s formulae",
+        "videoId": "cKZtw2h8xsE",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Mod-01 Lec-35 Analysis of L, Lq ,W and Wq , M/M/S model",
+        "videoId": "J1m9ScuIk1I",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Mod-01 Lec-36 M/M/S , M/M/I/K models",
+        "videoId": "u-osS07zmN0",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Mod-01 Lec-31 Time reversible Markov chains",
+        "videoId": "0lBmL5mqdcA",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Mod-01 Lec-37 M/M/I/K and M/M/S/K models",
+        "videoId": "aNeQATpvWik",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Mod-01 Lec-38 Application to reliability theory failure law",
+        "videoId": "kU32nAniKBk",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Mod-01 Lec-39 Exponential failure law, Weibull law",
+        "videoId": "iVHXvZcfhrA",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Mod-01 Lec-40 Reliability of systems",
+        "videoId": "_c-iZ2BAXPw",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Mod-01 Lec-32 Poisson Processes",
+        "videoId": "83BXvlL3-eI",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Mod-01 Lec-33 Inter-arrival times, Properties of Poisson processes",
+        "videoId": "CUR-SLafiqk",
+        "ps": false
+      }
+    ]
+  },
+
+  "m9": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&si=htSGIHL_YUAD0RsH",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Course Introduction of 18.065 by Professor Strang",
+        "videoId": "Cx5Z-OslNWE",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "An Interview with Gilbert Strang on Teaching Matrix Methods in Data Analysis, Signal Processing,...",
+        "videoId": "t36jZG07MYc",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 1: The Column Space of A Contains All Vectors Ax",
+        "videoId": "YiqIkSHSmyc",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 2: Multiplying and Factoring Matrices",
+        "videoId": "or6C4yBk_SY",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "3. Orthonormal Columns in Q Give Q'Q = I",
+        "videoId": "Xa2jPbURTjQ",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "4. Eigenvalues and Eigenvectors",
+        "videoId": "k095NdrHxY4",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "5. Positive Definite and Semidefinite Matrices",
+        "videoId": "xsP-S7yKaRA",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "6. Singular Value Decomposition (SVD)",
+        "videoId": "rYz83XPxiZo",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "7. Eckart-Young: The Closest Rank k Matrix to A",
+        "videoId": "Y4f7K9XF04k",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 8: Norms of Vectors and Matrices",
+        "videoId": "NcPUI7aPFhA",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "9. Four Ways to Solve Least Squares Problems",
+        "videoId": "ZUU57Q3CFOU",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 10: Survey of Difficulties with Ax = b",
+        "videoId": "Z_5uLqcwDgM",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 11: Minimizing ‖x‖ Subject to Ax = b",
+        "videoId": "MuEW9pG9oxE",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "12. Computing Eigenvalues and Singular Values",
+        "videoId": "d32WV1rKoVk",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 13: Randomized Matrix Multiplication",
+        "videoId": "z0ykhV15wLw",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "14. Low Rank Changes in A and Its Inverse",
+        "videoId": "XhSk_Lw2X_U",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "15. Matrices A(t) Depending on t, Derivative = dA/dt",
+        "videoId": "z3SmljnD_nQ",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "16. Derivatives of Inverse and Singular Values",
+        "videoId": "AdTvkFsqcDc",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 17: Rapidly Decreasing Singular Values",
+        "videoId": "9BYsNpTCZGg",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 18: Counting Parameters in SVD, LU, QR, Saddle Points",
+        "videoId": "xaSL8yFgqig",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "19. Saddle Points Continued, Maxmin Principle",
+        "videoId": "2K7CvGnebO0",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "20. Definitions and Inequalities",
+        "videoId": "nrDkb2MAwSA",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 21: Minimizing a Function Step by Step",
+        "videoId": "nvXRJIBOREc",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "22. Gradient Descent: Downhill to a Minimum",
+        "videoId": "AeRwohPuUHQ",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "23. Accelerating Gradient Descent (Use Momentum)",
+        "videoId": "wrEcHhoJxjM",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "24. Linear Programming and Two-Person Games",
+        "videoId": "feb9j65Iz4w",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "25. Stochastic Gradient Descent",
+        "videoId": "k3AiUhwHQ28",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "26. Structure of Neural Nets for Deep Learning",
+        "videoId": "sx00s7nYmRM",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "27. Backpropagation: Find Partial Derivatives",
+        "videoId": "lZrIPRnoGQQ",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lecture 30: Completing a Rank-One Matrix, Circulants!",
+        "videoId": "p-bXJIa7QVI",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "31. Eigenvectors of Circulant Matrices: Fourier Matrix",
+        "videoId": "1pFv7e9xtHo",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lecture 32: ImageNet is a Convolutional Neural Network (CNN), The Convolution Rule",
+        "videoId": "hwDRfkPSXng",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "33. Neural Nets and the Learning Function",
+        "videoId": "L3-WFKCW-tY",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "34. Distance Matrices, Procrustes Problem",
+        "videoId": "0Qws8BuK3RQ",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "35. Finding Clusters in Graphs",
+        "videoId": "cxTmmasBiC8",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Lecture 36: Alan Edelman and Julia Language",
+        "videoId": "rZS2LGiurKY",
+        "ps": false
+      }
+    ]
+  },
+
+  "m10": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLq-Gm0yRYwTipntZ17qTnGYAkyOPuhNEf&si=4kDty-C6SZotRAEz",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Nonlinear Programming - promo",
+        "videoId": "RYqBnxL8Lbg",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Convex Sets and Functions",
+        "videoId": "liFWi2zR0MA",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Properties of Convex Functions-I",
+        "videoId": "1_oOU25FAWQ",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Properties of Convex Functions-II",
+        "videoId": "-BEaFPfXftM",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Properties of Convex Functions- III",
+        "videoId": "cvgiqzUbTz8",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Convex Programming Problems",
+        "videoId": "BX5a4UgLOA4",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "KKT optimality conditions",
+        "videoId": "UD0ac9pKopk",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Quadratic Programming Problems-I",
+        "videoId": "1DMYE9sBWdw",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Quadratic Programming Problems -II",
+        "videoId": "DZlbiuakHkw",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Separable Programming-I",
+        "videoId": "iZJZfPVs7ns",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Separable Programming-II",
+        "videoId": "3-U7dpv1T_k",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Geometric Programming-I",
+        "videoId": "0W3RgiIq3dk",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Geometric Programming-II",
+        "videoId": "GHNBVw6Dgv0",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Geometric Programming-III",
+        "videoId": "RmhkCq5zp9o",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Dynamic Programming-I",
+        "videoId": "PY9ZpZ2D3o0",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Dynamic Programming-II",
+        "videoId": "s7RGemqa7KM",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Dynamic Programming-III",
+        "videoId": "qa9fnsdY0A8",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Dynamic Programming-IV",
+        "videoId": "A4DBIIl0X5M",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Search Techniques-I",
+        "videoId": "iVM0r-v89-Y",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Search Techniques-II",
+        "videoId": "PdJGUD2kQSs",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Search Techniques-III",
+        "videoId": "OK6w2K1MJpM",
+        "ps": false
+      }
+    ]
+  },
+  
   "m12": {
     "playlistUrl": "https://youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&si=31eOp_93Bte9sU3u",
     "notesPage": "",
