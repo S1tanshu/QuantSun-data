@@ -98,7 +98,7 @@
     "name": "Introduction to Probability for Computer Scientists",
     "source": "Youtube",
     "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg&si=G87EcfMgmrupXC6P",
-    "link": "",
+    "link": "https://github.com/kashizui/Stanford-CS109-Notes/blob/master/studysheet.pdf",
     "lectures": "0/29",
     "priority": "A",
     "status": 0
@@ -110,7 +110,8 @@
     "code": "CS 110",
     "name": "Principles of Computer Systems",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PL9o9lNrP1luVQoR25mdOPP2yKyhNLLK0W&si=HZPumZBiRRMceDN5",
+    "playlistUrl": "https://youtube.com/playlist?list=PL9o9lNrP1luVQoR25mdOPP2yKyhNLLK0W&si=HZPumZBiRRMceDN5",
+    "link": "https://web.stanford.edu/class/cs110/lectures/",
     "lectures": "0/38",
     "priority": "B",
     "status": 0
@@ -122,7 +123,8 @@
     "code": "CS 149",
     "name": "Parallel Computing",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp&si=6niJc7sHFUUGv3Hd",
+    "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp&si=6niJc7sHFUUGv3Hd",
+    "link": "https://gfxcourses.stanford.edu/cs149/fall25",
     "lectures": "0/19",
     "priority": "B",
     "status": 0
@@ -130,11 +132,12 @@
   {
     "id": "c10",
     "subject": "Comp Sci",
-    "institution": "Stanford",
+    "institution": "Harvard",
     "code": "CS 224",
     "name": "Advanced Algorithms",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf&si=SO0PniTWhx5aYJV4",
+    "playlistUrl": "https://youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf&si=SO0PniTWhx5aYJV4",
+    "link": "https://people.seas.harvard.edu/~cs224/spring17/lec.html",
     "lectures": "0/25",
     "priority": "A",
     "status": 0
@@ -142,11 +145,12 @@
   {
     "id": "c11",
     "subject": "Comp Sci",
-    "institution": "Stanford",
-    "code": "CS 154",
+    "institution": "MIT",
+    "code": "18.404j",
     "name": "Introduction to Theory of Computation",
-    "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PLjG2IDGftWft9Y11xC0sfgeT5jyTJqB-i&si=0cMQ6ZhLF8HMhTzD",
+    "source": "MIT OCW",
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY&si=vLgA3V6_rICW1Mkj",
+    "link": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/lecture-notes/",
     "lectures": "0/41",
     "priority": "B",
     "status": 0
@@ -158,7 +162,8 @@
     "code": "CS 162",
     "name": "Operating Systems and Systems Programming",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC&si=bUiHgbzizspg02AZ",
+    "plsaylistUrl": "https://youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC&si=bUiHgbzizspg02AZ",
+    "link": "https://cs162.org/",
     "lectures": "0/27",
     "priority": "B",
     "status": 0
@@ -170,7 +175,8 @@
     "code": "CS 364A",
     "name": "Algorithmic Game Theory",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4&si=lHS0IFiEFRLFxhR0",
+    "playlistUrl": "https://youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4&si=lHS0IFiEFRLFxhR0",
+    "link": "https://timroughgarden.org/f13/f13.html",
     "lectures": "0/20",
     "priority": "A",
     "status": 0
@@ -182,7 +188,8 @@
     "code": "MIT 16.842",
     "name": "Fundamentals of Systems Engineering",
     "source": "MIT OCW",
-    "link": "https://youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx&si=Mj0_lYKY_OWw-ro3",
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx&si=Mj0_lYKY_OWw-ro3",
+    "link": "https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/pages/lecture-notes/",
     "lectures": "0/21",
     "priority": "C",
     "status": 0
@@ -194,7 +201,8 @@
     "code": "MIT 6.172",
     "name": "Performance Engineering of Software Systems",
     "source": "MIT OCW",
-    "link": "https://youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf&si=Mb5qwOB2A7RMNHvl",
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf&si=Mb5qwOB2A7RMNHvl",
+    "link": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/lecture-slides/",
     "lectures": "0/23",
     "priority": "A",
     "status": 0
@@ -206,7 +214,8 @@
     "code": "MIT 6.824",
     "name": "Distributed Systems",
     "source": "MIT OCW",
-    "link": "https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&si=1Ls2jJa8jhsGFa0t",
+    "playlistUrl": "https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&si=1Ls2jJa8jhsGFa0t",
+    "link": "https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/pages/lecture-notes/",
     "lectures": "0/20",
     "priority": "A",
     "status": 0
@@ -218,7 +227,8 @@
     "code": "Oxford",
     "name": "Information Theory (Oxford)",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PL4d5ZtfQonW3iAhXvTYCnoGEeRhxhKHMc&si=64z1C6pe_b3VSmvz",
+    "playlistUrl": "https://youtube.com/playlist?list=PL4d5ZtfQonW3iAhXvTYCnoGEeRhxhKHMc&si=64z1C6pe_b3VSmvz",
+    "link": "https://courses.maths.ox.ac.uk/course/view.php?id=5519",
     "lectures": "0/8",
     "priority": "B",
     "status": 0
@@ -226,11 +236,12 @@
   {
     "id": "c18",
     "subject": "Comp Sci",
-    "institution": "Others",
+    "institution": "Harvard",
     "code": "Harvard",
     "name": "Information Theory (Harvard 2022)",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PLDEN2FPNHwVZKAFqfFl1b_NNAESTJwV9o&si=pTfRehvMusSpgmYT",
+    "playlistUrl": "https://youtube.com/playlist?list=PLDEN2FPNHwVZKAFqfFl1b_NNAESTJwV9o&si=pTfRehvMusSpgmYT",
+    "link": "https://madhu.seas.harvard.edu/courses-spring2026/",
     "lectures": "0/18",
     "priority": "B",
     "status": 0
@@ -242,7 +253,8 @@
     "code": "NPTEL",
     "name": "Randomised Algorithms",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PLwdnzlV3ogoVOBjwmNLnTN8fTWHy3wNOq&si=4GRUPuFsG-w8Fu1U",
+    "playlistUrl": "https://youtube.com/playlist?list=PLwdnzlV3ogoVOBjwmNLnTN8fTWHy3wNOq&si=4GRUPuFsG-w8Fu1U",
+    "link": "https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf",
     "lectures": "0/41",
     "priority": "B",
     "status": 0
@@ -254,7 +266,8 @@
     "code": "NPTEL",
     "name": "Optimization theory and algorithms",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PLyqSpQzTE6M8XNc8SxMLbUxdR7lDSuIGw&si=M_CtqGMmGk6kV6h6",
+    "playlistUrl": "https://youtube.com/playlist?list=PLyqSpQzTE6M8XNc8SxMLbUxdR7lDSuIGw&si=M_CtqGMmGk6kV6h6",
+    "link": "https://www.ee.iitm.ac.in/uday/notes/opt/",
     "lectures": "0/83",
     "priority": "A",
     "status": 0
@@ -266,7 +279,8 @@
     "code": "Meta",
     "name": "Data Engineering Complete(?) Course",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PLy6XYfx2fDJ-1nbvL-2YRhKil2nfk0Xn1&si=nXolT6EAu94LQ8oN",
+    "playlistUrl": "https://youtube.com/playlist?list=PLy6XYfx2fDJ-1nbvL-2YRhKil2nfk0Xn1&si=nXolT6EAu94LQ8oN",
+    "link": "",
     "lectures": "0/3",
     "priority": "B",
     "status": 0
@@ -278,7 +292,7 @@
     "code": "4320",
     "name": "Database Systems (Cornell)",
     "source": "Youtube",
-    "link": "https://youtu.be/4cWkVbC2bNE?si=SvDZo1H3uE6EaI43",
+    "playlistUrl": "https://youtu.be/4cWkVbC2bNE?si=SvDZo1H3uE6EaI43",
     "lectures": "0/17",
     "priority": "B",
     "status": 0
@@ -290,7 +304,7 @@
     "code": "MIT 6.441",
     "name": "Information Theory",
     "source": "MIT OCW",
-    "link": "https://ocw.mit.edu/courses/6-441-information-theory-spring-2010/pages/lecture-notes/",
+    "PlaylistUrl": "https://ocw.mit.edu/courses/6-441-information-theory-spring-2010/pages/lecture-notes/",
     "lectures": "0/23",
     "priority": "B",
     "status": 0
@@ -302,7 +316,8 @@
     "code": "MIT 6.034",
     "name": "Artificial Intelligence",
     "source": "MIT OCW",
-    "link": "https://youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&si=jUhsTwjIis3vdQhY",
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&si=jUhsTwjIis3vdQhY",
+    "link": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/video_galleries/mega-recitation-videos/",
     "lectures": "0/30",
     "priority": "A",
     "status": 0
@@ -314,7 +329,8 @@
     "code": "MIT 6.S191",
     "name": "Introduction to Deep Learning",
     "source": "MIT OCW",
-    "link": "https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=UhKsAVoikD2_rHUG",
+    "playlistUrl": "https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=UhKsAVoikD2_rHUG",
+    "link": "",
     "lectures": "0/81",
     "priority": "A",
     "status": 0
@@ -326,21 +342,10 @@
     "code": "MIT 15.773",
     "name": "Hands on Deep Learning",
     "source": "MIT OCW",
-    "link": "https://youtube.com/playlist?list=PLUl4u3cNGP60YyhMjYmXuVmX562QcClSp&si=sOXnTHjoaTn_qs_E",
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP60YyhMjYmXuVmX562QcClSp&si=sOXnTHjoaTn_qs_E",
+    "link": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/lists/lecture-notes/",
     "lectures": "0/11",
     "priority": "B",
-    "status": 0
-  },
-  {
-    "id": "ml3",
-    "subject": "Machine Learning",
-    "institution": "MIT",
-    "code": "MIT 6.867",
-    "name": "Machine Learning (MIT)",
-    "source": "MIT OCW",
-    "link": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/lecture-notes/",
-    "lectures": "0/24",
-    "priority": "A",
     "status": 0
   },
   {
@@ -350,7 +355,8 @@
     "code": "CS 221",
     "name": "Artificial Intelligence: Principles and Techniques",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&si=KDHVWQYqK19yF3-h",
+    "PlaylistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&si=KDHVWQYqK19yF3-h",
+    "link": "https://web.stanford.edu/class/archive/cs/cs221/cs221.1186/",
     "lectures": "0/19",
     "priority": "A",
     "status": 0
@@ -362,7 +368,8 @@
     "code": "CS 229",
     "name": "Machine Learning (Anand Avati 2019)",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&si=fp_igsDcAseg6pFz",
+    "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&si=fp_igsDcAseg6pFz",
+    "link": "https://github.com/maxim5/cs229-2018-autumn",
     "lectures": "0/20",
     "priority": "A",
     "status": 0
@@ -374,7 +381,8 @@
     "code": "CS 234",
     "name": "Reinforcement Learning",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&si=5MHCdqCh-k2J0mkj",
+    "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&si=5MHCdqCh-k2J0mkj",
+    "link": "https://web.stanford.edu/class/cs234/modules.html",
     "lectures": "0/15",
     "priority": "A",
     "status": 0
@@ -386,8 +394,9 @@
     "code": "Coursera",
     "name": "Machine Learning and Reinforcement Learning in Finance",
     "source": "Coursera",
-    "link": "https://www.coursera.org/search?query=machine+learning+reinforcement+learning+finance",
-    "lectures": "0/?",
+    "playlist": "https://www.coursera.org/search?query=machine+learning+reinforcement+learning+finance",
+    "link": "",
+    "lectures": "0/4",
     "priority": "A",
     "status": 0
   },
@@ -398,7 +407,8 @@
     "code": "MIT 9.13",
     "name": "The Human Brain",
     "source": "MIT OCW",
-    "link": "https://youtube.com/playlist?list=PLpXfHEl2fzl6JWpKGs4w2X2laduGk9xY3&si=TNrMUnmvuH3RyqhE",
+    "playlistUrl": "https://youtube.com/playlist?list=PLpXfHEl2fzl6JWpKGs4w2X2laduGk9xY3&si=TNrMUnmvuH3RyqhE",
+    "link": "https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/pages/lecture-notes/",
     "lectures": "0/17",
     "priority": "C",
     "status": 0
@@ -410,7 +420,8 @@
     "code": "MIT 9.40",
     "name": "Introduction to Neural Computation",
     "source": "MIT OCW",
-    "link": "https://youtube.com/playlist?list=PLUl4u3cNGP61I4aI5T6OaFfRK2gihjiMm&si=xW6xPcWD_KDywEqt",
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP61I4aI5T6OaFfRK2gihjiMm&si=xW6xPcWD_KDywEqt",
+    "link": "https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/pages/lecture-notes/",
     "lectures": "0/20",
     "priority": "B",
     "status": 0
@@ -422,8 +433,9 @@
     "code": "MIT",
     "name": "Liquid Neural Networks (LNN)",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=Drones+navigate+unseen+environments+with+liquid+neural+networks",
-    "lectures": "0/?",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqPSjoqyvCR9W55bmp0hTLLEgaLvsN5ft",
+     "link": "https://ajithp.com/research/",
+    "lectures": "0/11",
     "priority": "C",
     "status": 0
   },
@@ -434,7 +446,8 @@
     "code": "CS 224N",
     "name": "NLP with Deep Learning",
     "source": "Youtube",
-    "link": "https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&si=Zut2qPGNKQ9zNKmM",
+    "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&si=Zut2qPGNKQ9zNKmM",
+    "link": "https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/",
     "lectures": "0/23",
     "priority": "B",
     "status": 0
@@ -446,7 +459,8 @@
     "code": "CS 231n",
     "name": "Convolutional Neural Networks for Visual Recognition",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Lecture+Collection+Convolutional+Neural+Networks+for+Visual+Recognition+Spring+2017",
+    "playlistUrl": "https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&si=tReQMk2z81U7Vs-p",
+    "link": "https://cs231n.github.io/",
     "lectures": "0/16",
     "priority": "B",
     "status": 0
