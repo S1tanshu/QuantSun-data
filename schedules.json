@@ -2247,255 +2247,159 @@
     ]
   },
 
-  "c11": {
-    "playlistUrl": "https://youtube.com/playlist?list=PLjG2IDGftWft9Y11xC0sfgeT5jyTJqB-i&si=0cMQ6ZhLF8HMhTzD",
+  "cs11": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY&si=RQLQOUjhnuz1l9cL",
     "notesPage": "",
     "psets": [],
     "lectures": [
       {
         "n": 1,
-        "title": "1 computing",
-        "videoId": "YzKmKcBHogg",
+        "title": "1. Introduction, Finite Automata, Regular Expressions",
+        "videoId": "9syvZr-9xwk",
         "ps": false
       },
       {
         "n": 2,
-        "title": "2 curriculum",
-        "videoId": "SrXZPzgJ3Jc",
+        "title": "2. Nondeterminism, Closure Properties, Conversion of Regular Expressions to FA",
+        "videoId": "oNsscmUwjMU",
         "ps": false
       },
       {
         "n": 3,
-        "title": "4 proofs",
-        "videoId": "FSf7KnMR4Is",
+        "title": "3. Regular Pumping Lemma, Conversion of FA to Regular Expressions",
+        "videoId": "KAySmSEGc9U",
         "ps": false
       },
       {
         "n": 4,
-        "title": "5 DFA Overview",
-        "videoId": "-PJY5bHl_HA",
+        "title": "4. Pushdown Automata, Conversion of CFG to PDA and Reverse Conversion",
+        "videoId": "m9eHViDPAJQ",
         "ps": false
       },
       {
         "n": 5,
-        "title": "6 DFA",
-        "videoId": "mQqB7KER3r8",
+        "title": "5. CF Pumping Lemma, Turing Machines",
+        "videoId": "IycOPFmEQk8",
         "ps": false
       },
       {
         "n": 6,
-        "title": "7 DFAClosure1",
-        "videoId": "VDUs9g6rU7E",
+        "title": "6. TM Variants, Church-Turing Thesis",
+        "videoId": "TTArY7ojshU",
         "ps": false
       },
       {
         "n": 7,
-        "title": "8 NFA",
-        "videoId": "n_EG8J-VFJ4",
+        "title": "7. Decision Problems for Automata and Grammars",
+        "videoId": "4MgN6uxd4i4",
         "ps": false
       },
       {
         "n": 8,
-        "title": "9 NFA2DFA",
-        "videoId": "AsAb2BiUw8c",
+        "title": "8. Undecidability",
+        "videoId": "3PzuSPQPEU4",
         "ps": false
       },
       {
         "n": 9,
-        "title": "10 DFA Closure2",
-        "videoId": "ukk9ZL3_Ff4",
+        "title": "9. Reducibility",
+        "videoId": "N28g_YBXY8Y",
         "ps": false
       },
       {
         "n": 10,
-        "title": "11 RegExp",
-        "videoId": "9NMfJNDoZhQ",
+        "title": "10. Computation History Method",
+        "videoId": "MGqoLm2aAgc",
         "ps": false
       },
       {
         "n": 11,
-        "title": "12 pumping",
-        "videoId": "4XRR3UurDoQ",
+        "title": "11. Recursion Theorem and Logic",
+        "videoId": "N-_XmLanPYg",
         "ps": false
       },
       {
         "n": 12,
-        "title": "13 minimizingDFA",
-        "videoId": "WzrXOMw_cEI",
+        "title": "12. Time Complexity",
+        "videoId": "asjAc90L8rE",
         "ps": false
       },
       {
         "n": 13,
-        "title": "14 Myhill Nerpde",
-        "videoId": "BJOABHS_OuM",
+        "title": "14. P and NP, SAT, Poly-Time Reducibility",
+        "videoId": "1VhnDdQsELo",
         "ps": false
       },
       {
         "n": 14,
-        "title": "15 learning DFA",
-        "videoId": "85QZN45-CoQ",
+        "title": "15. NP-Completeness",
+        "videoId": "iZPzBHGDsWI",
         "ps": false
       },
       {
         "n": 15,
-        "title": "16 Streaming",
-        "videoId": "0xXV1jALAdQ",
+        "title": "16. Cook-Levin Theorem",
+        "videoId": "6Az1gtDRaAU",
         "ps": false
       },
       {
         "n": 16,
-        "title": "17 CC",
-        "videoId": "6iNbuivj1ZA",
+        "title": "17. Space Complexity, PSPACE, Savitch's Theorem",
+        "videoId": "cT_qwkTigv4",
         "ps": false
       },
       {
         "n": 17,
-        "title": "18 TM overview",
-        "videoId": "DRBDcMAB2qg",
+        "title": "18. PSPACE-Completeness",
+        "videoId": "aVv9WXwW95w",
         "ps": false
       },
       {
         "n": 18,
-        "title": "19 TM",
-        "videoId": "dope-PGUbUM",
+        "title": "19. Games, Generalized Geography",
+        "videoId": "4dFPVJrNLDs",
         "ps": false
       },
       {
         "n": 19,
-        "title": "20 TM variants",
-        "videoId": "Fz1hBSZC5mY",
+        "title": "20. L and NL, NL = coNL",
+        "videoId": "q3xvno_KgRY",
         "ps": false
       },
       {
         "n": 20,
-        "title": "21 Universal TM",
-        "videoId": "hFbnLn4bD58",
+        "title": "21. Hierarchy Theorems",
+        "videoId": "vqFRAWeEcUs",
         "ps": false
       },
       {
         "n": 21,
-        "title": "22 counting argument",
-        "videoId": "T0RJqD_yTLs",
+        "title": "22. Provably Intractable Problems, Oracles",
+        "videoId": "N32bnUliSzo",
         "ps": false
       },
       {
         "n": 22,
-        "title": "23 concrete undecidable",
-        "videoId": "S3bYfIAdEmM",
+        "title": "23. Probabilistic Computation, BPP",
+        "videoId": "Vp_AzDGQyrA",
         "ps": false
       },
       {
         "n": 23,
-        "title": "24 mapping reductions",
-        "videoId": "_0163dZIBvw",
+        "title": "24. Probabilistic Computation (cont.)",
+        "videoId": "7J1HD9rqEB4",
         "ps": false
       },
       {
         "n": 24,
-        "title": "25 rices theorem",
-        "videoId": "KHMyz1pAWg8",
+        "title": "25. Interactive Proof Systems, IP",
+        "videoId": "TSI3LR5WZmo",
         "ps": false
       },
       {
         "n": 25,
-        "title": "26 oracle reductions",
-        "videoId": "-EBYph6R1eI",
-        "ps": false
-      },
-      {
-        "n": 26,
-        "title": "27 self reference",
-        "videoId": "vUHmltEPXIk",
-        "ps": false
-      },
-      {
-        "n": 27,
-        "title": "28 logic",
-        "videoId": "KBhoU7sfR3k",
-        "ps": false
-      },
-      {
-        "n": 28,
-        "title": "29 Kolmogorov Complexity",
-        "videoId": "PwNIDjc9cYc",
-        "ps": false
-      },
-      {
-        "n": 29,
-        "title": "30 complexity overview",
-        "videoId": "r6lW-3Rttb0",
-        "ps": false
-      },
-      {
-        "n": 30,
-        "title": "31 time complexity",
-        "videoId": "SqG_D1Mp5CY",
-        "ps": false
-      },
-      {
-        "n": 31,
-        "title": "32 NP",
-        "videoId": "ioq7srEOWvw",
-        "ps": false
-      },
-      {
-        "n": 32,
-        "title": "33 poly time reductions",
-        "videoId": "mYwVCePIzG8",
-        "ps": false
-      },
-      {
-        "n": 33,
-        "title": "34 Cook Levin",
-        "videoId": "-lLBjGmVqNY",
-        "ps": false
-      },
-      {
-        "n": 34,
-        "title": "35 more NPC",
-        "videoId": "Ds5LKk73oZQ",
-        "ps": false
-      },
-      {
-        "n": 35,
-        "title": "36 co NP",
-        "videoId": "LbLP_wIAJe4",
-        "ps": false
-      },
-      {
-        "n": 36,
-        "title": "37 polynomial hierarchy",
-        "videoId": "IS1A0N1EF2o",
-        "ps": false
-      },
-      {
-        "n": 37,
-        "title": "38 space complexity",
-        "videoId": "fvNeT3n8Ubk",
-        "ps": false
-      },
-      {
-        "n": 38,
-        "title": "39 Proofs++",
-        "videoId": "1XF9V-5YrIE",
-        "ps": false
-      },
-      {
-        "n": 39,
-        "title": "40 Algorithmic Fairness",
-        "videoId": "YjRS91Mv-f4",
-        "ps": false
-      },
-      {
-        "n": 40,
-        "title": "41 Randomness",
-        "videoId": "jmSSkC7yVog",
-        "ps": false
-      },
-      {
-        "n": 41,
-        "title": "42 Parting thoughts",
-        "videoId": "gt_pqWJy210",
+        "title": "26. coNP is a subset of IP",
+        "videoId": "eEXSv0jChO4",
         "ps": false
       }
     ]
@@ -8548,7 +8452,81 @@
       }
     ]
   },
-  
+
+  "ml10": {
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLqPSjoqyvCR9W55bmp0hTLLEgaLvsN5ft",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Drones navigate unseen environments with liquid neural networks",
+        "videoId": "RPFbk6D_dNw",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Liquid Neural Networks, A New Idea That Allows AI To Learn Even After Training",
+        "videoId": "0FNkrjVIcuk",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Liquid Neural Networks | Ramin Hasani | TEDxMIT",
+        "videoId": "RI35E5ewBuI",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Inventing liquid neural networks",
+        "videoId": "iRXZ5vQ6mGE",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Liquid Neural Networks in Computer Vision",
+        "videoId": "0JAsn9oMWJE",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Adaptable Aviators: future of autonomous navigation Liquid networks | Ramin Hasani | TEDxMIT Salon",
+        "videoId": "2BoxhZUi01Y",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "A Journey inside a Neural Network | Ramin Hassani | TEDxCluj",
+        "videoId": "C3d9sCV3_pY",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Recurrent Neural Networks (RNNs), Clearly Explained!!!",
+        "videoId": "AsNTP8Kwu80",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Liquid Neural Networks",
+        "videoId": "IlliqYiRhMU",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Liquid Time Constant Networks",
+        "videoId": "9AxYrmUlA0I",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Liquid Neural Networks for Autonomous Driving",
+        "videoId": "ql3ETcRDMEM",
+        "ps": false
+      }
+    ]
+  },
+
   "ml11": {
     "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&si=Zut2qPGNKQ9zNKmM",
     "notesPage": "",
@@ -8694,7 +8672,111 @@
       }
     ]
   },
-  
+ 
+  "ml12": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&si=tReQMk2z81U7Vs-p",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition",
+        "videoId": "vT1JzLTH4G4",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 2 | Image Classification",
+        "videoId": "OoUX-nOEjG0",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 3 | Loss Functions and Optimization",
+        "videoId": "h7iBpEHGVNc",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 4 | Introduction to Neural Networks",
+        "videoId": "d14TUNcbn1k",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 5 | Convolutional Neural Networks",
+        "videoId": "bNb2fEVKeEo",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 6 | Training Neural Networks I",
+        "videoId": "wEoyxE0GP2M",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 7 | Training Neural Networks II",
+        "videoId": "_JB0AO7QxSA",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 8 | Deep Learning Software",
+        "videoId": "6SlgtELqOWc",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 9 | CNN Architectures",
+        "videoId": "DAOcjicFr1Y",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 10 | Recurrent Neural Networks",
+        "videoId": "6niqTuYFZLQ",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 11 | Detection and Segmentation",
+        "videoId": "nDPWywWRIRo",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 12 | Visualizing and Understanding",
+        "videoId": "6wcs6szJWMY",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 13 | Generative Models",
+        "videoId": "5WoItGTWV54",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 14 | Deep Reinforcement Learning",
+        "videoId": "lvoHnicueoE",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 15 | Efficient Methods and Hardware for Deep Learning",
+        "videoId": "eZdOkDtYMoo",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 16 | Adversarial Examples and Adversarial Training",
+        "videoId": "CIfsB_EYsVI",
+        "ps": false
+      }
+    ]
+  },
+
   "ml13": {
     "playlistUrl": "https://youtube.com/playlist?list=PLAwxTw4SYaPnIRwl6rad_mYwEk4Gmj7Mx&si=ckisSv6foO7EBafN",
     "notesPage": "",
@@ -13630,7 +13712,498 @@
         "ps": false
       }
     ]
-  }
+  },
+
+  
+  "p14": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLn4wYlDYx4btpigVq25WXXnzlDiZr1QWg&si=_7seguAeyxE0V5vo",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Messing with Floating Point :: Ryan Baker",
+        "videoId": "ITbqbzGLIgo",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Get More Out of Compiler-Explorer ('godbolt') :: Ofek Shilon",
+        "videoId": "_9sGKcvT-TA",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Speeding up Intel Gaudi deep-learning accelerators using an MLIR-based compiler :: Dafna M., Omer P.",
+        "videoId": "n0t4bEgk3zU",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "C++ ♥ Python :: Alex Dathskovsky",
+        "videoId": "4KHn3iQaMuI",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Implementing Ranges and Views :: Roi Barkan",
+        "videoId": "iZsRxLXbUrY",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "A modern C++ approach to JSON Sax Parsing :: Uriel Guy",
+        "videoId": "lkpacGt5Tso",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "The battle over Heterogeneous Computing :: Oren Benita Ben Simhon",
+        "videoId": "RxVgawKx4Vc",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Open Is Good: Fast, Orthogonal Open (Multi) Methods with YOMM2 :: Jean-Louis Leroy",
+        "videoId": "9A84-PS6FO4",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Mastering CTest: Streamlining Your C++ Testing Workflow :: Alex Kushnir",
+        "videoId": "9_sQ4xuCyew",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "C++ parallel programming models :: Eran Gilad",
+        "videoId": "9aeuX53PsLI",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "C++ Fundamentals: Object-Oriented Programming with C++ :: Nathanel Ozeri Green",
+        "videoId": "Eqm3mQVUkTk",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Optimizations in the HFT world :: Yossi Moalem, Assaf Wolfhart",
+        "videoId": "KHlI5NBbIPY",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Not Invented Here: Reinventing the Wheel to Facilitate Dev Culture Change :: Yaniv Mordekhay",
+        "videoId": "GY8xGu7NqwM",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Unlocking the Value of C++20 Features :: Alex Dathskovsky",
+        "videoId": "3noLqy_WQQ8",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "How to become a better C++ programmer :: Yechiel M. Kimchi",
+        "videoId": "fO-DhsCR-Qc",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Building Effective Embedded Systems: Architectural Best Practices :: Gili Kamma",
+        "videoId": "dow9h2ADJ7s",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Welcome to Core C++ 2024! :: Adi Shavit",
+        "videoId": "JinAgLzAc3s",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Evolving C++ Networking with Senders & Receivers [part 2] :: Robert Leahy",
+        "videoId": "PF0g3dOSdao",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Evolving C++ Networking with Senders & Receivers [part 1] :: Robert Leahy",
+        "videoId": "S5v7f8rjSVQ",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "C++ Security Fundamentals: From Standards to Practice : Assaf Tzur-El",
+        "videoId": "G-arJcvXnU8",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "The Unauthorized History of UTF :: Eddie Nolan",
+        "videoId": "EtuPrryK6cI",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "C++ Security Fundamentals: From Standards to Practice : Assaf Tzur-El",
+        "videoId": "mZZcudfMXjM",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Debug C++ Programs You did not write [Elazar Leibovich]",
+        "videoId": "RmhvZxwIKEw",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Welcome to the meta::[[verse]]! (Inbal Levi)",
+        "videoId": "1en5wSqkquQ",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "The Pains and Joys of C++ In-Process Graph Execution [Svyatoslav Feldsherov]",
+        "videoId": "BAylU9BeY4Y",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Back to Basics: Design Patterns [Noam Weiss]",
+        "videoId": "qeU7v1XPBHQ",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "3D logs to analyze self-driving cars [Ruslan Burakov]",
+        "videoId": "LTZubbUcpnE",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Optimizing Embedded Software Infrastructure [Alex Kushnir, Akram Zoabi]",
+        "videoId": "1Lc3R2U87Ak",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "C++ Fundamentals: Unit Testing [Amir Kirsh]",
+        "videoId": "hzQxHrNT-Jw",
+        "ps": false
+      }
+    ]
+  },
+
+  "p15": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLJFFAyzgew0_EcU9Fcytq3jGjjsqY37c6&si=90GhQRpm2KpvS_-B",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "What is Low Latency C++? (Part 1) - Timur Doumler - CppNow 2023",
+        "videoId": "EzmNeAhWqVs",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "What is Low Latency C++? (Part 2) - Timur Doumler - CppNow 2023",
+        "videoId": "5uIsadq-nyk",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Trading at light speed: designing low latency systems in C++ - David Gross - Meeting C++ 2022",
+        "videoId": "8uAW5FQtcvE",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "CppCon 2017: Carl Cook “When a Microsecond Is an Eternity: High Performance Trading Systems in C++”",
+        "videoId": "NH1Tta7purM",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "User API & C++ Implementation of a Multi Producer, Multi Consumer, Lock Free, Atomic Queue - CppCon",
+        "videoId": "bjz_bMNNWRk",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Core C++ 2019 :: Nimrod Sapir :: High Frequency Trading and Ultra Low Latency development techniques",
+        "videoId": "_0aU8S-hFQI",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Low-Latency Trading Systems in C++: Templated Meta-State Machines in HFT - Jason McGuiness - ACCU 23",
+        "videoId": "FnMfhWiSweo",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Work Contracts - Rethinking Task Based Concurrency & Parallelism for Low Latency C++ - CppCon 2024",
+        "videoId": "oj-_vpZNMVw",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "HFT Low Latency C++ Interview Question - Template Metaprogramming",
+        "videoId": "hLxwF5rG8o8",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "How to Simulate a Low Latency Exchange in C++ - Benjamin Catterall - C++ on Sea 2023",
+        "videoId": "QQrTE4YLkSE",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Introduction to Wait-free Algorithms in C++ Programming - Daniel Anderson - CppCon 2024",
+        "videoId": "kPh8pod0-gk",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "When Nanoseconds Matter: Ultrafast Trading Systems in C++ - David Gross - CppCon 2024",
+        "videoId": "sX2nF1fW7kI",
+        "ps": false
+      }
+    ]
+  },
+
+  "p18": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa&si=kN7VWuxwFj-InPN4",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Deep Learning with PyTorch Live Course - Tensors, Gradient Descent & Linear Regression (Part 1 of 6)",
+        "videoId": "vo_fUOk-IKk",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Deep Learning with PyTorch Live Course - Working with Images & Logistic Regression (Part 2 of 6)",
+        "videoId": "4ZZrP68yXCI",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Deep Learning with PyTorch Live Course - Training Deep Neural Networks on GPUs (Part 3 of 6)",
+        "videoId": "9suSsTVhYuw",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Deep Learning with PyTorch Live Course - Image Classification with CNNs (Part 4 of 6)",
+        "videoId": "TN9fMYQxw4E",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Deep Learning with PyTorch Live Course - ResNet, Regularization and Data Augmentation (Part 5 of 6)",
+        "videoId": "sJF6PiAjE1M",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Deep Learning with PyTorch Live Course - GANs for Image Generation (Part 6 of 6)",
+        "videoId": "ABaZ_tecZ3U",
+        "ps": false
+      }
+    ]
+  },
+
+  "p21": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLy6XYfx2fDJ-Bu6bOOIiPIAFH8XDzjVTv&si=bviZGSZ3le_-FX3V",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "FastAPI Course for Beginners",
+        "videoId": "tLKKmouUams",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Python API Development - Comprehensive Course for Beginners",
+        "videoId": "0sOvCWFmrtA",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
+        "videoId": "WXsD0ZgxjRw",
+        "ps": false
+      }
+    ]
+  },
+
+  "p23": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLP8iPy9hna6Qpx0MgGyElJ5qFlaIXYf1R&si=KewQzBxBinT7CpxI",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Is this course for me? Julia Programming For Nervous Beginners (Week 1 Lesson 0)",
+        "videoId": "ub3tqCWZmo4",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Your First Julia Code! Julia Programming For Nervous Beginners (Week 1 Lesson 1)",
+        "videoId": "L0TDqQCHigg",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Deconstructing Your First Julia Code | Julia Programming For Nervous Beginners (Week 1 Lesson 2)",
+        "videoId": "60pReAo0kL0",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Debugging and Error Messages | Julia Programming For Nervous Beginners (Week 1 Lesson 3)",
+        "videoId": "fSxJ0rdrpeY",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Programming is Applied Formal Logic | Julia Programming For Nervous Beginners (Week 1 Lesson 4)",
+        "videoId": "ZuALresPQY4",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "String Literals in Julia | Julia Programming For Nervous Beginners (Week 1 Lesson 5)",
+        "videoId": "JuJGBx1EBkQ",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "String Escape Sequences in Julia | Julia Programming For Nervous Beginners (Week 1 Lesson 6)",
+        "videoId": "dJ4PnBXkzXI",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "String Interpolation in Julia | Julia Programming For Nervous Beginners (Week 1 Lesson 7)",
+        "videoId": "LLpeFe0OaiY",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Data Containers with Strings & Arrays | Julia Programming For Nervous Beginners (Week 1 Lesson 8)",
+        "videoId": "plSsEoRojr0",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Intro to Functions in Julia | Julia Programming For Nervous Beginners (Week 1 Lesson 9)",
+        "videoId": "xIJJ-dcVBpQ",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Basic Arithmetic in Julia | Julia Programming For Nervous Beginners (Week 2 Lesson 1)",
+        "videoId": "Ums8TvvBd48",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Number Types in Julia | Julia Programming For Nervous Beginners (Week 2 Lesson 2)",
+        "videoId": "GHWfIz5s7uY",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "User-Defined Functions in Julia | Julia Programming For Nervous Beginners (Week 2 Lesson 3)",
+        "videoId": "wVSoKw3abaU",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Generic Functions in Julia | Julia Programming For Nervous Beginners (Week 2 Lesson 4)",
+        "videoId": "D9zqoB2b1SI",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Julia's Type System & Multiple Dispatch | Julia Programming For Nervous Beginners (Week 2 Lesson 5)",
+        "videoId": "ULgawRM-4nU",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Scope in Relation to Functions | Julia Programming For Nervous Beginners (Week 2 Lesson 6)",
+        "videoId": "ZLACmxWXiy8",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Comparison & Logical Operators in Julia | Julia Programming For Nervous Beginners (Week 3 Lesson 1)",
+        "videoId": "ICMWs31Ky80",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "If and Else Blocks in Julia | Julia Programming For Nervous Beginners (Week 3 Lesson 2)",
+        "videoId": "CTscZ5zEfQM",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "While Loops in Julia | Julia Programming For Nervous Beginners (Week 3 Lesson 3)",
+        "videoId": "IciH1VQquzA",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "For Loops in Julia | Julia Programming For Nervous Beginners (Week 3 Lesson 4)",
+        "videoId": "Xdu7g-Jx_08",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Anonymous Functions in Julia | Julia Programming For Nervous Beginners (Week 3 Lesson 5)",
+        "videoId": "jQnMrZGWeQA",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Text File I/O in Julia | Julia Programming For Nervous Beginners (Week 4 Lesson 1)",
+        "videoId": "1U3h6Tb0i78",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Read & Manipulate Text Files in Julia | Julia Programming For Nervous Beginners (Week 4 Lesson 2)",
+        "videoId": "PerqyXWdRJQ",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Playing w/ Data From Text Files in Julia | Julia Programming For Nervous Beginners (Week 4 Lesson 3)",
+        "videoId": "Z43TRLsWRs8",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Looking Back and Looking Forward | Julia Programming For Nervous Beginners (Week 4 Lesson 4)",
+        "videoId": "v3aPcIrXWZQ",
+        "ps": false
+      }
+    ]
+  } 
 }
   
   
