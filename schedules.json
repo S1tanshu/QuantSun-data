@@ -7087,6 +7087,2588 @@
     ]
   },
 
+  "m13": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLckXXkZv3lYhTgR-3Pxc5kvUMR8sbS074&si=MplHk6vpNzDNFejO",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Probability and Stochastics for Finance",
+        "videoId": "8sORN_fHAZY",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 1: Basic Probability",
+        "videoId": "732bzOEhQpM",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 2: Interesting problems in probablity",
+        "videoId": "olYxcBhR9yM",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 3: Random Variables, Distribution Functions & Independence",
+        "videoId": "MLsDzBx1LB4",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecure 4: Cheybyshev Inequality, Borel-Cantelli lemmas & related issues",
+        "videoId": "xR6dz1MVWUs",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 5: Law of Large Numbers & Central Limit Theorem",
+        "videoId": "fzj23m241m0",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Conditional Expectation-I",
+        "videoId": "jD0EYKJ9mig",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Conditional Expextation-II",
+        "videoId": "WV_Iz5o1qGQ",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Martingales",
+        "videoId": "qTg0mqxuGeA",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Brownian Motion-I",
+        "videoId": "4-Tas6Uw_OQ",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Brownian Motion-II",
+        "videoId": "8aesZvl_P_k",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Brownian Motion-III",
+        "videoId": "-MMnSlhGGTg",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Ito Integral-I",
+        "videoId": "jwCJHvY13X8",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Ito Integral-II",
+        "videoId": "tRAI_2NAZ_A",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Ito Calculus-I",
+        "videoId": "6Ao6uGACt3w",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Ito Calculus-II",
+        "videoId": "twEcP-Honvs",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Ito Integrals in Higher Dimension",
+        "videoId": "cE-oiSelriU",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "An Application to Ito Integrals I",
+        "videoId": "FnVdQoSK9AI",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "An Application to Ito Integral II",
+        "videoId": "17EzaTzgLPI",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Black Scholes Formula I",
+        "videoId": "mPXBbQDWJWg",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Black Scholes Formula II",
+        "videoId": "ywp0kQJHY2E",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Introduction - Probability and Stochastics for finance II - Prof. Joydeep Dutta",
+        "videoId": "lRCExmgF79c",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Fundamentals of Interest Rates",
+        "videoId": "Me_DWlSbe58",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Fixed Income Securities",
+        "videoId": "fAfv1xCkIj4",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Term Structure of Interest Rates- I",
+        "videoId": "43nHWCO42ZM",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Optimization Models In Finance",
+        "videoId": "yq5MBZK9oh0",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Crash course on KKT Condition",
+        "videoId": "TyfZaZSF5nA",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Mean Variance Portfolio Optimization I",
+        "videoId": "TzljPo9J2YA",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Mean Variance Portfolio Optimization II",
+        "videoId": "ZliQcySxFuQ",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Mean Variance Portfolio Optimization III",
+        "videoId": "BOnHS0ynuPM",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Mean Variance Portfolio Optimization IV",
+        "videoId": "haGyCx4EtDg",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Last Lecture on Portfolio Optimization",
+        "videoId": "lV9RdCzc4A4",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Capital Asset Pricing Model",
+        "videoId": "3ANQoWG6GsY",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "The Binomial Model [Lox-Ross-Rubenstein Model]",
+        "videoId": "9wDtbThIZSM",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "The Binomial Method II",
+        "videoId": "7ovpIzCmVU4",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Binomial Method III (Multiperiod model)",
+        "videoId": "rM3BS1vdWDQ",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Binomial model IV",
+        "videoId": "O7T5cI0073w",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Girsanav's Theorem (Basic tool)",
+        "videoId": "v05NjYy4Eqs",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Girsanav's Theorem (Statement and proof)",
+        "videoId": "54AmgSRkj6o",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Stock price under risk netral measure",
+        "videoId": "ggptvaSRmdg",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "The Black -Scholes formula",
+        "videoId": "HGJLMQ6ILz0",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Final Lecture",
+        "videoId": "E3gSyxJV_OY",
+        "ps": false
+      }
+    ]
+  },
+
+  "m15": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLKR57ZbLAFd7qx7Liej3UIZLuMGO07nj0&si=bmAZCCBa1-jyO2YO",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 0: Introduction about the course Mathematical Modeling and Simulation",
+        "videoId": "ruV8xLJRKNk",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 1: Basics of Mathematical Modeling",
+        "videoId": "df5EK1P6Ph0",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 2 : Dimensional Analysis of Mathematical Models (part 1)",
+        "videoId": "NssaMGE0WU8",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 3 : Dimensional Analysis (part 2)",
+        "videoId": "t7pmFkAXpcc",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 4 : Population Growth Model",
+        "videoId": "0mEZQvwhNoo",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 5 : Exponential Growth Model",
+        "videoId": "MEVYmJneUEE",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "LECTURE 6 : Logistic Growth Model",
+        "videoId": "kKnTdzzK7U0",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 7 : Population Growth model (questions)",
+        "videoId": "rs2-jCcnspM",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 8 : Scaling in Mathematical Models",
+        "videoId": "Mr3j0hs9ZQY",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 9 : Conservation Laws",
+        "videoId": "LRibrwlTq44",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 10 : Linearization in Mathematical Modeling",
+        "videoId": "c1wmZDKtGXQ",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "LECTURE 11 :Classification of Mathematical Models",
+        "videoId": "zh3WrEboklA",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "LECTURE 12 : Traffic Flow modeling",
+        "videoId": "YbERBok9s0I",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "LECTURE 13 : Macroscopic Traffic flow model",
+        "videoId": "tDMMyNQZuF8",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "LECTURE 14 : LWR Traffic flow model",
+        "videoId": "bJV8rJTxu1E",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "LECTURE 15 : Microscopic traffic flow model",
+        "videoId": "4k-yIrPu5hA",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 16 : Approximation in Mathematical Models (part 1)",
+        "videoId": "OTup_Z7kIKY",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "LECTURE 17 : Approximations in Mathematical Models (part 2)",
+        "videoId": "o_wXP-okP_I",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "LECTURE 18 : Model Validation and verification",
+        "videoId": "12oopqxeIfQ",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 19 : Epidemiological Models",
+        "videoId": "zsp0kKU4yN4",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 20 : Numerical Solution of SIR model using 4th order Runge Kutta method",
+        "videoId": "qTUhLrwpiDs",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 21 : Random Number Generation (part 1",
+        "videoId": "c-GFOV6LLAU",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 22 : Random Number Generation (part 2)",
+        "videoId": "fTl764v_DCM",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture 23 : Monte Carlo Simulation with examples",
+        "videoId": "yFxLEXsnvwc",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 24 Stochastic process- Poisson process",
+        "videoId": "zoR3HS_16Vg",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture 25 Markov Chain models",
+        "videoId": "7cYk73BHiQo",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture 26 : Introduction to Financial Mathematics",
+        "videoId": "LsMF3PfTGoo",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture 27 : Technical Analysis of stock market",
+        "videoId": "R-Z8udX_CXk",
+        "ps": false
+      }
+    ]
+  },
+
+  "m16": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLLy_2iUCG87DcqOcslyw2WB8XpSFUE0zF&si=0M2Y54JcIHi0Hukl",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Mathematical Modeling : Analysis and Applications",
+        "videoId": "ORTNjFdSbzY",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Introduction to Mathematical Modeling",
+        "videoId": "VzlBEcs1fj4",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Numerical Methods to Compute Eigen Values",
+        "videoId": "zm7Ufhh1UN4",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Discrete Time Non-Linear Models in Population Dynamics - II",
+        "videoId": "EEw98_ZZFuQ",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Classifications of Bifurcation",
+        "videoId": "t8Ui4nhnWcI",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Introduction to Continuous Time Models",
+        "videoId": "yaGwCYQiOUg",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Continuous Time Single Species Models",
+        "videoId": "OLmfQZ1El88",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Discrete Time Non - Linear Models in Population Dynamics - II",
+        "videoId": "3tcaAB5isFA",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Qualitative Solution of Differential Equations - Phase Diagrams - II",
+        "videoId": "f33l_N7UkDQ",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Qualitative Solution of Differential Equations - Phase Diagrams - I",
+        "videoId": "IhrOY64iMSU",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Solution of First Order First Degree Differential Equations",
+        "videoId": "S4Xmb32s138",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Discrete Time Linear Models in Population Dynamics - II",
+        "videoId": "JCXvcpKoZsw",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Discrete Time Prey - Predator Model",
+        "videoId": "iQSRn3Kj9qM",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Continuous Time Lotka - Volterra Competition Model",
+        "videoId": "S1y1-G0wEEU",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Continuous Time Prey - Predator Model",
+        "videoId": "0iEi78JVKGo",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Continuous Time Models in Population Dynamics - I",
+        "videoId": "PyFeG74vAVs",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Discrete Time Linear Age Structured Models",
+        "videoId": "G85VSG_NraQ",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Continuous Time Models in Population Dynamics - II",
+        "videoId": "-b_t8JgbKPs",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Stability and Linearization of System of Ordinary Differential Equations",
+        "videoId": "7nCrqtBpVK4",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Analysis on Logistic Difference Equation",
+        "videoId": "Y3yByZK18TA",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Discrete Time Linear Models in Population Dynamics - I",
+        "videoId": "uaq5L9_Ihic",
+        "ps": false
+      }
+    ]
+  },
+
+  "m17": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLuiPz6iU5SQ8ra5kjxx770vk_famaeuvz&si=yKq7YzSZcyTvjjAI",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Probability & Random Variables - Week 2 - Lecture 1 - Probability Spaces; Axioms and properties ..",
+        "videoId": "0o0tLifyyNM",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Probability & Random Variables - Week 2 - Lecture 2 - Discrete&Continuous Prob. Laws, Conditional P.",
+        "videoId": "xsRNqK99ZTQ",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Probability & Random Variables - Week 2 - Lecture 3 - Discrete&Continuous Prob. Laws, Conditional P.",
+        "videoId": "kuCXRRlPmY0",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Probability & Random Variables - Week 3 - Lecture 1 - Total Probability Theorem, Bayes's Rule",
+        "videoId": "zKOTMAyC2Sg",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Probability & Random Variables - Week 3 - Lecture 2 - Independence, Conditional Independence",
+        "videoId": "euVwlKGm-2Q",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Probability & Random Variables - Week 3 - Lecture 3 - Independence, Conditional Independence",
+        "videoId": "bBVDSUZDCWY",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Probability & Random Variables - Week 4 - Lecture 1 - Independent Trials, Counting",
+        "videoId": "-4RvlUkANDg",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Probability & Random Variables - Week 4 - Lecture 2 - Discrete Random Variables",
+        "videoId": "4865N6e5vvs",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Probability & Random Variables - Week 4 - Lecture 3 - Discrete Random Variables",
+        "videoId": "hxFINGuwxA8",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Probability & Random Variables - Week 5 - Lecture 1 - Expectation and Variance",
+        "videoId": "43pM7XQkT90",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Probability & Random Variables - Week 5 - Lecture 2 - Properties of Expectation&Variance, Joint PMFs",
+        "videoId": "lxia5ULztDc",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Probability & Random Variables - Week 5 - Lecture 3 - Properties of Expectation&Variance, Joint PMFs",
+        "videoId": "M8qVvtVYBpM",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Probability & Random Variables - Week 6 - Lecture 1 - Conditional PMFs",
+        "videoId": "hOys8IDWaJM",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Probability & Random Variables - Week 6 - Lecture 2 - Conditioning one random variable on another",
+        "videoId": "mKBdxtI1RfM",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Probability & Random Variables - Week 6 - Lecture 3 - Conditional Expectation",
+        "videoId": "oYLGfYgPizY",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Probability & Random Variables - Week 7 - Lecture 1 - Iterated expectation, independence of rvs",
+        "videoId": "VjMBVq7Eh5Q",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Probability & Random Variables - Week 7 - Lecture 2 - Independence of Random Variables",
+        "videoId": "uB62ziGKNuo",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Probability & Random Variables - Week 7 - Lecture 3 - Independence of Random Variables",
+        "videoId": "T9oA05FjSUE",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Probability & Random Variables - Week 8 - Lecture 1 - Continuous Random Variables",
+        "videoId": "9GjE-vBkeLk",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Probability & Random Variables - Week 8 - Lecture 2 - Expectation & Cumulative Distribution Function",
+        "videoId": "LXdY4aIK_AU",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Probability & Random Variables - Week 8 - Lecture 3 - Expectation & Cumulative Distribution Function",
+        "videoId": "CdN_Cximr88",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Probability & Random Variables - Week 9 - Lecture 1 - The Gaussian CDF",
+        "videoId": "HlY9UM3Cjrg",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Probability & Random Variables - Week 9 - Lecture 2 - Conditional PDFs, Joint PDFs",
+        "videoId": "9OD7Kk2hkFo",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Probability & Random Variables - Week 9 - Lecture 3 - Conditional PDFs, Joint PDFs",
+        "videoId": "QwggcnHMtsI",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Probability & Random Variables - Week 10 - Lecture 1 - Conditioning a continuous rv on another",
+        "videoId": "FxmDnaZ4MKA",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Probability & Random Variables - Week 10 - Lecture 2 - Conditional PDFs, Continuous Bayes's Rule",
+        "videoId": "WmjPh4e7Lwo",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Probability & Random Variables - Week 10 - Lecture 3 - Conditional PDFs, Derived Distributions",
+        "videoId": "PVg2fbalmW4",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Probability & Random Variables - Week 11 - Lecture 1 - Derived Distributions",
+        "videoId": "dkZYBNHNyEA",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Probability & Random Variables - Week 11 - Lecture 2 - Functions of Random Variables, Derived PDFs",
+        "videoId": "OBarsbw4RjU",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Probability & Random Variables - Week 11 - Lec. 3 - Sum of Independent rvs, Correlation & Covariance",
+        "videoId": "2GDtoZIIYZI",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Probability & Random Variables - Week 12 - Lecture 1 - Applications of Covariance",
+        "videoId": "qGE4tusW-CQ",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Probability & Random Variables - Week 12 - Lecture 2 - Transforms (Moment Generating Functions)",
+        "videoId": "8pQvxDFLqEk",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Probability & Random Variables - Week 12 - Lecture 3 - Transforms (Moment Generating Functions)",
+        "videoId": "gbTxzy0irOw",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Probability & Random Variables - Week 13 - Lec. 1-Markov&Chebychev Inequalities,Convergence In Prob.",
+        "videoId": "waaVawAdy9g",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Probability & Random Variables - Week 13 - Lecture 2 - The Weak Law of Large Numbers",
+        "videoId": "hbEbL7_eNgY",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Probability & Random Variables - Week 13 - Lecture 3 [Part 1] - The Central Limit Theorem",
+        "videoId": "88tPimrOIRo",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Probability & Random Variables - Week 13 - Lecture 3 [Part 2] - The Central Limit Theorem",
+        "videoId": "B7q8fIGGm60",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Probability & Random Variables - Week 14 - Lecture 1 - The Bernoulli Process",
+        "videoId": "qzhB7GRkaiM",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Probability & Random Variables - Week 14 - Lecture 2 - The Poisson Process",
+        "videoId": "c-OP4_qjMuk",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Probability & Random Variables - Week 14 - Lecture 3 - The Poisson Process",
+        "videoId": "Cdv0u9Y1kX8",
+        "ps": false
+      }
+    ]
+  },
+
+  "m18": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP62Ie7F_tTAhhXoX5_Cl8meG&si=4WkdtsWRMNL5GnNQ",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 1: Introduction to Real Numbers",
+        "videoId": "BWvjy0a1Ffg",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 2: Introduction to Real Numbers (cont.)",
+        "videoId": "6i6sV8WIzLc",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 3: How to Write a Proof; Archimedean Property",
+        "videoId": "QJ96fO8Eef4",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 4: Sequences; Convergence",
+        "videoId": "PzeCGelnheE",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 5: Monotone Convergence Theorem",
+        "videoId": "EjXtpzysDL4",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 6: Cauchy Convergence Theorem",
+        "videoId": "WCCpss6udNs",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 7: Bolzano–Weierstrass Theorem; Cauchy Sequences; Series",
+        "videoId": "qeDewaJ4n24",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 8: Convergence Tests for Series; Power Series",
+        "videoId": "lEMeyFq4-zQ",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 9: Limsup and Liminf; Power Series; Continuous Functions; Exponential Function",
+        "videoId": "MjRb8R33Ucc",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 10: Continuous Functions; Exponential Function (cont.)",
+        "videoId": "1qHVpGA_qfs",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 11: Extreme and Intermediate Value Theorem; Metric Spaces",
+        "videoId": "bhBQbi9sWFA",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Review for 18.100B Real Analysis Midterm",
+        "videoId": "r_AGxxITsbQ",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 12: Convergence in Metric Spaces; Operations on Sets",
+        "videoId": "VZnB3dGdHP4",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 13: Open and Closed Sets; Coverings; Compactness",
+        "videoId": "og-zyMIa5Dc",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 14: Sequential Compactness; Bolzano–Weierstrass Theorem in a Metric Space",
+        "videoId": "eGKpOd_0oSY",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 15: Derivatives; Laws for Differentiation",
+        "videoId": "UP--RL-YKhE",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 16: Rolle’s Theorem; Mean Theorem; L’Hôpital’s Rule; Taylor Expansion",
+        "videoId": "v9lcA7lwLlo",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 17: Taylor Polynomials; Remainder Term; Riemann Integrals",
+        "videoId": "yG4bJnFT5-o",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 18: Integrable Functions",
+        "videoId": "9rG-bs0TFQ8",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 19: Fundamental Theorem of Calculus",
+        "videoId": "_tZ102Wi0hE",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 20: Pointwise Convergence; Uniform Convergence",
+        "videoId": "ISVOH18BIHM",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 21: Integrals and Derivatives under Uniform Convergence",
+        "videoId": "_4m8hYQ3cR0",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 22: Differentiating and Integrating Power Series; Ordinary Differential Equations (ODEs)",
+        "videoId": "EDUMN4s44YU",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture 23: Existence & Uniqueness for ODEs: Picard–Lindelöf Theorem",
+        "videoId": "fsbVJxOhRcU",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Review for the 18.100B Real Analysis Final Exam",
+        "videoId": "75PZmUc0TK0",
+        "ps": false
+      }
+    ]
+  },
+
+  "m19": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP61kfOW3zAIfpNhf0piao8oo&si=lzol9y2xBoevISqK",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Introduction to Poker Theory",
+        "videoId": "OTkq4OsG_Yc",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Analytical Techniques",
+        "videoId": "tXVDY1HvrVU",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Basic Strategy",
+        "videoId": "LCoPLFaeq0U",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Preflop Analysis",
+        "videoId": "tssNDp5I6zA",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Tournament Play",
+        "videoId": "JQSTRkGEiWw",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Poker Economics",
+        "videoId": "IZZ4y5GfdOU",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Game Theory",
+        "videoId": "MnbQjpejZt4",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Decision Making",
+        "videoId": "kn92WXcKr0M",
+        "ps": false
+      }
+    ]
+  },
+
+  "m20": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63micsJp_--fRAjZXPrQzW_&si=8Yo_4Lkd_1vNSTKP",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 1: Basic Banach Space Theory",
+        "videoId": "uoL4lQxfgwg",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 2: Bounded Linear Operators",
+        "videoId": "78vN4sO7FVU",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 3: Quotient Spaces, the Baire Category Theorem and the Uniform Boundedness Theorem",
+        "videoId": "58B5dEJReQ8",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 4: The Open Mapping Theorem and the Closed Graph Theorem",
+        "videoId": "G3mAXHuoDSw",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 5: Zorn’s Lemma and the Hahn-Banach Theorem",
+        "videoId": "KlAjiDivJoQ",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 6: The Double Dual and the Outer Measure of a Subset of Real Numbers",
+        "videoId": "pWs93gASTJk",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 7: Sigma Algebras",
+        "videoId": "OHiu2F18dFA",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 8: Lebesgue Measurable Subsets and Measure",
+        "videoId": "cqdUuREzGuo",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 9: Lebesgue Measurable Functions",
+        "videoId": "ETmIxkbTm3I",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 10: Simple Functions",
+        "videoId": "TXMCTAF6SEE",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 11: The Lebesgue Integral of a Nonnegative Function and Convergence Theorems",
+        "videoId": "ZWzCHjN3_3s",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 12: Lebesgue Integrable Functions, the Lebesgue Integral and the Dominated Convergence...",
+        "videoId": "W2pw1JWc9k4",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 13: Lp Space Theory",
+        "videoId": "BYR1fXW95zY",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 14: Basic Hilbert Space Theory",
+        "videoId": "EBdgFFf54U0",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 15: Orthonormal Bases and Fourier Series",
+        "videoId": "Yb69dAq4uh8",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 16: Fejer’s Theorem and Convergence of Fourier Series",
+        "videoId": "8IxHMVf3jcA",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 17: Minimizers, Orthogonal Complements and the Riesz Representation Theorem",
+        "videoId": "KcI2_r51Eb8",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 18: The Adjoint of a Bounded Linear Operator on a Hilbert Space",
+        "videoId": "BctaYoR9tOY",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 19: Compact Subsets of a Hilbert Space and Finite-Rank Operators",
+        "videoId": "PBMyBVPRtKA",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 20: Compact Operators and the Spectrum of a Bounded Linear Operator on a Hilbert Space",
+        "videoId": "SFDMFbzCsH0",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 21: The Spectrum of Self-Adjoint Operators and the Eigenspaces of Compact Self-Adjoint...",
+        "videoId": "O0Tw47okZJM",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 22: The Spectral Theorem for a Compact Self-Adjoint Operator",
+        "videoId": "-sfaHVFWBU8",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 23: The Dirichlet Problem on an Interval",
+        "videoId": "QTg7040uSc0",
+        "ps": false
+      }
+    ]
+  },
+
+  "m21": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLB24BC7956EE040CD&si=hKSXL1DZsqLwHluD",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 1 | The Fourier Transforms and its Applications",
+        "videoId": "gZNm7L96pfY",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 2 | The Fourier Transforms and its Applications",
+        "videoId": "1rqJl7Rs6ps",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 3 | The Fourier Transforms and its Applications",
+        "videoId": "BjBb5IlrNsQ",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 4 | The Fourier Transforms and its Applications",
+        "videoId": "n5lBM7nn2eA",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 5 | The Fourier Transforms and its Applications",
+        "videoId": "X5qRpgfQld4",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 6 | The Fourier Transforms and its Applications",
+        "videoId": "4lcvROAtN_Q",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 7 | The Fourier Transforms and its Applications",
+        "videoId": "mdFETbe1n5Q",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 8 | The Fourier Transforms and its Applications",
+        "videoId": "wUT1huREHJM",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 9 | The Fourier Transforms and its Applications",
+        "videoId": "NrOR2qMVWOs",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 10 | The Fourier Transforms and its Applications",
+        "videoId": "LA4Uv6PMRTM",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 11 | The Fourier Transforms and its Applications",
+        "videoId": "FOxtFjYz6Tc",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 12 | The Fourier Transforms and its Applications",
+        "videoId": "MQ_qTG7dcJQ",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 13 | The Fourier Transforms and its Applications",
+        "videoId": "s99rd_tIozY",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 14 | The Fourier Transforms and its Applications",
+        "videoId": "47yUeygfj3g",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 15 | The Fourier Transforms and its Applications",
+        "videoId": "YueFuLSR_-Q",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 16 | The Fourier Transforms and its Applications",
+        "videoId": "2M8hBe0wPKM",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 17 | The Fourier Transforms and its Applications",
+        "videoId": "QQbEOjGOY5I",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 18 | The Fourier Transforms and its Applications",
+        "videoId": "PEUU0n9YIic",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 19 | The Fourier Transforms and its Applications",
+        "videoId": "XkA1nccwauM",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 20 | The Fourier Transforms and its Applications",
+        "videoId": "rO5NrBSaFVY",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 21 | The Fourier Transforms and its Applications",
+        "videoId": "T1XxNaUeTzQ",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 22 | The Fourier Transforms and its Applications",
+        "videoId": "st7Tiwr_Vuk",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 23 | The Fourier Transforms and its Applications",
+        "videoId": "C-_Fgcw5WM0",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture 24 | The Fourier Transforms and its Applications",
+        "videoId": "zKEh9CxFpsM",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 25 | The Fourier Transforms and its Applications",
+        "videoId": "K5_YieHrSNk",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture 26 | The Fourier Transforms and its Applications",
+        "videoId": "vaOj49mgohg",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture 27 | The Fourier Transforms and its Applications",
+        "videoId": "8Snl2iMqCx4",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture 28 | The Fourier Transforms and its Applications",
+        "videoId": "7tDT5kYe2Qw",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lecture 29 | The Fourier Transforms and its Applications",
+        "videoId": "E9DFgPEWjjU",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lecture 30 | The Fourier Transforms and its Applications",
+        "videoId": "xSUHVojA404",
+        "ps": false
+      }
+    ]
+  },
+
+  "m22": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLFW6lRTa1g83h_JvmQXmvwqyk1rIod15S&si=cG0u8AzoDK4TDAV2",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 01: Origin of Fourier series",
+        "videoId": "gevar4n0HQw",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 02: Convergence of a series and Riemann integration",
+        "videoId": "mkgAU68rl0I",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 03: Riemann integration and periodic functions",
+        "videoId": "wl790KZZx-Q",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 04: Fourier coefficients and series",
+        "videoId": "eM5ywZat4dY",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 05: Complex Fourier series",
+        "videoId": "rUPuVLD0L4Y",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 06: Riemann Lebesgue lemma and Dirichlet kernel",
+        "videoId": "93lHz5o8hgA",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 07: Convolution of two Riemann integrable functions",
+        "videoId": "2hlOGD1zpkg",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 08: Properties of convolution",
+        "videoId": "lxoW2z82WNY",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 09: Cesaro summability and summation by parts",
+        "videoId": "YNmKu6mDpRE",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 10: Fejer kernel",
+        "videoId": "Reo9G7t9VeU",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 11: Fejer theorem and applications",
+        "videoId": "20jOmFfhfRw",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 12: Good kernels and Poisson kernel",
+        "videoId": "sCqRDrH2lc0",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 13: Abel summability",
+        "videoId": "FgqSQG9Skps",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 14: Dirichlet problem",
+        "videoId": "VJ6opjfPpEM",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 15: Convergence at jump discontinuity",
+        "videoId": "mfqeP172Sxc",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 16: Orthonormal families",
+        "videoId": "x97g31krQDk",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 17: Pythagoras theorem and Parseval identity",
+        "videoId": "qnViea4OPJU",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 18: Pointwise convergence",
+        "videoId": "WZYHLUwb8yA",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 19: Parseval identity applications",
+        "videoId": "ZPAB7iEhRu4",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 20: Divergent Fourier series",
+        "videoId": "JS96DYRIU4k",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 21: Pointwise convergence of S_N(f)",
+        "videoId": "XIwk3pLYSdw",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 22: Isoperimetric problem",
+        "videoId": "aKZE3bfg7-Y",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 23: Weyl's equidistribution theorem",
+        "videoId": "v6Gk9A6J6ic",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture 24: on Equidistributed sequences",
+        "videoId": "TVSa8nDizq0",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 25: Proof of Weyl's criterion",
+        "videoId": "d1BR7TSQklo",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture 26: Fourier analysis on finite groups",
+        "videoId": "Ax0jId6g1ik",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture 27: Fourier transform on Z(N)",
+        "videoId": "B5EHt01KdwQ",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture 28: Inversion theorem and Parseval identity",
+        "videoId": "eI1MKq97yck",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lecture 29: Results on Fourier coefficients of two functions",
+        "videoId": "F3VJ-O0Okm8",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lecture 30: Fast Fourier transform",
+        "videoId": "_I5LCvAmXc4",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lecture 31: Fourier analysis on finite abelian group",
+        "videoId": "SZAK19szucw",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lecture 32: Fourier analysis on finite abelian groups",
+        "videoId": "9H4JPHX-uLY",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Lecture 33: Simultaneously diagonalizable operators and characters",
+        "videoId": "-GjPXGUzYic",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Lecture 34: Results of Fourier series on finite abelian group",
+        "videoId": "Y5qzVW4Zqd8",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Lecture 35: Applications in Number theory",
+        "videoId": "reSSNAOfgHA",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Lecture 36: Fourier transform on R",
+        "videoId": "t0R30jiAm3I",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Lecture 37: Properties of Fourier transform",
+        "videoId": "PLynrKC6nFg",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Lecture 38: Inversion formula and convolution",
+        "videoId": "U1LOGz_Fl2Y",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Lecture 39: Fejer kernel on R",
+        "videoId": "694eo1NH0oI",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Lecture 40: Schwartz space",
+        "videoId": "DYHe8ixNtQw",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Lecture 41: Convolution and Good kernel in Schwartz space",
+        "videoId": "Bq8Sif78ZVg",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Lecture 42: Multiplication formula and Fourier inversion theorem",
+        "videoId": "W8MJiQwCYX0",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "Lecture 43: Plancherel formula and Poisson summation formula",
+        "videoId": "4AC9IFw3t3U",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "Lecture 44: Application of Poisson summation formula",
+        "videoId": "OIlFdx9NwE0",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "Lecture 45: Weierstrass theorem and Heisenberg uncertainty principle",
+        "videoId": "Y9JOJfEzq5I",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "Lecture 46: Hermite operator",
+        "videoId": "i_jLejqZh1s",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "Lecture 47: Solution of ODE by using Fourier transform",
+        "videoId": "j4YrIVC-b5k",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "Lecture 48: Laplacian equation",
+        "videoId": "HDvIHBP3XUs",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "Lecture 49: Poisson kermal and mean value theorem for harmonic functions",
+        "videoId": "gvd-nXhDBro",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "Lecture 50: Wave equation",
+        "videoId": "sD2sjAkR4hA",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "Lecture 51: Eigenvalues of Fourier transform",
+        "videoId": "TuDVPc9t_0o",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "Lecture 52: Fourier transform on R^n",
+        "videoId": "kOxJnswrNPE",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "Lecture 53: Properties of Fourier transform on R^n",
+        "videoId": "besFANEU2-8",
+        "ps": false
+      },
+      {
+        "n": 54,
+        "title": "Lecture 54: Inversion theorem and Plancherel theorem",
+        "videoId": "eUuUYfBdauE",
+        "ps": false
+      },
+      {
+        "n": 55,
+        "title": "Lecture 55: Wave equation, heat equation and Poisson kernel",
+        "videoId": "vYWQZzvaEj4",
+        "ps": false
+      },
+      {
+        "n": 56,
+        "title": "Lecture 56: Fourier series in higher dimension",
+        "videoId": "CC04JPea_VU",
+        "ps": false
+      },
+      {
+        "n": 57,
+        "title": "Lecture 57: Poission summation formula",
+        "videoId": "i-Q-WOX4AA4",
+        "ps": false
+      },
+      {
+        "n": 58,
+        "title": "Lecture 58: Application of Poission summation formula",
+        "videoId": "xgy8buDY3ic",
+        "ps": false
+      },
+      {
+        "n": 59,
+        "title": "Lecture 59: Radon transform",
+        "videoId": "w_raBH1D1vk",
+        "ps": false
+      },
+      {
+        "n": 60,
+        "title": "Lecture 60: Reconstruction formula",
+        "videoId": "LdO46KclYos",
+        "ps": false
+      }
+    ]
+  },
+
+  "m25": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX&si=WB3LlaPg6dSjb7to",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1. A bridge between graph theory and additive combinatorics",
+        "videoId": "RDO6Py97IDg",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2. Forbidding a subgraph I: Mantel's theorem and Turán's theorem",
+        "videoId": "YAo1sd4kuOQ",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "3. Forbidding a subgraph II: complete bipartite subgraph",
+        "videoId": "hDwkKrWqdZE",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "4. Forbidding a subgraph III: algebraic constructions",
+        "videoId": "4LYom0ekars",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "5. Forbidding a subgraph IV: dependent random choice",
+        "videoId": "NpMv0Nqmy3c",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "6. Szemerédi's graph regularity lemma I: statement and proof",
+        "videoId": "vcsxCFSLyP8",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "7. Szemerédi's graph regularity lemma II: triangle removal lemma",
+        "videoId": "RD9AWDdj-Yk",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "8. Szemerédi's graph regularity lemma III: further applications",
+        "videoId": "oiKLWa_0dhs",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "9. Szemerédi's graph regularity lemma IV: induced removal lemma",
+        "videoId": "3IxWLibV_tU",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "10. Szemerédi's graph regularity lemma V: hypergraph removal and spectral proof",
+        "videoId": "rBUFitIoE14",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "11. Pseudorandom graphs I: quasirandomness",
+        "videoId": "TgPcNnUrE24",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "12. Pseudorandom graphs II: second eigenvalue",
+        "videoId": "Rlvwagd2BmY",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "13. Sparse regularity and the Green-Tao theorem",
+        "videoId": "EnPjyNsEHQM",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "14. Graph limits I: introduction",
+        "videoId": "P3tGiT72APw",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "15. Graph limits II: regularity and counting",
+        "videoId": "9gy-CAwx0Ls",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "16. Graph limits III: compactness and applications",
+        "videoId": "nCWwhF0TkVI",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "17. Graph limits IV: inequalities between subgraph densities",
+        "videoId": "mJziV7sAZm4",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "18. Roth's theorem I: Fourier analytic proof over finite field",
+        "videoId": "buEtwpGvQpI",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "19. Roth's theorem II: Fourier analytic proof in the integers",
+        "videoId": "50oEJs-HZHQ",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "20. Roth's theorem III: polynomial method and arithmetic regularity",
+        "videoId": "DUA6lk7X2VY",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "21. Structure of set addition I: introduction to Freiman's theorem",
+        "videoId": "oLwZFBZylUw",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "22. Structure of set addition II: groups of bounded exponent and modeling lemma",
+        "videoId": "RwikpgvkN_o",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "23. Structure of set addition III: Bogolyubov's lemma and the geometry of numbers",
+        "videoId": "BatYGepHsnc",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "24. Structure of set addition IV: proof of Freiman's theorem",
+        "videoId": "IfwfCe-JZaI",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "25. Structure of set addition V: additive energy and Balog-Szemerédi-Gowers theorem",
+        "videoId": "MlYhHsq_tOU",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "26. Sum-product problem and incidence geometry",
+        "videoId": "ydyiq1Z22gc",
+        "ps": false
+      }
+    ]
+  },
+
+  "m26": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0&si=4EOb4AqOIarj5ept",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1. Introduction to Statistics",
+        "videoId": "VPZD_aij8H0",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2. Introduction to Statistics (cont.)",
+        "videoId": "C_W1adH-NVE",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "3. Parametric Inference",
+        "videoId": "TSkDZbGS94k",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "4. Parametric Inference (cont.) and Maximum Likelihood Estimation",
+        "videoId": "rLlZpnT02ZU",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "5. Maximum Likelihood Estimation (cont.)",
+        "videoId": "0Va2dOLqUfM",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "6. Maximum Likelihood Estimation (cont.) and the Method of Moments",
+        "videoId": "JTbZP0yt9qc",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "7. Parametric Hypothesis Testing",
+        "videoId": "phbw9r1iUDI",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "8. Parametric Hypothesis Testing (cont.)",
+        "videoId": "4HRhg4eUiMo",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "9. Parametric Hypothesis Testing (cont.)",
+        "videoId": "QXkOaifVfW4",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "11. Parametric Hypothesis Testing (cont.) and Testing Goodness of Fit",
+        "videoId": "a66tfLdr6oY",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "12. Testing Goodness of Fit (cont.)",
+        "videoId": "vMaKx9fmJHE",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "13. Regression",
+        "videoId": "yP1S37BiEsQ",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "14. Regression (cont.)",
+        "videoId": "JBIz7UadY5M",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "15. Regression (cont.)",
+        "videoId": "V4xOdtqic3o",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "17. Bayesian Statistics",
+        "videoId": "bFZ-0FH5hfs",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "18. Bayesian Statistics (cont.)",
+        "videoId": "k2inA31Gups",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "19. Principal Component Analysis",
+        "videoId": "WW3ZJHPwvyg",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "20. Principal Component Analysis (cont.)",
+        "videoId": "a1ZCeFpeW0o",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "21. Generalized Linear Models",
+        "videoId": "X-ix97pw0xY",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "22. Generalized Linear Models (cont.)",
+        "videoId": "mc1y8m9-hOM",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "23. Generalized Linear Models (cont.)",
+        "videoId": "OYcdw5vOgIc",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "24. Generalized Linear Models (cont.)",
+        "videoId": "lWW54ts9Ubo",
+        "ps": false
+      }
+    ]
+  },
+
+  "m27": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8&si=2gUWRU0oB58Msrgv",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Introduction to number theory lecture 1.",
+        "videoId": "EzE6it9kAsI",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Introduction to number theory lecture 2: Survey.",
+        "videoId": "mduJOLdKrak",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Introduction to number theory lecture 3: Divisibility and Euclid's algorithms.",
+        "videoId": "pVKhDtOjji8",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Introduction to number theory lecture 4. More on Euclid's algorithm",
+        "videoId": "R-O8j7FHEXI",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Introduction to number theory lecture 5. Primes.",
+        "videoId": "VRrP4US7idg",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Introduction to number theory lecture 6. Multiplicative functions.",
+        "videoId": "skTslDpxeL8",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Introduction to number theory lecture 7. Binomial coefficients.",
+        "videoId": "TBolWCObRgg",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Introduction to number theory lecture 8. Applications of binomial coefficients",
+        "videoId": "KIvuGT5V1Fg",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Introduction to number theory lecture 9: Congruences",
+        "videoId": "E1tikA1GEVU",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Introduction to number theory lecture 10. Fermat's theorem",
+        "videoId": "fgHEKAdErbU",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Introduction to number theory lecture 11. Euler's theorem",
+        "videoId": "V4cB7t-zHxE",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Introduction to number theory lecture 12 Wilson's theorem",
+        "videoId": "3JBaDZqtgug",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Introduction to number theory lecture 13. The Chinese remainder theorem.",
+        "videoId": "q99aBlC5Xfk",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Introduction to number theory lecture 14. Euler's totient function",
+        "videoId": "8I0z_Lobtso",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Introduction to number theory lecture 15. Numerical calculation",
+        "videoId": "ne0gHR57qUU",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Introduction to number theory lecture 16. More numerical calculation",
+        "videoId": "roBKA4adPJE",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Introduction to number theory lecture 17. Factorization.",
+        "videoId": "Imxx1tFDeSw",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Introduction to number theory lecture 18. Cryptography",
+        "videoId": "16dAteWM5ZA",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Introduction to number theory lecture 19. Hensel and Newton's method",
+        "videoId": "nrH2vs04TyQ",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Introduction to number theory lecture 20. p-adic numbers.",
+        "videoId": "1HTq2zq2RtY",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Introduction to number theory lecture 21. Congruences modulo a prime.",
+        "videoId": "E-6llnLZ7J8",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Introduction to number theory lecture 22. Chevalley-Warning theorem",
+        "videoId": "6QZYfpcf79I",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Introduction to number theory lecture 23. Primitive roots.",
+        "videoId": "E8UTP0DiCCg",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Introduction to number theory lecture 24. Primitive roots for prime powers",
+        "videoId": "AfRpXi8r0So",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Introduction to number theory lecture 25. Quadratic equations mod p.",
+        "videoId": "H7WFEGrmMEs",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Introduction to number theory lecture 26. Roots of polynomials modulo a prime.",
+        "videoId": "GcJImruRSyE",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Introduction to number theory lecture 27. Groups and number theory",
+        "videoId": "bpzNGhiT4OI",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Introduction to number theory lecture 28. Products of groups",
+        "videoId": "SLONKxYCmiA",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Introduction to number theory lecture 29. Rings in number theory",
+        "videoId": "7IP3YvM1dP0",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Introduction to number theory lecture 30. Fields in number theory",
+        "videoId": "leBH9QpD9PQ",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Introduction to number theory lecture 31. Quadratic residues.",
+        "videoId": "Pz6CL0nRmGQ",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Introduction to number theory lecture 32. Calculation of the Legendre symbol",
+        "videoId": "MxwdmjtK1BQ",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Introduction to number theory lecture 33. Quadratic reciprocity",
+        "videoId": "k8qJaV7qGL4",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Introduction to number theory lecture 34. Gauss sums",
+        "videoId": "arL7oQV4asY",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Introduction to number theory lecture 35 Jacobi symbol",
+        "videoId": "tcg8AMBJtek",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Introduction to number theory lecture 36 Kronecker symbol",
+        "videoId": "8jnxAC9E4yE",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Introduction to number theory lecture 37 Continued fractions",
+        "videoId": "MCPn7Bnuh2o",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Introduction to number theory lecture 38. Binary quadratic forms",
+        "videoId": "13YcTRHzyDg",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Introduction to number theory lecture 39: Equivalence of binary quadratic forms",
+        "videoId": "APgObNrZbjk",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Introduction to number theory lecture 40. Examples of positive definite forms",
+        "videoId": "SpY0XjGF5Mk",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Introduction to number theory lecture 41: More examples of binary quadratic forms",
+        "videoId": "ymLXK06XErQ",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Introduction to number theory lecture 42. Examples of indefinite binary quadratic forms.",
+        "videoId": "ukbBe0ZvNp4",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "Introduction to number theory lecture 43 Gaussian integers",
+        "videoId": "MymWx2wJL7Y",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "Introduction to number theory lecture 44 Pythagorean triangles",
+        "videoId": "SCdDBYRrDtM",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "Introduction to number theory lecture 45 Dirichlet series",
+        "videoId": "A4n-Zy6OAwE",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "Introduction to number theory lecture 46. Products of Dirichlet series",
+        "videoId": "lAAXBUuU9wY",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "Introduction to number theory lecture 47. The prime number theorem",
+        "videoId": "TxuIK_Rg0lI",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "Introduction to number theory lecture 48 Proof of the prime number theorem",
+        "videoId": "Mn2LeGAolAw",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "Introduction to number theory lecture 49. Dirichlet's theorem",
+        "videoId": "eHhyVx2cTw4",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "Introduction to number theory lecture 50. Dirichlet characters",
+        "videoId": "P-muxBNVbCg",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "Introduction to number theory lecture 51. Proof of Dirichlet's theorem",
+        "videoId": "Gl10NCS6eBI",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "Introduction to number theory lecture 52. Nonvanishing of L series at s=1.",
+        "videoId": "MMii73Cubsw",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "Introduction to number theory lecture 53. Three calculators for number theorists",
+        "videoId": "P1I3_x0tk2A",
+        "ps": false
+      }
+    ]
+  },
+
+  "m28": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLo4jXE-LdDTQq8ZyA8F8reSQHej3F6RFX&si=myCfvl6v-ugDlADf",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 01: Introduction: a non-measurable set",
+        "videoId": "llnNaRzuvd4",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 02: Classes of subsets (semi-algebras, algebras and sigma-algebras), and set functions",
+        "videoId": "ZyiI3cARLT0",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 03: Set functions",
+        "videoId": "6LMZLlSH3uM",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 04: Caratheodory theorem",
+        "videoId": "M8YGBuiqaOE",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 05: Monotone classes",
+        "videoId": "4XhMgu_ekeY",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 06: The Lebesgue measure",
+        "videoId": "Odcz3r-yI3U",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 07: The Lebesgue measure, II",
+        "videoId": "l7rHio5GkVA",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 08: Complete measures",
+        "videoId": "mZqXAVDkxfU",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 09: Approximation theorems",
+        "videoId": "FOXhbYPT2tI",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 10: Integration: measurable and simple functions",
+        "videoId": "JCDqrRRSegk",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 11: Measurable functions",
+        "videoId": "jQjY4cgz1_o",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 12: Definition of the integral",
+        "videoId": "9JEUIte9xOE",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 13: Integral of simple functions",
+        "videoId": "OLdBeIo7b9E",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 14: Properties of the integral, 01",
+        "videoId": "9Ddnen8-jtE",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 15: Properties of the integral, 02",
+        "videoId": "jzTmXeMaVuE",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 16: Theorems on the convergence of integrals.",
+        "videoId": "HhCEPmP54pE",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 17: Product measures.",
+        "videoId": "lciB7HUWegk",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 18: Measure on a countable product of spaces",
+        "videoId": "my9WhQkstZE",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 19: Fubini's Theorem",
+        "videoId": "rVoHZBQxW-8",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 20: Hahn-Jordan Theorem",
+        "videoId": "SRddcc9evao",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 21: Radon-Nikodym Theorem",
+        "videoId": "sKQ6XLPymCg",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 22: Almost sure and almost uniform",
+        "videoId": "v3CrJKdZ4ZE",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 23: Convergence in Measure",
+        "videoId": "6JyDL2YTUQQ",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture 24: Hölder and Minkowski inequalities",
+        "videoId": "ufd6ggu_RC0",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 25:  L_p spaces",
+        "videoId": "BWnV8fBlDQQ",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture 26: From convergence in measure to convergence in L_p",
+        "videoId": "kmHz6AOjnMw",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture 27: Bounded linear operators in L_p",
+        "videoId": "B4j1xl7qmmk",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture 28: Vitali`s covering lemma",
+        "videoId": "bCaPvg61gdU",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lecture 29: Differentiability of functions of bounded variations",
+        "videoId": "8psyREbfoIs",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lecture 30: Absolutely continuous functions",
+        "videoId": "-QxjdbCyidk",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lecture 31: Decomposition of distribution",
+        "videoId": "DDPZPOsGNbk",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lecture 32: Cantor ternary set and function",
+        "videoId": "e47L5PMYV0o",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Exercise 1: Solution of exercise 3.2.4",
+        "videoId": "jGMQg2tmLqo",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Exercise 2: Solution of exercise 6.4.3",
+        "videoId": "hCAxo2jMgTM",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Exercise 3: Solution of exercise 9.2.3",
+        "videoId": "eukTOViFPpg",
+        "ps": false
+      }
+    ]
+  },
+  
   "ml0": {
     "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&si=jUhsTwjIis3vdQhY",
     "notesPage": "",
