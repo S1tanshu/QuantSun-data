@@ -1105,7 +1105,7 @@
     "code": "Econ 251",
     "name": "Financial Theory",
     "source": "Youtube",
-    "link": "https://www.youtube.com/playlist?list=PLEDC55106E0BA18FC",
+    "playlistUrl": "https://youtube.com/playlist?list=PLEDC55106E0BA18FC&si=-cT1mdQXhrjQZEHY",
     "lectures": "0/26",
     "priority": "A",
     "status": 0
@@ -1141,7 +1141,8 @@
     "code": "MIT 14.01",
     "name": "Principles of Microeconomics",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+14.01+Principles+of+Microeconomics+Fall+2023",
+    "playlistUrl": "https://youtube.com/playlist?list=PLy6XYfx2fDJ-oFLJihRo16tQmX_VdSMgu&si=bsdUmFRVxA44iwVN",
+    "link": "https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/lists/lecture-handouts/",
     "lectures": "0/26",
     "priority": "B",
     "status": 0
@@ -1153,7 +1154,8 @@
     "code": "MIT 14.02",
     "name": "Principles of Macroeconomics",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+14.02+Principles+of+Macroeconomics+Spring+2023",
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQxkb&si=1i6HkupWR_DMy81P",
+    "link": "https://ocw.mit.edu/courses/14-02-principles-of-macroeconomics-spring-2023/pages/topics-and-readings/",
     "lectures": "0/25",
     "priority": "B",
     "status": 0
@@ -1165,7 +1167,8 @@
     "code": "MIT 14.771",
     "name": "Development Economics",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+14.771+Development+Economics+Fall+2021",
+    "link": "https://ocw.mit.edu/courses/14-771-development-economics-fall-2021/pages/lecture-slides/",
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP61kvh3caDts2R6LmkYbmzaG&si=4paErPMoNwkY_cEV",
     "lectures": "0/25",
     "priority": "C",
     "status": 0
@@ -1177,7 +1180,7 @@
     "code": "NPTEL",
     "name": "Quantitative Investment Management (NPTEL)",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Quantitative+Investment+Management+NPTEL",
+    "playlistUrl": "https://youtube.com/playlist?list=PLLy_2iUCG87Dn-7ofD1-0U3N-zXF3qWOt&si=RZ9z2zLq4DqIRHg9",
     "lectures": "0/61",
     "priority": "A",
     "status": 0
@@ -1189,7 +1192,7 @@
     "code": "NPTEL",
     "name": "Quantitative Finance (NPTEL)",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Quantitative+Finance+NPTEL",
+    "playlistUrl": "https://youtube.com/playlist?list=PLDfJoyVy2hk55mpgYKDnOmuxK6RzIDRma&si=rFiUiaJBBvdlSvBX",
     "lectures": "0/52",
     "priority": "A",
     "status": 0
@@ -1225,7 +1228,8 @@
     "code": "MIT 14.13",
     "name": "Psychology and Economics",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+14.13+Psychology+and+Economics+Spring+2020",
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63Z979ri_UXXk_1zrvrF77Q&si=FkeWYBCa4rRwF-4k",
+    "link": "https://ocw.mit.edu/courses/14-13-psychology-and-economics-spring-2020/pages/lecture-slides/",
     "lectures": "0/24",
     "priority": "B",
     "status": 0
@@ -1297,7 +1301,8 @@
     "code": "MIT 15.401",
     "name": "Finance Theory I",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+15.401+Finance+Theory+I+Fall+2008",
+    "link": "https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/",
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW&si=oPtmOZE0zeNMoj6g",
     "lectures": "0/20",
     "priority": "A",
     "status": 0
@@ -1305,12 +1310,12 @@
   {
     "id": "f17",
     "subject": "Finance & Economics",
-    "institution": "MIT",
-    "code": "MIT 15.414",
-    "name": "Financial Management",
-    "source": "MIT OCW",
-    "link": "https://ocw.mit.edu/search/?q=MIT+15.414+financial+management",
-    "lectures": "0/?",
+    "institution": "IIT",
+    "code": "NPTEL",
+    "name": "Financial Management for Managers",
+    "source": "Youtube",
+    "playlistUrl": "https://youtube.com/playlist?list=PLLy_2iUCG87CXY2B6fPex1SOIqxzzD5Wj&si=KKrpN2bg2a3MuQcX",
+    "lectures": "0/61",
     "priority": "B",
     "status": 0
   },
@@ -1321,7 +1326,8 @@
     "code": "MIT 18.S096",
     "name": "Topics in Mathematics with Applications in Finance",
     "source": "MIT OCW",
-    "link": "https://www.youtube.com/results?search_query=MIT+18.S096+Topics+in+Mathematics+with+Applications+in+Finance",
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR&si=tnAN49OC3qa-I-je",
+    "link": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/pages/lecture-notes/",
     "lectures": "0/24",
     "priority": "A",
     "status": 0
@@ -1333,7 +1339,7 @@
     "code": "NPTEL",
     "name": "Financial Statements Analysis and Reporting",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Financial+Statement+Analysis+And+Reporting+NPTEL",
+    "playlistUrl": "https://youtube.com/playlist?list=PLPjSqITyvDeUTeAOGhip_ubjN3y8oqT13&si=lFDMH5a2cRPmJR0X",
     "lectures": "0/60",
     "priority": "B",
     "status": 0
@@ -1345,8 +1351,9 @@
     "code": "MIT 15.S12",
     "name": "Blockchain and Money",
     "source": "MIT OCW",
-    "link": "https://ocw.mit.edu/search/?q=MIT+15.S12+blockchain+money",
-    "lectures": "0/24",
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn&si=HBrrwmLd2hca1fyM",
+    "link": "https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/pages/lecture-slides/",
+    "lectures": "0/23",
     "priority": "B",
     "status": 0
   },
@@ -1367,9 +1374,9 @@
     "subject": "Finance & Economics",
     "institution": "Others",
     "code": "NPTEL",
-    "name": "Algorithmic Trading and Portfolio Management (NPTEL)",
+    "name": "Algorithmic Trading and Portfolio Management",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Advanced+Algorithmic+Trading+and+Portfolio+Management+NPTEL",
+    "playlistUrl": "https://youtube.com/playlist?list=PLFW6lRTa1g80AzQhQ70y04ewp9-2aKxkP&si=1broLvk05KKRwz6r",
     "lectures": "0/28",
     "priority": "A",
     "status": 0
@@ -1405,8 +1412,20 @@
     "code": "NPTEL",
     "name": "Applied Econometrics (NPTEL)",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Applied+Econometrics+NPTEL",
+    "playlistUrl": "https://youtube.com/playlist?list=PLyqSpQzTE6M-_17_rQS9WcLZFeYRe0alq&si=Z1wEYrohHk-6CeGQ",
     "lectures": "0/59",
+    "priority": "A",
+    "status": 0
+  },
+   {
+    "id": "f26",
+    "subject": "Finance & Economics",
+    "institution": "Others",
+    "code": "NPTEL",
+    "name": "Quantitative Techniques for Managers",
+    "source": "Youtube",
+    "playlistUrl": "https://youtube.com/playlist?list=PL300dEvt9oC3iYmkxv61ZAkPHMQ1Y81-l&si=8xZ0PEhnQMiB_q-w",
+    "lectures": "0/41",
     "priority": "A",
     "status": 0
   }
