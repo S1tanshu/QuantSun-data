@@ -1080,7 +1080,8 @@
     "code": "UCB",
     "name": "Number Theory (Berkeley Math 115)",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Introduction+to+number+theory+Berkeley+Math+115",
+    "playlistUrl": "https://youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8&si=2gUWRU0oB58Msrgv",
+    "link": "https://math.berkeley.edu/~vojta/115.html",
     "lectures": "0/53",
     "priority": "C",
     "status": 0
@@ -1089,22 +1090,10 @@
     "id": "m28",
     "subject": "Mathematics",
     "institution": "Others",
-    "code": "Real Numbers",
-    "name": "Real Numbers (Jane Street)",
-    "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Real+Numbers+Jane+Street",
-    "lectures": "0/16",
-    "priority": "B",
-    "status": 0
-  },
-  {
-    "id": "m29",
-    "subject": "Mathematics",
-    "institution": "Others",
     "code": "Measure Theory",
     "name": "Measure Theory (Masters Programme)",
     "source": "Youtube",
-    "link": "https://www.youtube.com/results?search_query=Masters+Program+Measure+Theory+2018",
+    "playlistUrl": "https://youtube.com/playlist?list=PLo4jXE-LdDTQq8ZyA8F8reSQHej3F6RFX&si=myCfvl6v-ugDlADf",
     "lectures": "0/35",
     "priority": "B",
     "status": 0
