@@ -4214,6 +4214,169 @@
       }
     ]
   },
+  "f0": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLEDC55106E0BA18FC&si=--hBqzTNJ6C0YOg7",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1. Why Finance?",
+        "videoId": "vTs2IQ8OefQ",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2. Utilities, Endowments, and Equilibrium",
+        "videoId": "VX4eYYmvQ78",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "3. Computing Equilibrium",
+        "videoId": "8ITrtcbyTWw",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "4. Efficiency, Assets, and Time",
+        "videoId": "b7OUq1hMBbQ",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "5. Present Value Prices and the Real Rate of Interest",
+        "videoId": "IVxmtb3zTlk",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "6. Irving Fisher's Impatience Theory of Interest",
+        "videoId": "GTzatG_pUmg",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "7. Shakespeare's Merchant of Venice and Collateral, Present Value and the Vocabulary of Finance",
+        "videoId": "FJW9eGGH_tg",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "8. How a Long-Lived Institution Figures an Annual Budget. Yield",
+        "videoId": "J8ZqrBvW07s",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "9. Yield Curve Arbitrage",
+        "videoId": "5SHYky2ddp4",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "10. Dynamic Present Value",
+        "videoId": "Hgj2LL7HetM",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "11. Social Security",
+        "videoId": "WMyOjHtFVFU",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "12. Overlapping Generations Models of the Economy",
+        "videoId": "ecqWJ_7ERCI",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "13. Demography and Asset Pricing: Will the Stock Market Decline when the Baby Boomers Retire?",
+        "videoId": "cMjAdnQA7xk",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "14. Quantifying Uncertainty and Risk",
+        "videoId": "yvcg_WE5O-o",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "15. Uncertainty and the Rational Expectations Hypothesis",
+        "videoId": "RS2DJmyGI8Y",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "16. Backward Induction and Optimal Stopping Times",
+        "videoId": "IPNl-jD1vhw",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "17. Callable Bonds and the Mortgage Prepayment Option",
+        "videoId": "rH-0KBgQk2E",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "18. Modeling Mortgage Prepayments and Valuing Mortgages",
+        "videoId": "qbEsK92KpQI",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "19. History of the Mortgage Market: A Personal Narrative",
+        "videoId": "9pFfOe2d_h0",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "20. Dynamic Hedging",
+        "videoId": "gXrCrXuU2_g",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "21. Dynamic Hedging and Average Life",
+        "videoId": "DAd7LFM0jK8",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "22. Risk Aversion and the Capital Asset Pricing Theorem",
+        "videoId": "aGQsjueE07Y",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "23. The Mutual Fund Theorem and Covariance Pricing Theorems",
+        "videoId": "3PrwVXPCeNI",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "24. Risk, Return, and Social Security",
+        "videoId": "tSN9lDnbTNk",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "25. The Leverage Cycle and the Subprime Mortgage Crisis",
+        "videoId": "lb5Q1Jur0I0",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "26. The Leverage Cycle and Crashes",
+        "videoId": "yenfxh_arkg",
+        "ps": false
+      }
+    ]
+  },
   
   "f2": {
     "playlistUrl": "https://youtube.com/playlist?list=PL6EF60E1027E1A10B&si=kjSQThE2TvkmzFid",
@@ -4366,7 +4529,5062 @@
       }
     ]
   },
+   "f3": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLy6XYfx2fDJ-oFLJihRo16tQmX_VdSMgu&si=bsdUmFRVxA44iwVN",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lec 1: Introduction to Principles of Microeconomics and Supply & Demand",
+        "videoId": "8ssjKR7nNck",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lec 2: Preferences and Utility Function",
+        "videoId": "uuY13aUtFUo",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lec 3: Budget Constraints and Constrained Choice",
+        "videoId": "c8K_FSLtceQ",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lec 4: Demand Curves and Income/Substitution Effects",
+        "videoId": "Qj1HvrSKLqY",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lec 5: Production Theory",
+        "videoId": "Q7-mCKOzNUI",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lec 6: Costs",
+        "videoId": "y1bnBxfNVkU",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lec 7: Competition I",
+        "videoId": "IYwk6EwPmCg",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lec 8: Competition II",
+        "videoId": "sHlazW9s_g8",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lec 9: Supply and Demand & Consumer/Producer Surplus",
+        "videoId": "-Z35m38qLd4",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lec 10: Welfare Economics",
+        "videoId": "1zAuKwZ5PPE",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lec 11: Monopoly I",
+        "videoId": "CD_HqiEdNOw",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lec 12: Monopoly II",
+        "videoId": "iBmoqczj7xs",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lec 13: Oligopoly I",
+        "videoId": "_crDeSDpB20",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lec 14: Oligopoly II",
+        "videoId": "omeBIMSJ89k",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lec 15: Input Markets I—Labor Market",
+        "videoId": "kUt5rgd8kfc",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lec 16: Input Markets II—Labor and Capital",
+        "videoId": "Zl92WCm30bU",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lec 17: Making Choices over Time",
+        "videoId": "CZwgOqxScB4",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lec 18: Introduction to Trade",
+        "videoId": "KVV8pUOap2I",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lec 19: International Trade: Welfare and Policy",
+        "videoId": "TxoAbm57ELE",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lec 20: Uncertainty",
+        "videoId": "qwNTv1tjKbA",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lec 21: Social Insurance",
+        "videoId": "rXwgo-9xZDo",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lec 22: Efficiency and Equity",
+        "videoId": "8sgl_wzzQUY",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lec 23: Government Redistribution and Taxation",
+        "videoId": "DB7dSaro4cE",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lec 24: Externalities",
+        "videoId": "EDGRxqnILUM",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lec 25: Behavioral Economics",
+        "videoId": "TT7ZUJGPqos",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lec 26: Health Care Economics",
+        "videoId": "VoLP28-OSRU",
+        "ps": false
+      }
+    ]
+  },
 
+  "f4": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQxkb&si=1i6HkupWR_DMy81P",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 1: Introduction to 14.02 Principles of Macroeconomics",
+        "videoId": "heBErnN3ZPk",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 2: Basic Macroeconomic Concepts",
+        "videoId": "kmUPK9AIE64",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 3: The Goods Market",
+        "videoId": "fxrwTj2i_S4",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 4: The Financial Market",
+        "videoId": "b5H8D_wD2AY",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 5: IS-LM Model",
+        "videoId": "qg_HT3CjFI4",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 6: IS-LM, continued",
+        "videoId": "gYgARXwnZTk",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 7: An Extended IS-LM Model",
+        "videoId": "fkiWQZPOHXk",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 8: The Labor Market",
+        "videoId": "oQ2mTN1_bus",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 9: The Phillips Curve and Inflation",
+        "videoId": "mhqsslG9tyw",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 10: Quiz 1 Review",
+        "videoId": "XEETOp5jo9w",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 11: The IS-LM-PC Model",
+        "videoId": "QMtbUSfRWBY",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 12: IS-LM-PC Model continued",
+        "videoId": "yoq0ENMiR4w",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 13: The Facts of Growth",
+        "videoId": "v3k6BbBLULI",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 14: Saving, Capital Accumulation, and Output",
+        "videoId": "VE4whF07w08",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 15: Technological Progress and Growth",
+        "videoId": "nNqnivVl8WI",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 16: Convergence and Cross-Country Variation",
+        "videoId": "ijXdeJTL6OU",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 17: Introduction to Open Economy",
+        "videoId": "5uygC4oJvCI",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 18: Quiz 2 Review",
+        "videoId": "yv0KsBKJzKY",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 19: The Goods Market in the Open Economy",
+        "videoId": "f5ExlmDGdro",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 20: The Mundell-Fleming Model",
+        "videoId": "ucPrWHF_5Lc",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 21: Exchange Rate Regimes",
+        "videoId": "84LF3ze7Yvw",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 22: Financial Markets and Expectations",
+        "videoId": "csWwk_MOLww",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 23: Asset Pricing",
+        "videoId": "dCJEeSD7hKk",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture 24: IS-LM and Expectations",
+        "videoId": "bEWpXwflCoY",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 25: Quiz 3 Review",
+        "videoId": "spY5kl_EYDU",
+        "ps": false
+      }
+    ]
+  },
+
+  "f5": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP61kvh3caDts2R6LmkYbmzaG&si=4paErPMoNwkY_cEV",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 1: Introduction to Development Economics",
+        "videoId": "fIFB6SBw2lU",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 2: Poverty Traps: Theory",
+        "videoId": "jOLB1V0pGhU",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 3: Poverty Traps: Graduation Programs",
+        "videoId": "mtE19r9w6Fc",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 4: Behavioral Development Economics: Introduction",
+        "videoId": "wG9h-_4xhgk",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 5: Behavioral Development Economics: Psychology of Poverty",
+        "videoId": "dVvaurs76gk",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 6: Investing in Human Capital: Theory",
+        "videoId": "9a0RQnfBDi8",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 7: Demand for Education",
+        "videoId": "N-67gRDE3UQ",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 8: Private and Social Returns to Education",
+        "videoId": "Had-EG2Af-w",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 9: Supply of Education",
+        "videoId": "G6bUKW3S_Us",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 10: Savings",
+        "videoId": "isycxGdK-1Q",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 11: Demand for Health (Part 1)",
+        "videoId": "1yk14xq4u5U",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 12: Demand for Health (Part 2)",
+        "videoId": "6Ee1tj3_4xQ",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 13: Family",
+        "videoId": "Ay6wUNvEqxs",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 14: Supply of Health Care (Part 2)/ Gender (Part 1)",
+        "videoId": "OlEM_etZCVE",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 15: Gender and the Labor Market",
+        "videoId": "Liy6fEbv8OU",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 16: Land Markets (Part 1)",
+        "videoId": "cSgaMRF4NlY",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 17: Land Markets (Part 2)",
+        "videoId": "9_UKNSPPrZ4",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 18: Land Markets (Part 3) / Public Finance (part 1)",
+        "videoId": "1N_iAJq1dU4",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 19: Public Finance (Part 2)",
+        "videoId": "Sl4JvEXA-lw",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 20: Public Finance (Part 3)",
+        "videoId": "_RyRYO4v24w",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 21: PF (Part 4) / Labor (Part 1)",
+        "videoId": "Zo23YuwWhZM",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 22: Labor (Part 2)",
+        "videoId": "DhNkLYeApck",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 23: Labor (Part 3)",
+        "videoId": "xpxx-uXnixA",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture 24: Credit (Part 1)",
+        "videoId": "73wmLvud_O8",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 25: Credit (Part 2)",
+        "videoId": "GbFm5N20gJk",
+        "ps": false
+      }
+    ]
+  },
+
+  "f6": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLLy_2iUCG87Dn-7ofD1-0U3N-zXF3qWOt&si=RZ9z2zLq4DqIRHg9",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Promo Video of Course Quantitative Investment Management By Prof. Jatinder Pal Singh IIT Roorkee",
+        "videoId": "YEkxmllajiM",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 01 : Overview & Introduction, Debt & Equity",
+        "videoId": "xIui62TgWxo",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 02 : Hybrids, Derivatives",
+        "videoId": "SByzwTKmgaU",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 03 : Financial Risk",
+        "videoId": "DmytrpkJNsM",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 06 : Arbitrage Free Pricing of Bonds",
+        "videoId": "xtPXF1aMmXc",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 07: Forward Rates, Bond Pricing with Forward Rates",
+        "videoId": "gV2Mdy-heLM",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 08: Binomial Interest Rate Tree",
+        "videoId": "fbG3d0Emdks",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 09: Bond Pricing with Binomial Trees",
+        "videoId": "jJM0avouydI",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 10: Bond Pricing Contd...",
+        "videoId": "bhli2Mk65es",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 05 : Arbitrage Free Pricing",
+        "videoId": "YpxGHSKPqOg",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 04 :  Arbitrage",
+        "videoId": "Y7eZfBV6otA",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 14: Bond Yields & Yield Spreads",
+        "videoId": "AwztG5IbCvM",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 15: Z Spread & Option Adjusted Spread (OAS)",
+        "videoId": "nPZ2kShj7os",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 17: Interest Rate Risk",
+        "videoId": "V-ZW_ExxZpc",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 16: Yield Spreads",
+        "videoId": "d47-OlqRwOg",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 13: Yield to Maturity",
+        "videoId": "a7OxITP0SkA",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 12: Features of Option Embedded Bonds",
+        "videoId": "FXLOM_cIQL0",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 11: Valuation of Bonds with Embedded Options",
+        "videoId": "2c7YHB00hdI",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 18: Duration & Immunization",
+        "videoId": "Ures3INpM4M",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 19: Immunization & Bond Dynamics",
+        "videoId": "GhXYecBoj2E",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 20: Duration: Properties",
+        "videoId": "9Ma7ztPz4lU",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 21: Effective Duration",
+        "videoId": "ND4eBOWEcpg",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 22: Key Rate Duration",
+        "videoId": "ccbsmeM9nzQ",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture 23: One Sided Duration",
+        "videoId": "FHsaWSyKj44",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 24: Modeling of Fixed Income Returns",
+        "videoId": "FG0P0zzP_eE",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture 25: Immunizing a Single Liability",
+        "videoId": "nqgq0fs6e7A",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture 26: The Barbell Strategy - 1",
+        "videoId": "E_rzYf9WXsg",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture 27: The Barbell Strategy -2",
+        "videoId": "TwufHM2qbMo",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lecture 28: Yield Shifts & Immunization",
+        "videoId": "Rtp3l6E8L2Q",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lecture 29: Fixed Income Portfolio Strategies -1",
+        "videoId": "EDNm8ldR6Es",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lecture 30: Fixed Income Portfolio Strategies - 2",
+        "videoId": "z8MDgQ5O8co",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lecture 31: Fixed Income Portfolio Strategies - 3",
+        "videoId": "C-40ZFZFAQA",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Lecture 32: Floaters, Caps & Floors",
+        "videoId": "6aSkDyqCbG0",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Lecture 33: Derivatives, A Recapitulation",
+        "videoId": "n3CNjYJJFZc",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Lecture 34: Forward Pricing – Investment Assets",
+        "videoId": "T09bfpG7oqw",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Lecture 35: Forward Pricing – Consumption Assets",
+        "videoId": "dwdBYEmqfNU",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Lecture 36: Introduction to Options",
+        "videoId": "2h2jWNCv9UU",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Lecture 37: Put Call Parity & Arbitrage",
+        "videoId": "EzmNGbITAM8",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Lecture 38: American Options – 1",
+        "videoId": "vsbD5KcP2y8",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Lecture 39: American Options – 2",
+        "videoId": "UT4Ja8mqcOE",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Lecture 40: Option Trading Strategies – 1",
+        "videoId": "sm_-QZjNaP0",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Lecture 41: Option Trading Strategies – 2",
+        "videoId": "XuzWdxKOH40",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "Lecture 42: Option Trading Strategies – 3",
+        "videoId": "M7nw88jtmqA",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "Lecture 43: Option Pricing – Binomial Model – 1",
+        "videoId": "IbucxvBZvJQ",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "Lecture 44: Option Pricing – Binomial Model – 2",
+        "videoId": "_dqY4drWQkc",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "Lecture 45: Option Pricing – American Options",
+        "videoId": "iXx-4uWzAEs",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "Lecture 46: Random Walks",
+        "videoId": "xnsaDLWyX0c",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "Lecture 47: Brownian Motion",
+        "videoId": "70C_Ex93vgs",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "Lecture 48: Stochastic Calculus",
+        "videoId": "K7f0K2I9sOs",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "Lecture 49: Stock Price Modelling",
+        "videoId": "zjIHPQJQqyk",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "Lecture 50: Black Scholes Model",
+        "videoId": "57aazLrACIg",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "Lecture 51: Futures  - 1",
+        "videoId": "CsiC9t7THgk",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "Lecture 52: Futures – 2",
+        "videoId": "COjLPZqUrVk",
+        "ps": false
+      },
+      {
+        "n": 54,
+        "title": "Lecture 53: Forward vs Futures Prices",
+        "videoId": "b8TyJgjmXHs",
+        "ps": false
+      },
+      {
+        "n": 55,
+        "title": "Lecture 54: Futures Hedging",
+        "videoId": "9Gbh-HWUchc",
+        "ps": false
+      },
+      {
+        "n": 56,
+        "title": "Lecture 55: Issues in Futures Hedging",
+        "videoId": "IipPDcKLL9o",
+        "ps": false
+      },
+      {
+        "n": 57,
+        "title": "Lecture 56: Perfect Futures Hedge, Cross Hedge, Tailing the Hedge",
+        "videoId": "i8FYbXbnqb8",
+        "ps": false
+      },
+      {
+        "n": 58,
+        "title": "Lecture 57: Stock Index Futures – 1",
+        "videoId": "VbsfzfhXSNE",
+        "ps": false
+      },
+      {
+        "n": 59,
+        "title": "Lecture 58: Stock Index Futures – 2",
+        "videoId": "uJBoPYs4TQY",
+        "ps": false
+      },
+      {
+        "n": 60,
+        "title": "Lecture 59: Interest Rate Futures – 1",
+        "videoId": "zzINasMPoPs",
+        "ps": false
+      },
+      {
+        "n": 61,
+        "title": "Lecture 60: Interest Rate Futures – 2",
+        "videoId": "JTaPh6uuw-4",
+        "ps": false
+      }
+    ]
+  },
+
+  "f7": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLDfJoyVy2hk55mpgYKDnOmuxK6RzIDRma&si=rFiUiaJBBvdlSvBX",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Quantitative Finance - Course Introduction",
+        "videoId": "rug8M-PJgEE",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture - 1",
+        "videoId": "Js8E4VwORTM",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture   2",
+        "videoId": "dbK6-273_OU",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 2 contd. - Part 1",
+        "videoId": "CzVfnqg8BfA",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 2 contd. - Part 2",
+        "videoId": "1XVU_gJm6cw",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture   3",
+        "videoId": "JrA5OMiq_3g",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture   4",
+        "videoId": "1HIRTuJ6k1g",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture   5",
+        "videoId": "k7rDjFJOma8",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture   6",
+        "videoId": "vdm5oYuDizo",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 07",
+        "videoId": "BWX1eXx02UI",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 08",
+        "videoId": "gI0fzTdQtsA",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 09",
+        "videoId": "bOKAWCHhSnA",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 10",
+        "videoId": "pAMo53lmf8I",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 11",
+        "videoId": "UHOohuMwSDs",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 12",
+        "videoId": "0VlQS1gHe9s",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 13",
+        "videoId": "fvYx9F_dVok",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 14",
+        "videoId": "6IzXVk2T-uM",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 15",
+        "videoId": "f5Km6RDS6cA",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 16",
+        "videoId": "C-_chgVPFFA",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 17",
+        "videoId": "dUJlS7rAwzg",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 18",
+        "videoId": "Ma8uZ58aCpM",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 19",
+        "videoId": "oq6zER1qdPE",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 20",
+        "videoId": "RJ7ADdFLIhQ",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture 21",
+        "videoId": "Ew6JhcrraBc",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 22",
+        "videoId": "_ighVD9JsVQ",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture 23",
+        "videoId": "PRIhT5dT9Dk",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture 24",
+        "videoId": "442v-f3cUEw",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture 25",
+        "videoId": "X0ev_uhco_0",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lecture 26",
+        "videoId": "tVXq1Uzdqrw",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lecture 27",
+        "videoId": "h98uRrKdSAQ",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lecture 28",
+        "videoId": "ciKq8G1R1Qc",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lecture 29",
+        "videoId": "NAvCBbUfayQ",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Lecture 30",
+        "videoId": "z6Eu5IPCB84",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Lecture 31",
+        "videoId": "y58qr_mRNAQ",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Lecture 32",
+        "videoId": "9L4_G9NxUMI",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Lecture 33",
+        "videoId": "dlvNARzAXS4",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Lecture 34",
+        "videoId": "6iidXDDvdgM",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Lecture 35",
+        "videoId": "1ibAjhIa1VU",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Lecture 36",
+        "videoId": "Vm7QLqD_eN0",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Lecture 37",
+        "videoId": "ksrQJX_yaH0",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Lecture 38",
+        "videoId": "Lnx6HeBTy2A",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Lecture 39",
+        "videoId": "m4BZxYIXXbQ",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "Lecture 40",
+        "videoId": "rkd7MYuflRs",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "Lecture 41",
+        "videoId": "ElePv_Y-3Rs",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "Lecture 42",
+        "videoId": "9lAkodmzj70",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "Lecture   43",
+        "videoId": "xacquguF_Aw",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "Lecture   44",
+        "videoId": "4tcjFiYo1Qg",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "Lecture   45",
+        "videoId": "nq9N-qGvgSo",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "Lecture   46",
+        "videoId": "gXI8Espslvg",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "Lecture   47",
+        "videoId": "MpQ31jbARBQ",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "Lecture   48",
+        "videoId": "3Q5EY7V7q2o",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "Introduction to Corporate Finance: Course Video",
+        "videoId": "5eGRi66iUfU",
+        "ps": false
+      }
+    ]
+  },
+
+  "f8": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUkh9m2Borqn549nqiEOyFRIvqs4_P3d0&si=WsEDcNuuXskeavJP",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Corporate Finance: A Class Preview",
+        "videoId": "N91AXV7LMrg",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Session 1: Class themes, structure and logistics",
+        "videoId": "5rhild0Juf4",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Session 2: The End Game in Business",
+        "videoId": "CqwuN4dLLFg",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Session 3: Corporate Governance - Power abhors a vacuum!",
+        "videoId": "IPTe5Ww2kOk",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Session 4: Closure on the End Game - Stakeholders, Sustainability and ESG",
+        "videoId": "cLotdkcvdd4",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Session 5: Closure on the end game and first steps on risk",
+        "videoId": "_SxIBHEGhbo",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Session 6: Riskfree Rates and Equity Risk Premiums",
+        "videoId": "oeRtLInQTAM",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Session 7: Equity Risk Premiums and Betas",
+        "videoId": "nGXi-YnQqao",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Session 8: Expected returns and Costs of Equity",
+        "videoId": "nQ9OFaatyPA",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Session 9: More on beta - bottom up betas and private company betas",
+        "videoId": "awEyDWhEdhg",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Session 10: Debt and the Cost of Debt",
+        "videoId": "RNeCC28qbVI",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Session 11: Hurdle Rates Closure and First Steps on Investment Returns",
+        "videoId": "0FeHGmeqcX0",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Session 12: Incremental, time-weighted Cash Flow Returns",
+        "videoId": "CncUmN65lDs",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Session 13: Dealing with uncertainty and more project analyses",
+        "videoId": "vxuuxJ68Dj8",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Session 14: Choosing between investments and Side Costs/Benefits",
+        "videoId": "k7fGl2kvq-U",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Session 15: Celsius Case Analysis, Real Options and Investment Post-mortems",
+        "videoId": "pz2hF0_ygm4",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Session 16: The Debt Equity Tradeoff",
+        "videoId": "4ZWSccnMaa4",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Session 17: Optimizing the Debt Mix with Cost of Capital approach",
+        "videoId": "fdEnaqWUYzM",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Session 18: Finishing up with Cost of Capital Optimization",
+        "videoId": "zDbBR8-myEQ",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Session 19: The APV and Peer Group Approaches to Financing Mix",
+        "videoId": "jv-mk7lpIdg",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Session 20: Debt Design",
+        "videoId": "Kk7BEn3Y4XY",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Session 21: Dividends and Cash Return - First Steps",
+        "videoId": "Ka_oFIhWmwo",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Session 22: Dividend Trade offs",
+        "videoId": "HwmBqsMySTg",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Session 23: Assessing Dividend (and Cash Return) Policy",
+        "videoId": "juhEybZYE2M",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Session 24: Closure on Dividends and First Steps on Valuation",
+        "videoId": "bm1zE4wCQvI",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Session 25: Valuation - The Final Frontier!",
+        "videoId": "CERMihGaLlA",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Session 26: The End Game",
+        "videoId": "dRBc9uFgD_A",
+        "ps": false
+      }
+    ]
+  },
+
+  "f10": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63Z979ri_UXXk_1zrvrF77Q&si=FkeWYBCa4rRwF-4k",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 1: Introduction and Overview I (14.13 Psychology and Economics, Spring 2020)",
+        "videoId": "j5XdY5wkVTA",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 2: Introduction and Overview II",
+        "videoId": "lD_73cro7wc",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 3: Time Preferences (Theory) I",
+        "videoId": "UbRlSqmN4uM",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 4: Time Preferences (Theory) II",
+        "videoId": "_iNqssktTto",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 5: Time Preferences (Applications) I",
+        "videoId": "bBOBSC16NLU",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 6: Time Preferences (Applications) II",
+        "videoId": "8WhNaFsFC8I",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 7: Risk Preferences I",
+        "videoId": "pwFsPEPPUGU",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 8: Risk Preferences II",
+        "videoId": "Lhtf6jFM8Vo",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 9: Reference-Dependent Preferences",
+        "videoId": "SC8K6gNAIL4",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 10: Social Preferences I",
+        "videoId": "JXRd60knm-A",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 11: Social Preferences II",
+        "videoId": "S6JHQ3-bsHk",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 12: Social Preferences III",
+        "videoId": "l7mu7-YNSg0",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 13: Social Preferences IV",
+        "videoId": "K7QVIqV2QMk",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Mid-Term Review",
+        "videoId": "ik1gdNwHLiY",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 14: Limited Attention",
+        "videoId": "szy8tLyFS-Q",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 15: Utility from Beliefs; Learning I",
+        "videoId": "j9Zeole0bYg",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 16: Utility from Beliefs; Learning II",
+        "videoId": "qk0mVzI1L78",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 17: State-Dependent Preferences, Projection, and Attribution Bias",
+        "videoId": "3UTfFMTqH70",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 18: Gender, Discrimination, and Identity",
+        "videoId": "5C-Wp6sL8lg",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 19: Defaults, Nudges, and Frames",
+        "videoId": "S-BaPQR1ZRU",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 20: Malleability and Inaccessibility of Preferences",
+        "videoId": "Z0vdSf8m13k",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 21: Poverty through the Lens of Psychology",
+        "videoId": "Re2lkF0vgQw",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 22: Happiness and Mental Health",
+        "videoId": "_LJnCFFyF-M",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture 23: Policy with Behavioral Agents",
+        "videoId": "UI4Hjug3rEc",
+        "ps": false
+      }
+    ]
+  },
+
+  "f11": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL259DBFA47F3B4761&si=R7ayJvzz5kvVa3Sj",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Accounting 1: Program #1 - \"Introduction to Class\"",
+        "videoId": "ZkZ6Q67Q15E",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Accounting 1: Program #2 - \"Basic Accounting Concepts\"",
+        "videoId": "IL_egHqaU3s",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Accounting 1: Program #3 - \"Transaction Analysis\"",
+        "videoId": "GhDp9uEKuBk",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Accounting 1: Program #4 - \"Intro to Financial Statements\"",
+        "videoId": "0ouQKi6Nb94",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Accounting 1: Program #5 - \"Financial Statements\"",
+        "videoId": "4nPJtzNDQng",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Accounting 1: Program #6 - \"Intro to Debits and Credits\"",
+        "videoId": "NsJMwtazP-4",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Accounting 1: Program #7 - \"Debits and Credits\"",
+        "videoId": "G4Ew3Ija9ZI",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Accounting 1: Program #8 - \"Journal Entries and the Trial Balance\"",
+        "videoId": "aIn7rnu1xTw",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Accounting 1: Program #9 - \"Analyzing and Recording Transactions\"",
+        "videoId": "JX2cCNY9ceE",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Accounting 1: Program #10 - \"Wrapping Up Chapters 1 and 2\"",
+        "videoId": "yKthrK7nbzE",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Accounting 1: Program# 11 - \"Adjusting Journal Entries\"",
+        "videoId": "eYBUHw70LrU",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Accounting 1: Program #12 - \"Adjusting Journal Entries\"",
+        "videoId": "UgvAls8LQUw",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Accounting 1: Program #13 - \"Adjusting Journal Entries\"",
+        "videoId": "oPgudehRK1w",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Accounting 1: Program #14 - \"Intro to Closing Journal Entries\"",
+        "videoId": "G73HzS8r4n8",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Accounting 1: Program #15 - \"Closing Journal Entries\"",
+        "videoId": "wUeh06qPP5U",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Accounting 1: Program #16 - \"Closing Journal Entries: Conclusion\"",
+        "videoId": "dw76eVLlDAU",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Accounting 1: Program #17 - \"Accounting Basics For Merchandisers\"",
+        "videoId": "JCVHynWsAKI",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Accounting 1: Program #18 - \"Purchase Cycle Journal Entries\"",
+        "videoId": "uPGKTmjZHoc",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Accounting 1: Program #19 - \"Sales Cycle Journal Entries\"",
+        "videoId": "q88pkoi_-UI",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Accounting 1: Program #20 - \"Merchandising Operations: Conclusion\"",
+        "videoId": "g0rsoXlPp-w",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Accounting 1: Program #21 - \"Inventory Methods - FIFO, LIFO\"",
+        "videoId": "QyA4A_YiJRk",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Accounting 1: Program #22 - \"Inventory Methods - Weighted Average, Specific I.D.\"",
+        "videoId": "6pZTUirK6SI",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Accounting 1: Program #23 - \"Inventory Methods - Continued Discussion\"",
+        "videoId": "_q4Ol3Sx6mM",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Accounting 1: Program #24 - \"Inventory Methods - Conclusion\"",
+        "videoId": "trKAVwxgV4I",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Accounting 1: Program #25 - \"Internal Control\"",
+        "videoId": "go16NXs_J8c",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Accounting 1: Program #26 - \"Internal Control and Petty Cash\"",
+        "videoId": "UcPJ3eigyak",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Accounting 1: Program #27 - \"Bank Reconciliations\"",
+        "videoId": "ui3UgAR3pF0",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Accounting 1: Program #28 - \"Bank Reconciliations\"",
+        "videoId": "_ob4J36lz5A",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Accounting 1: Program #29 - \"Receivables and Bad Debt\"",
+        "videoId": "nxaSXdq2wao",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Accounting 1: Program #30 - \"The Allowance Methods for Bad Debt Expense\"",
+        "videoId": "2a0xXhoT-zY",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Accounting 1: Program #31 - \"The Allowance Methods for Bad Debt Expense (continued)\"",
+        "videoId": "c0tR8DBURv8",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Accounting 1: Program #32 - \"Accounts Receivable: Conclusion\"",
+        "videoId": "W4ZiaQHEX_o",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Accounting 1: Program #33 - \"Intro to Fixed Assets\"",
+        "videoId": "lX6brQgxiMI",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Accounting 1: Program #34 - \"Intro to Fixed Assets\"",
+        "videoId": "yZeM6oLU4S8",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Accounting 1: Program #35 - \"Continuation of Fixed Assets\"",
+        "videoId": "QEg9uThGf5w",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Accounting 1: Program #36 - \"Fixed Assets: Conclusion\"",
+        "videoId": "JyWQgFrVNic",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Accounting 1: Program #37 - \"Current Liabilities\"",
+        "videoId": "GFPcj5tuakQ",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Accounting 1: Program #38 - \"Current Liabilities\"",
+        "videoId": "VFxB-f1WdeQ",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Accounting 1: Program #39 - \"Class Conclusion\"",
+        "videoId": "Y-v4ImCC7ys",
+        "ps": false
+      }
+    ]
+  },
+
+  "f12": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLHhe-2tIHRqEw5JRX6trtsLLlwwbpdXJX&si=jL0nkKVwTsEaTO4Q",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Accounting 2 - ACCT 122 - Program #201 - Introduction to the Class",
+        "videoId": "2cC9SZ3RC8Y",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Accounting 2 - ACCT 122 - Program #202 - Accounting for Partnerships",
+        "videoId": "RT9gpXf_l7g",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Accounting 2 - ACCT 122 - Program #203 - Partnerships - Conclusion",
+        "videoId": "v0jjIgI8jY4",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Accounting 2 - ACCT 122 - Program #204 - Corporations",
+        "videoId": "9VRKeStxJsk",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Accounting 2 - ACCT 122 - Program #205 - Corporations (Dividends, Preferred Stock)",
+        "videoId": "_9YRLp_dp6o",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Accounting 2 - ACCT 122 - Program #206 - Corporations (Treasury Stock)",
+        "videoId": "3bbqrB0uxGs",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Accounting 2 - ACCT 122 - Program #207 - Corporations (Conclusion)",
+        "videoId": "-HE677CpY0w",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Accounting 2 - ACCT 122 - Program #208 - Investments (Debt Securities)",
+        "videoId": "MzYtFc9PMY4",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Accounting 2 - ACCT 122 - Program #209 - Investments (Equity Securities)",
+        "videoId": "zqCoi8SfuFw",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Accounting 2 - ACCT 122 - Program #210 - Investments (Conclusion)",
+        "videoId": "psgyjUXAkdc",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Accounting 2 - ACCT 122 - Program #211 - Time Value of Money",
+        "videoId": "B8qW2bkjrPA",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Accounting 2 - ACCT 122 - Program #212 - Time Value of Money (continued)",
+        "videoId": "dRP_Srl04EE",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Accounting 2 - ACCT 122 - Program #213 - Foreign Transactions (Ch. 15) and Intro to Bonds (Ch. 14)",
+        "videoId": "P8WTpkXUFTE",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Accounting 2 - ACCT 122 - Program #214 - Issuing Bonds at a Discount",
+        "videoId": "0zNCyw73h9g",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Accounting 2 - ACCT 122 - Program #215 - Issuing Bonds at a Premium",
+        "videoId": "pFf6geWkGmk",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Accounting 2 - ACCT 122 - Program #216 - Intro to the Cash Flow Statement",
+        "videoId": "Q4Z63yOomNc",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Accounting 2 - ACCT 122 - Program #217 - Calculation of Operating Cash Flows",
+        "videoId": "pfBlIPnsdwo",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Accounting 2 - ACCT 122 - Program #218 - Cash Flow Statement - Continuation",
+        "videoId": "-AcgU35nBm8",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Accounting 2 - ACCT 122 - Program #219 - Cash Flow Statement - Conclusion",
+        "videoId": "rfMaj7AValA",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Accounting 2 - ACCT 122 - Program #220 - Cash Flow Statement - Postscript",
+        "videoId": "pIJuFZozLww",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Accounting 2 - ACCT 122 - Program #221 - Financial Statement Analysis",
+        "videoId": "Yi56p2iMfUU",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Analysis of a CF Statement (Bonus Video)",
+        "videoId": "6z0K-E3uZYw",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Solution to Foxboro Cash Flow Statement",
+        "videoId": "tmUKs3NQdAg",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Accounting 2 - ACCT 122 - Program #222 - Financial Statement Analysis - Conclusion",
+        "videoId": "y2B8zeJUKmQ",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Accounting 2 - ACCT 122 - Program #223 - Managerial Accounting Concepts",
+        "videoId": "0y4cLVZQdOE",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Accounting 2 - ACCT 122 - Program #224 - Managerial Accounting Concepts - Continued",
+        "videoId": "NqC0hgdcPuM",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Accounting 2 - ACCT 122 - Program #225 - Management Account Concepts - Continued",
+        "videoId": "lCZ5C_kfvf8",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Accounting 2 - ACCT 122 - Program #226 - Job Order Cost Accounting",
+        "videoId": "bkGoZFifwbk",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Accounting 2 - ACCT 122 - Program #227 - Job Order Cost Accounting - Continued",
+        "videoId": "DLpB8B17ZU8",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Accounting 2 - ACCT 122 - Program #228 - Job Order Cost Accounting - Conclusion",
+        "videoId": "Of9Tf1EMmBQ",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Accounting 2 - ACCT 122 - Program #229 - Process Cost Accounting",
+        "videoId": "L8xM9HwBSPk",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Accounting 2 - ACCT 122 - Program #230 - Process Cost Accounting - Conclusion",
+        "videoId": "XVlmla_Ui7Y",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Accounting 2 - ACCT 122 - Program #231 - CVP Analysis",
+        "videoId": "-u3DZGECuNY",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Accounting 2 - ACCT 122 - Program #232 - CVP Analysis - Continued",
+        "videoId": "OmNZrxLzgK8",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Accounting 2 - ACCT 122 - Program #233 - CVP Analysis - Continued",
+        "videoId": "duykYWAO2tQ",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Accounting 2 - ACCT 122 - Program #234 - CVP Analysis - Conclusion & Long-Term Notes Payable",
+        "videoId": "dHfg4rrAgiw",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Accounting 2 - ACCT 122 - Program #235 - Budgeting",
+        "videoId": "QLWQyjk5ZxM",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Accounting 2 - ACCT 122 - Program #236 - Budgeting - Continued",
+        "videoId": "fx5kNVJf_kY",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Accounting 2 - ACCT 122 - Program #237 - Budgeting - Continued",
+        "videoId": "J7cNE_nBbqM",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Accounting 2 - ACCT 122 - Program #238 - Budgeting - Conclusion and Flexible Budgets",
+        "videoId": "xWO5HKxaMaE",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Accounting 2 - ACCT 122 - Program #239 - Standard Costs",
+        "videoId": "O7AKJ8WzNqY",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Accounting 2 - ACCT 122 - Program #240 - Standard Costs - Continued",
+        "videoId": "d4LHBneRGGY",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "Accounting 2 - ACCT 122 - Program #241 - Standard Costs (and class) Conclusion",
+        "videoId": "ZqjVgHLsiEE",
+        "ps": false
+      }
+    ]
+  },
+
+  "f13": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLgM_mua4pn_k7BdlDGf9YEgUPgTeBmGsq&si=X6VIEp0jS5dbos9X",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "intro02 prerequisite materials concatenated",
+        "videoId": "aPmSNBuAIHo",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "intro05 option pricing in the multi-period binomial model concatenated",
+        "videoId": "ltgT4UU7ZC0",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "intro03 introduction to basic fixed income securities concatenated",
+        "videoId": "FrKB09rrqJ0",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "intro04 introduction to derivative securities concatenated",
+        "videoId": "RAZnN2tVmHU",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "intro01 course overview concatenated",
+        "videoId": "TXwkv_5rEtk",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "02 financial engineering termstructure concatenated",
+        "videoId": "Na66Go_IiYw",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "03 financial engineering optimization methods concatenated",
+        "videoId": "6GjJKaSMvM8",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "04 financial engineering advanced topics concatenated",
+        "videoId": "ILVbjh5oNfQ",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "05 financial engineering computational methods concatenated",
+        "videoId": "J_iN8KST54c",
+        "ps": false
+      }
+    ]
+  },
+
+  "f14": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLD15D38DC7AA3B737&si=63ajfpGILIbo70iB",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 1 (HD)",
+        "videoId": "WK03XgoVsPM",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 2 (HD)",
+        "videoId": "sajXLvfolmg",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 3 (HD)",
+        "videoId": "TfuqBxRgRTU",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 4 (HD)",
+        "videoId": "6jEy5YSJd8w",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 5 (HD)",
+        "videoId": "UAjybHfYolA",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 6 (HD)",
+        "videoId": "P-7zr9YEf-8",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 7 (HD)",
+        "videoId": "3bipJW_vuBU",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 8 (HD)",
+        "videoId": "b8yslhlIsA0",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 9 (HD)",
+        "videoId": "hm7zi2XdtVU",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 10 (HD)",
+        "videoId": "hX9dBODrX4Y",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 11 (HD)",
+        "videoId": "brTmzHE9Gvw",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 12 (HD)",
+        "videoId": "Kb4LvSguwjg",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 13 (HD)",
+        "videoId": "ZDwSPiBaDco",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 14 (HD)",
+        "videoId": "WlOtUA8Rqw8",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 15 (HD)",
+        "videoId": "D5lt9bhOshc",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 16 (HD)",
+        "videoId": "K8eFiMIb8qo",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 17 (HD)",
+        "videoId": "JvioZoK1f4o",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 18 (HD)",
+        "videoId": "r8dthdP1OZU",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Economics 421/521 - Econometrics - Winter 2011 - Lecture 19 (HD)",
+        "videoId": "Qocnk2vjHII",
+        "ps": false
+      }
+    ]
+  },
+
+  "f15": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLdLiRaajwSXSO6FD9_oQUkjAgQoRHDs8d&si=BAZGHMh-h5G-XZ4q",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Money and Banking: Lecture 1 - Money and the Economy",
+        "videoId": "etsCGT542AI",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Money and Banking: Lecture 2 - Functions of Money 1",
+        "videoId": "HIpCqjhDpx8",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Money and Banking: Lecture 3 - Functions of Money 2",
+        "videoId": "h6B2IiHx7gg",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Money and Banking: Lecture 4 - Evolution of the Payments System 1",
+        "videoId": "_WiaRXwkI9k",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Money and Banking: Lecture 5 - Evolution of the Payments System 2",
+        "videoId": "ovSRdHO8uqk",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Money and Banking: Lecture 6 - Interest Rates and Present Value 1",
+        "videoId": "7aTrK2Vecv0",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Money and Banking: Lecture 7 - Interest Rates and Present Value 2",
+        "videoId": "bN6SR2L3EAY",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Money and Banking: Lecture 8 - Bonds",
+        "videoId": "G1gNiHZjeJc",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Money and Banking: Lecture 9 - Interest Rate Risk",
+        "videoId": "PTbWpLXMcvY",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Money and Banking: Lecture 10 - Interest Rates (Yield)",
+        "videoId": "6Wd4loY_EEU",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Money and Banking: Lecture 11 - The Loanable Funds Model 1",
+        "videoId": "fmk5jOfZRQU",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Money and Banking: Lecture 12 - The Loanable Funds Model 2",
+        "videoId": "hDAQEABx08M",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Money and Banking: Lecture 13 - The Loanable Funds Model 3",
+        "videoId": "3FxprgO4ZFU",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Money and Banking: Lecture 14 - The Loanable Funds Model 4",
+        "videoId": "z6zdTSnIX9g",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Money and Banking: Lecture 15 - Interest Rate Differentials 1",
+        "videoId": "wb8Xlnmiyng",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Money and Banking: Lecture 16 - Interest Rate Differentials 2",
+        "videoId": "_jMOIRFdYr4",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Money and Banking: Lecture 17 - Interest Rate Differentials 3",
+        "videoId": "Z7QENcPuuWw",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Money and Banking: Lecture 18 - The (Special) Role of Banks 1",
+        "videoId": "0ZW6Cg-qb3Y",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Money and Banking: Lecture 19 - The (Special) Role of Banks 2",
+        "videoId": "cDyGTBFyeLk",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Money and Banking: Lecture 20 - The Banking Industry 1",
+        "videoId": "H-8GSGsrRns",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Money and Banking: Lecture 21 - The Banking Industry 2",
+        "videoId": "35V_MK0TnJ8",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Money and Banking: Lecture 22 - The Banking Industry 3",
+        "videoId": "ZcyHLGplCSk",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Money and Banking: Lecture 23 - The Banking Industry 4",
+        "videoId": "3sTiEYTruQc",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Money and Banking: Lecture 24 - The Banking Industry 5",
+        "videoId": "EPIXjfcFSJY",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Money and Banking: Lecture 25 - The Business of Banking 1",
+        "videoId": "hhFnCjcZd8I",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Money and Banking: Lecture 26 - The Business of Banking 2",
+        "videoId": "0IW8k89hMz4",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Money and Banking: Lecture 27 - The Business of Banking 3",
+        "videoId": "XqdP_QBQg44",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Money and Banking: Lecture 28 - The Business of Banking 4",
+        "videoId": "yuRaPEEhF_w",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Money and Banking: Lecture 29 - The Business of Banking 5",
+        "videoId": "9li8mY9RYtY",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Money and Banking: Lecture 30 - The Business of Banking 6",
+        "videoId": "wErYqAfagc0",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Money and Banking: Lecture 31 - The Business of Banking 7",
+        "videoId": "sbkJT4I82LY",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Money and Banking: Lecture 32 - Regulation of Banks 1",
+        "videoId": "grXjA0btirI",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Money and Banking: Lecture 33 - Regulation of Banks 2",
+        "videoId": "aZpK7q8LVb4",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Money and Banking: Lecture 34 - Regulation of Banks 3",
+        "videoId": "AS4A5WkTHqE",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Money and Banking: Lecture 35 - Regulation of Banks 4",
+        "videoId": "AUQkzSSrxQg",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Money and Banking: Lecture 36 - The Federal Reserve",
+        "videoId": "TVHg-uVANyg",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Money and Banking: Lecture 37 - The Money Multiplier 1",
+        "videoId": "Pb9tGBekY4U",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Money and Banking: Lecture 38 - The Money Multiplier 2",
+        "videoId": "IwbaktQVUxc",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Money and Banking: Lecture 39 - Monetary Policy 1",
+        "videoId": "uHP0BO2x8cw",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Money and Banking: Lecture 40 - Monetary Policy 2",
+        "videoId": "72ekZIH-eFA",
+        "ps": false
+      }
+    ]
+  },
+
+  "f16": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW&si=oPtmOZE0zeNMoj6g",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Ses 1: Introduction and Course Overview",
+        "videoId": "HdHlfiOAJyE",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Ses 2: Present Value Relations I",
+        "videoId": "U03Md5enU-0",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Ses 3: Present Value Relations II",
+        "videoId": "4F1J5Q3DiaI",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Ses 4: Present Value Relations III & Fixed-Income Securities I",
+        "videoId": "hyc8h5T76BE",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Ses 5: Fixed-Income Securities II",
+        "videoId": "yrmqYNvvIzs",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Ses 6: Fixed-Income Securities III",
+        "videoId": "AtT59jxU9es",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Ses 7: Fixed-Income Securities IV",
+        "videoId": "ZWKnK9LIETA",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Ses 8: Equities",
+        "videoId": "cny-1yDbQno",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Ses 9: Forward and Futures Contracts I",
+        "videoId": "i_pLF9J3QPE",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Ses 10: Forward and Futures Contracts II & Options I",
+        "videoId": "IwA7nVEwqto",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Ses 11: Options II",
+        "videoId": "rMsu4v-UlkA",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Ses 12: Options III & Risk and Return I",
+        "videoId": "Q2qjnLO3I_M",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Ses 13: Risk and Return II & Portfolio Theory I",
+        "videoId": "tL7Lcl90Sc0",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Ses 14: Portfolio Theory II",
+        "videoId": "J7d3vcaS9-o",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Ses 15: Portfolio Theory III & The CAPM and APT I",
+        "videoId": "z2oQe6B1Qa4",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Ses 16: The CAPM and APT II",
+        "videoId": "N8gtnbJuMoo",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Ses 17: The CAPM and APT III & Capital Budgeting I",
+        "videoId": "JE80wLNIhjE",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Ses 18: Capital Budgeting II & Efficient Markets I",
+        "videoId": "sMKQywwkIjQ",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Ses 19: Efficient Markets II",
+        "videoId": "a5PF2PcElV0",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Ses 20: Efficient Markets III & Course Summary",
+        "videoId": "P03PfYgNjmw",
+        "ps": false
+      }
+    ]
+  },
+
+  "f17": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLLy_2iUCG87CXY2B6fPex1SOIqxzzD5Wj&si=KKrpN2bg2a3MuQcX",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Promo: Financial Management for Managers",
+        "videoId": "TgF2XvjquUU",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 1 – Fundamentals of Financial Management - Part 1",
+        "videoId": "CCQwz_Gwo6o",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 2 – Fundamentals of Financial Management - Part 2",
+        "videoId": "dgPlxTq9lLw",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 3 – Fundamentals of Financial Management - Part 3",
+        "videoId": "Hus0QjGA35E",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 4: Fundamentals of Financial Management – Part IV",
+        "videoId": "FiEFngDYUzA",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 5 – Fundamentals of Financial Management - Part 5",
+        "videoId": "zeYN_013jQ4",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 6 – Financial Planning and Forecasting – Part 1",
+        "videoId": "R2F92RyZ53w",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 7 – Financial Planning and Forecasting – Part 2",
+        "videoId": "78PmdF5GDj4",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 8 – Financial Planning and Forecasting – Part 3",
+        "videoId": "k-m9-gSOIWI",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 9 – Financial Planning and Forecasting – Part 4",
+        "videoId": "dUnSpqHHx8s",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 10 – Time Value of Money - Part 1",
+        "videoId": "moPLocn-0rk",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 11 – Time Value of Money - Part 2",
+        "videoId": "LeuNL4GbnqM",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 12 – Time Value of Money – Part 3",
+        "videoId": "SBQAcWrv5ec",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 13 – Time Value of Money – Part 4",
+        "videoId": "UGP52-nDciE",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 14 – Time Value of Money – Part 5",
+        "videoId": "ZJTnsnUUpfo",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 15 – Time Value of Money – Part VI",
+        "videoId": "DFefpPJegFw",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 16 - Time Value of Money – 7",
+        "videoId": "A6tGXT4xqHg",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 17 - Capital Budgeting - Part 1",
+        "videoId": "g6UCv4rkZ_Y",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 18 - Capital Budgeting - Part 2",
+        "videoId": "r93pyYGJCLQ",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 19 - Capital Budgeting - Part 3",
+        "videoId": "S3DGODVeSqI",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 20 - Capital Budgeting - Part 4",
+        "videoId": "kOFNtwFT0w8",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 21 - Capital Budgeting - Part 5",
+        "videoId": "pAVIT7HrKcU",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 22 - Capital Budgeting - Part VI",
+        "videoId": "_8Kcp2jG1mg",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture 23 - Capital Budgeting - Part 7",
+        "videoId": "XUCpd2sPkwg",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 24 - Capital Budgeting - Part 8",
+        "videoId": "dahGuZBADuc",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture 25 - Capital Budgeting - Part 9",
+        "videoId": "Heet1RcASU0",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture 26 - Capital Budgeting - Part 10",
+        "videoId": "S-WDlkEZ2EI",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture 27 - Capital Budgeting - Part 11",
+        "videoId": "X9tIf5ioeQg",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lecture 28 - Capital Budgeting - Part 12",
+        "videoId": "hWOi04qE6mw",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lecture 29 - Estimation of Project Cash Flows - Part 1",
+        "videoId": "VsWpgwaTR2Y",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lecture 30 - Estimation of Project Cash Flows - Part 2",
+        "videoId": "3JjpC5LsIng",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lecture 31: Estimation of Project Cash Flows - Part III",
+        "videoId": "JvL_p3ucwEU",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Lecture 32: Estimation of Project Cash Flows - Part IV",
+        "videoId": "bHGSPf6g6DI",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Lecture 33: Estimation of Project Cash Flows - Part V",
+        "videoId": "EawCalZGuHQ",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Lecture 34: Estimation of Project Cash Flows - Part VI",
+        "videoId": "i69u_TUs6Z0",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Lecture 35: Estimation of Project Cash Flows - Part VII",
+        "videoId": "AS9EGL_5uXI",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Lecture 36: Estimation of Project Cash Flows - Part VIII",
+        "videoId": "rTiB6dClNYA",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Lecture 37: Estimation of Project Cash Flows - Part IX",
+        "videoId": "j2gxzNw-rkA",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Lecture 38: Estimation of Project Cash Flows - Part X",
+        "videoId": "N-ueYV0lrJQ",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Lecture 39: Estimation of Project Cash Flows - Part XI",
+        "videoId": "53vchVNLmuw",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Lecture 40: Risk Analysis in Capital Budgeting - Part I",
+        "videoId": "G58_9NUTDZM",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Lecture 41: Risk Analysis in Capital Budgeting - Part II",
+        "videoId": "C5OwNbb7uew",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "Lecture 42: Risk Analysis in Capital Budgeting - Part III",
+        "videoId": "NPYhx2B5XR0",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "Lecture 43: Risk Analysis in Capital Budgeting - Part IV",
+        "videoId": "BlHxEId-6Hw",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "Lecture 44: Risk Analysis in Capital Budgeting - Part V",
+        "videoId": "cr_XqumFC1o",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "Lecture 45: Risk Analysis in Capital Budgeting - Part VI",
+        "videoId": "QoaRt8wH0Xw",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "Lecture 47: Cost of Capital - Part I",
+        "videoId": "JlYY1NxGTQI",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "Lecture 46: Risk Analysis in Capital Budgeting - Part VII",
+        "videoId": "9XJkKimXuTI",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "Lecture 48: Cost of Capital - Part II",
+        "videoId": "q8zGFdBKWjQ",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "Lecture 49: Cost of Capital - Part III",
+        "videoId": "RPfpx3HoRr4",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "Lecture 50: Cost of Capital - Part IV",
+        "videoId": "sjLJKfbpJ7Q",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "Lecture 51: Cost of Capital - Part V",
+        "videoId": "hJ3G5BCU_lQ",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "Lecture 52: Cost of Capital - Part VI",
+        "videoId": "tRen708yP6U",
+        "ps": false
+      },
+      {
+        "n": 54,
+        "title": "Lecture 53: Cost of Capital - Part VII",
+        "videoId": "Sc6_CVb-mRU",
+        "ps": false
+      },
+      {
+        "n": 55,
+        "title": "Lecture 54: Capital Structure - Part I",
+        "videoId": "sSdDej6jpBs",
+        "ps": false
+      },
+      {
+        "n": 56,
+        "title": "Lecture 55: Capital Structure - Part II",
+        "videoId": "0wBkjFkR-xg",
+        "ps": false
+      },
+      {
+        "n": 57,
+        "title": "Lecture 56: Capital Structure - Part III",
+        "videoId": "66mVh8NN4ds",
+        "ps": false
+      },
+      {
+        "n": 58,
+        "title": "Lecture 57: Capital Structure - Part IV",
+        "videoId": "F3Igkr_USFI",
+        "ps": false
+      },
+      {
+        "n": 59,
+        "title": "Lecture 58: Capital Structure - Part IV",
+        "videoId": "zyKQGD8rYlQ",
+        "ps": false
+      },
+      {
+        "n": 60,
+        "title": "Lecture 59: Dividend Decisions - Part I",
+        "videoId": "G0KagC5UA7o",
+        "ps": false
+      },
+      {
+        "n": 61,
+        "title": "Lecture 60: Dividend Decisions - Part II",
+        "videoId": "mR0NfFOetHQ",
+        "ps": false
+      }
+    ]
+  },
+
+  "f18": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR&si=tnAN49OC3qa-I-je",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1. Introduction, Financial Terms and Concepts",
+        "videoId": "wvXDB9dMdEo",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2. Linear Algebra",
+        "videoId": "9YtmGy-wfE4",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "3. Probability Theory",
+        "videoId": "f9XFM8YLccg",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "5. Stochastic Processes I",
+        "videoId": "TuTmC8aOQJE",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "6. Regression Analysis",
+        "videoId": "l1kLCrxL9Hk",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "7. Value At Risk (VAR) Models",
+        "videoId": "92WaNz9mPeY",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "8. Time Series Analysis I",
+        "videoId": "uBeM1FUk4Ps",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "9. Volatility Modeling",
+        "videoId": "cDlbEQz1PQk",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "10. Regularized Pricing and Risk Models",
+        "videoId": "aga-Tak3c3M",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "11. Time Series Analysis II",
+        "videoId": "_IFUfFuyQlU",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "12. Time Series Analysis III",
+        "videoId": "9G1IDAqrWkg",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "13. Commodity Models",
+        "videoId": "nmehlS-8b3Y",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "14. Portfolio Theory",
+        "videoId": "ywl3pq6yc54",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "15. Factor Modeling",
+        "videoId": "ro07evEWbCE",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "16. Portfolio Management",
+        "videoId": "8TJQhQ2GZ0Y",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "17. Stochastic Processes II",
+        "videoId": "PPl-7_RL0Ko",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "18. Itō Calculus",
+        "videoId": "Z5yRMMVUC5w",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "19. Black-Scholes Formula, Risk-neutral Valuation",
+        "videoId": "TnS8kI_KuJc",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "20. Option Price and Probability Duality",
+        "videoId": "eG_aRPy1KVE",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "21. Stochastic Differential Equations",
+        "videoId": "qdbkvD4N-us",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "23. Quanto Credit Hedging",
+        "videoId": "55OXxe_ix2o",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "24. HJM Model for Interest Rates and Credit",
+        "videoId": "D2Jn1VrqjWI",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "25. Ross Recovery Theorem",
+        "videoId": "vc5dotshPZc",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "26. Introduction to Counterparty Credit Risk",
+        "videoId": "bKmcRfE3I6E",
+        "ps": false
+      }
+    ]
+  },
+
+  "f19": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLPjSqITyvDeUTeAOGhip_ubjN3y8oqT13&si=lFDMH5a2cRPmJR0X",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 01- Introduction",
+        "videoId": "OT5RdoJAkhY",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 02- Accounting Process",
+        "videoId": "vHlpdy5WwSg",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 03- Accounting Concepts",
+        "videoId": "BzC0SANzZ9E",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 04- Trial Balance & its Relevance",
+        "videoId": "zRPYhJGq_4A",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 05- Relevant Accounting Statements",
+        "videoId": "-P6l7LRslok",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 06- Journal (Part-I) - The first & original book of accounting",
+        "videoId": "lzCx064WwDs",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture-07- Journal (Part-II) - The first & original book of accounting",
+        "videoId": "2sxMUqaRc4A",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture-08-Ledger-The second book of accounts",
+        "videoId": "iJ5QeFBPC78",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture-09- Financial Statements",
+        "videoId": "kaIY6SBqTic",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture-10- Financial Statements - Income Statement",
+        "videoId": "R3BVJsu0bCc",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture-11- Financial Statements - Balance Sheet",
+        "videoId": "4PgDUmr5_SM",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture-12- Financial Statements with Adjustments (Part-1)",
+        "videoId": "vO1OceJZekk",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture-13- Financial Statements with Adjustments (Part-2)",
+        "videoId": "7bJXR_LqzKA",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture-14- Financial Statements with Adjustments (Part-3)",
+        "videoId": "NRQXGLSL_nE",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture-15- Financial Statements with Adjustments (Part-4)",
+        "videoId": "EsW3KlP23NQ",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture-16- Financial Statements with Adjustments (Part-5)",
+        "videoId": "0LeYojZXsl0",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture-17- Financial Statements with Adjustments (Part-6)",
+        "videoId": "TVzw-ecWPGg",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture-18- Financial Statements with Adjustments (Part-7)",
+        "videoId": "u5EFpsm3bR8",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture-19- Financial Statements with Adjustments (Part-8)",
+        "videoId": "x8Jg0g6AuVw",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture-20- Financial Statements with Adjustments (Part-9)",
+        "videoId": "gmqjpLAumtM",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture-21- Financial Statements with Adjustments (Part-10)",
+        "videoId": "iivl94fXvJI",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture-22- Financial Statements with Adjustments (Part-11)",
+        "videoId": "Xq9mNhCphTI",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture-23- Financial Statements with Adjustments (Part-12)",
+        "videoId": "6d6vKZBr-Dc",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture-24- Financial Statements with Adjustments (Part-13)",
+        "videoId": "mx93l63UIbE",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture-25- Corporate Financial Statements (Part-1)",
+        "videoId": "B9xLSfxqzwQ",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture-26- Corporate Financial Statements (Part-2)",
+        "videoId": "G6ZNB05N_q4",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture-27- Corporate Financial Statements (Part-3)",
+        "videoId": "7wqYY8JcXV8",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture-28- Corporate Financial Statements (Part-4)",
+        "videoId": "EDhCZXXdRd0",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lecture-29- Corporate Financial Statements (Part-5)",
+        "videoId": "XuNjactwuTs",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lecture-30- Corporate Financial Statements (Part-6)",
+        "videoId": "xOxan12e07g",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lecture-31- Corporate Financial Statements (Part-7)",
+        "videoId": "QzzQWx5ueWk",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lecture-32- Corporate Financial Statements (Part-8)",
+        "videoId": "J37D53J3Ibc",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Lecture-33- Corporate Financial Statements (Part-9)",
+        "videoId": "5aKCtz7giXk",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Lecture-34- Financial Statement Analysis",
+        "videoId": "gYtKUzUkLp8",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Lecture-35- Ratio Analysis (Part-1)",
+        "videoId": "y132ILD4Vvg",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Lecture-36- Ratio Analysis (Part-2)",
+        "videoId": "5kXrk3xaBi8",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Lecture-37- Ratio Analysis (Part-3)",
+        "videoId": "FCCJe2m3RKo",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Lecture-38- Different Sets of Ratios (Part-1)",
+        "videoId": "sT2xPqxI_qU",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Lecture-39- Different Sets of Ratios (Part-2)",
+        "videoId": "Fa6xnkr3-fU",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Lecture-40- Ratio Analysis - A case of Grasim Industries (Part-1)",
+        "videoId": "ZPpL8pVHUBI",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Lecture-41- Ratio Analysis - A case of Grasim Industries (Part-2)",
+        "videoId": "ktWPJxBKYxM",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Lecture-42- Liquidity Ratios- Grasim Industries (Part-1)",
+        "videoId": "KfTsoSnhYAk",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "Lecture-43- Liquidity Ratios- Grasim Industries (Part-2)",
+        "videoId": "_dQbki8f-So",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "Lecture-44- Liquidity Ratios- Grasim Industries (Part-3)",
+        "videoId": "AXdZLluEahI",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "Lecture-45- Profitability Ratios- Grasim Industries (Part-1)",
+        "videoId": "S1bASdZ8xb0",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "Lecture-46- Profitability Ratios- Grasim Industries (Part-2)",
+        "videoId": "BjHESQbegO8",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "Lecture-47- Profitability Ratios- Grasim Industries (Part-3)",
+        "videoId": "uHkm80hSMsc",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "Lecture-48- DuPont Ratios (Part-1)",
+        "videoId": "78BX4VAw8hU",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "Lecture- 49- DuPont Ratios (Part-2)",
+        "videoId": "cYpN8nGW_NA",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "Lecture-50- Valuation or Capital Market Ratios (Part-1)",
+        "videoId": "DNtSUXNVSC4",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "Lecture-51- Valuation or Capital Market Ratios (Part-2)",
+        "videoId": "roQHKOvGj88",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "Lecture-52- Cash Flow Statement-Introduction (Part-1)",
+        "videoId": "HfbqVNgGk8g",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "Lecture-53- Cash Flow Statement (Part-2)",
+        "videoId": "RcfF_zUtg-Q",
+        "ps": false
+      },
+      {
+        "n": 54,
+        "title": "Lecture-54- Preparation of Cash Flow Statement- Basic Cash Flow Statement",
+        "videoId": "kGOJE5PrfEw",
+        "ps": false
+      },
+      {
+        "n": 55,
+        "title": "Leccture-55- Cash Flow Statement-Further Analysis (Part-1)",
+        "videoId": "tpD9_QYYZUA",
+        "ps": false
+      },
+      {
+        "n": 56,
+        "title": "Lecture-56- Cash Flow Statement- Further Analysis (Part-2)",
+        "videoId": "5Hoc9bFBIOo",
+        "ps": false
+      },
+      {
+        "n": 57,
+        "title": "Lecture-57- Final Cash Flow Statement (Part-1)",
+        "videoId": "Vtw8F3h1GHU",
+        "ps": false
+      },
+      {
+        "n": 58,
+        "title": "Lecture-58- Final Cash Flow Statement (Part-2)",
+        "videoId": "S87w7tTuwcE",
+        "ps": false
+      },
+      {
+        "n": 59,
+        "title": "Lecture-59- Financial Reporting (Part-1)",
+        "videoId": "pFDEl6qoAt4",
+        "ps": false
+      },
+      {
+        "n": 60,
+        "title": "Lecture-60- Financial Reporting (Part-2)",
+        "videoId": "UF8g5SxCdyk",
+        "ps": false
+      }
+    ]
+  },
+
+  "f20": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn&si=HBrrwmLd2hca1fyM",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1. Introduction for 15.S12 Blockchain and Money, Fall 2018",
+        "videoId": "EH6vE97qIP4",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2. Money, Ledgers & Bitcoin",
+        "videoId": "5auv_xrvoJk",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "3. Blockchain Basics & Cryptography",
+        "videoId": "0UvVOMZqpEA",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "4. Blockchain Basics & Consensus",
+        "videoId": "w7HDA8gUbpQ",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "5. Blockchain Basics & Transactions, UTXO and Script Code",
+        "videoId": "zGDTt9Q3vyM",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "6. Smart Contracts and DApps",
+        "videoId": "JPkgJwJHYSc",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "7. Technical Challenges",
+        "videoId": "GLVrOlHLJ1U",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "8. Public Policy",
+        "videoId": "sMnBl0g3Ev4",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "9. Permissioned Systems",
+        "videoId": "vPJ8oQ99r9c",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "10. Financial System Challenges & Opportunities",
+        "videoId": "l0vD_FBWk0g",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "11. Blockchain Economics",
+        "videoId": "_eGNSuTBc60",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "12. Assessing Use Cases",
+        "videoId": "ObGYNQLG3us",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "13. Payments, Part 1",
+        "videoId": "ojcOUtUwIe4",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "14. Payments, Part 2",
+        "videoId": "_Ycy0Dy-B1c",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "15. Central Banks &  Commercial Banking, Part 1",
+        "videoId": "lPD9fx8fK1k",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "16. Central Banks &  Commercial Banking, Part 2",
+        "videoId": "uNqMBBbb6UI",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "17. Secondary Markets & Crypto-Exchanges",
+        "videoId": "KHBi3n0hUSU",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "19. Primary Markets, ICOs & Venture Capital, Part 1",
+        "videoId": "iWpQpPbo7rM",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "20. Primary Markets, ICOs & Venture Capital, Part 2",
+        "videoId": "7EXcHqLg7BI",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "21. Post Trade Clearing, Settlement & Processing",
+        "videoId": "-cZPoqnRZq4",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "22. Trade Finance & Supply Chain",
+        "videoId": "DsSzQfejwMk",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "23. Digital ID",
+        "videoId": "W06Le8fw0vU",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "24. Conclusion",
+        "videoId": "CJCKTixMb70",
+        "ps": false
+      }
+    ]
+  },
+
+  "f21": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUkh9m2BorqlOjmzA9_LYgnzgt0N-2hGS&si=iiyqqVpsXEnH__H6",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Valuation: A Preview",
+        "videoId": "LYGYvN5LUbA",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Session 1 (Val MBAs): Valuation - Broad Themes and Logistical Details",
+        "videoId": "93d5tm9muJw",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Session 2 (Val MBAs): The Bermuda Triangle of Valuation",
+        "videoId": "M2IJy5EQews",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Session 3 (Val MBA): Setting the Table (Contd.) and First Steps on Intrinsic Value",
+        "videoId": "UQxjlJM40Uo",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Session 4 (Val MBA): DCF Structure and Risk free Rates!",
+        "videoId": "_KqO3OAEad8",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Session 5 (Val MBAs): Closure on Riskfree Rates and First Steps on Equity Risk Premiums",
+        "videoId": "l2ZDQ3HHaNM",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Session 6 (Val MBAs): Implied Equity Risk Premiums and Betas",
+        "videoId": "b_ixJHotsCc",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Session 7 (Val MBAs): Cost of Capital Closure and First Steps on cash flows",
+        "videoId": "LOuLy6a0ngI",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Session 8 (Val MBAS):  More on cash flows",
+        "videoId": "xpVtvbR_PMg",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Session 9 (Val MBA): FCFE and Growth Rates",
+        "videoId": "9RNOoiT5nWc",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Session 10 (Val MBA): More on Growth!",
+        "videoId": "6faIAe_Xn-U",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Session 11 (Val MBA): More on Value Inputs & Terminal Value",
+        "videoId": "xU_IPjFUrEA",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Session 12 (Val MBAs): Loose Ends in Valuation",
+        "videoId": "XeCK9qh7yBk",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Session 13 (Val MBAs): Stock-based Compensation and Story Telling in Valution!",
+        "videoId": "T8mnDd-U3gU",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Session 14 (Val MBAs): Story Closure and First DCFs",
+        "videoId": "gOA0TsCKOVQ",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Session 15 (Val MBAs): DCF Valuations across the Life Cycle",
+        "videoId": "f4iCrgPeNIA",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Session 16 (Val MBAs): intrinsic Value - Heading to closure!",
+        "videoId": "kggJTBesCPM",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Session 17 (Val MBAs): Pricing 101",
+        "videoId": "sYInHUILXaQ",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Session 18 (Val MBAs): More on Pricing - Descriptional & Analytical Tests",
+        "videoId": "85qyuJ1u2Pg",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Session 19 (Val MBAs): More on Pricing - Applications",
+        "videoId": "S37E8JY52ew",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Session 20 (Val MBAs): Asset Based Valuation & First Steps on Private Business Valuation",
+        "videoId": "za4ARk5Gkn4",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Session 21 (Val MBAs): Valuing Private Companies and IPOs",
+        "videoId": "x-MUdGt8b9U",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Session 22 (Val MBAs): Introduction to options",
+        "videoId": "offI0pS9-ks",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Session 23 (Val MBAs): Real Option Applications",
+        "videoId": "3I2rlw-Hr3I",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Session 24 (Val MBAs): Distressed Equity as an Option + Acquirers' Anonymous",
+        "videoId": "mmLyNbWhlls",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Session 25 (Val MBAs): Acquisitions (Completed) and Value Enhancements!",
+        "videoId": "pa4yHaqnsNg",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Session 26 (Val MBAs): The Grand Finale!",
+        "videoId": "OFb2t-hP9pE",
+        "ps": false
+      }
+    ]
+  },
+
+  "f22": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLFW6lRTa1g80AzQhQ70y04ewp9-2aKxkP&si=1broLvk05KKRwz6r",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 01",
+        "videoId": "SuMA4Qn_n4Y",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 02",
+        "videoId": "CCSZVw_83Hs",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 03",
+        "videoId": "axCNyHanhLk",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 04",
+        "videoId": "Zg99JggmTUw",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 05",
+        "videoId": "3unMedrjKm4",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 06",
+        "videoId": "4jCo7mX7qaw",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 07",
+        "videoId": "YhvPQQd0CoM",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 08",
+        "videoId": "3-VJd4prSTo",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 09",
+        "videoId": "8Dfl4mB34MU",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 10",
+        "videoId": "eAXTqsNR0BY",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 11",
+        "videoId": "ssFAkF9vvMg",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 12",
+        "videoId": "OrRveBn9TqU",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 13",
+        "videoId": "dp-imM1pjOY",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 14",
+        "videoId": "SOIuboHZu4I",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 15",
+        "videoId": "RoSY_G1bIDg",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 16",
+        "videoId": "3zLFVNhXUx0",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 17",
+        "videoId": "yh-sXi14z2Y",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 18",
+        "videoId": "f1XbCU_5viQ",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 19",
+        "videoId": "mLA15eqxiJI",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 20",
+        "videoId": "slFpjRuC7-c",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 21",
+        "videoId": "fx9I4vmxbAw",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 22",
+        "videoId": "VjDy4RPdNQ8",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 23",
+        "videoId": "d5NaG_MkBqk",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture 24",
+        "videoId": "focukf9JBPQ",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 25",
+        "videoId": "yH9I2-4-hgk",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture 26",
+        "videoId": "z3Jitte0J3U",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture 27",
+        "videoId": "AhiwL0g2vzc",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture 28",
+        "videoId": "Bsp46eC08VI",
+        "ps": false
+      }
+    ]
+  },
+
+  "f23": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLyqSpQzTE6M8St2IrMox_srEJv8n-N55A&si=JlCN4Dt8qHWnBtRI",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "#1 Introduction to Financial Accounting & Cost Accounting | Foundations of Accounting & Finance",
+        "videoId": "Om0Ohf4sz78",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "#2 Introduction to Corporate Finance | Foundations of Accounting & Finance",
+        "videoId": "Tw0Q_YEaoJM",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "#3 Contents of Income Statement & Balance Sheet | Part I | Foundations of Accounting & Finance",
+        "videoId": "aYTtIWS0yiU",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "#4 Contents of Income Statement & Balance Sheet | Part II | Foundations of Accounting & Finance",
+        "videoId": "CWr-yPc5MJk",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "#5 Interaction between Income Statement & Balance Sheet | Foundations of Accounting & Finance",
+        "videoId": "gH39Duw3WmE",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "#6 Preparation of Income Statement & Balance Sheet | Example Part",
+        "videoId": "BZJC4KpIiiA",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "#7 Preparation of Income Statement & Balance Sheet | Example Part II",
+        "videoId": "fOv9vItB798",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "#8 Preparation of Income Statement & Balance Sheet | Example - Part III",
+        "videoId": "8bMHcNtX9og",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "#9 Preparation of Balance Sheet Lone Pine Cafe A | Part I | Foundations of Accounting & Finance",
+        "videoId": "vjR9fnxvP1c",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "#10 Preparation of Balance Sheet Lone Pine Cafe A | Part II | Foundations of Accounting & Finance",
+        "videoId": "fX2UJzG0w70",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "#11 Preparation of Income Statement: Lone Pine Cafe B | Foundations of Accounting & Finance",
+        "videoId": "d4raYIYh2AY",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "#12 Cash Flow Statement :Concept & Example | Direct Method | Lone Pine Cafe",
+        "videoId": "rR-yWCn6RP0",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "#13 Classification of Balance Sheet Items: Maynard Company A | Foundations of Accounting & Finance",
+        "videoId": "rwIShU1Gp1c",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "#14 Preparation of Income Statement: Maynard Company B | Foundations of Accounting & Finance",
+        "videoId": "XABA_ZCCq00",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "#15 Preparation of Cash Flow Statement  | InDirect Method | Lone Pine Cafe",
+        "videoId": "Z1ORT_Eqf-s",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "#16 Preparation of Cash Flow Statement | Lori Crump:Indirect Method",
+        "videoId": "D3nFdeqq6kU",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "#17 Preparation of Cash Flow Statement | Example:Direct Method | Foundations of Accounting & Finance",
+        "videoId": "sVv8k8d8_OQ",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "#18 Preparation of Cash Flow Statement | Example:InDirect Method | Foundations of Accounting&Finance",
+        "videoId": "9_kZWKvvSKg",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "#19 Ratio Analysis | Part I | Financial Statement Analysis | Foundations of Accounting & Finance",
+        "videoId": "09Rk52DopAQ",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "#20 Ratio Analysis | Part II | Profitability Ratios | Foundations of Accounting & Finance",
+        "videoId": "KjLaEAHXSgY",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "#21 Ratio Analysis | Part III | Dividend & Liquidity Ratios | Foundations of Accounting & Finance",
+        "videoId": "MQ5kSXaeJB4",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "#22 Ratio Analysis | Part IV | Efficiency Ratios | Foundations of Accounting & Finance",
+        "videoId": "vSW4XTPQQTE",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "#23 Cost, Costing & Cost Accounting | Foundations of Accounting & Finance",
+        "videoId": "EuldncC6FnE",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "#24 Classification of Costs | Foundations of Accounting & Finance",
+        "videoId": "PVDbCJR2DPw",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "#25 Preparation of Cost Sheet | Part I | Foundations of Accounting & Finance",
+        "videoId": "0hOB3ajxcwM",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "#26 Preparation of Cost Sheet | Part II | Foundations of Accounting & Finance",
+        "videoId": "qCCTd-pnJZo",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "#27 Allocation & Apportionment of Cost | Foundations of Accounting & Finance",
+        "videoId": "dpmplZBsKAU",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "#28 Primary & Secondary Distribution of Overhead | Foundations of Accounting & Finance",
+        "videoId": "JTNSPR7MX2s",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "#29 Activity Based Costing | Part I | Foundations of Accounting & Finance",
+        "videoId": "dbfeDzagBnA",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "#30 Activity Based Costing | Part II | Foundations of Accounting & Finance",
+        "videoId": "bj4cQMjKIAc",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "#31 Break-Even Analysis | Foundations of Accounting & Finance",
+        "videoId": "HdQYtBrjljw",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "#32 Decision Making with Cost Accounting | Part I | Foundations of Accounting & Finance",
+        "videoId": "_Sz4y8dCWgk",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "#33 Decision Making with Cost Accounting | Part II | Foundations of Accounting & Finance",
+        "videoId": "vRxhpTV6o5w",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "#34 Decision Making with Cost Accounting | Part III | Foundations of Accounting & Finance",
+        "videoId": "75YCPNP78WA",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "#35 Decision Making with Cost Accounting | Part IV | Foundations of Accounting & Finance",
+        "videoId": "Dc35sF7u5w4",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "#36 Decision Making with Cost Accounting | Part V | Foundations of Accounting & Finance",
+        "videoId": "RXYrZVHERM8",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "#37 Introduction to Budgeting | Budget Preparation Basics | Part I",
+        "videoId": "VIO5zwn1LCU",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "#38 Introduction to Budgeting | Budget Preparation Basics | Part II",
+        "videoId": "LkPt4ty2M-E",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "#39 Introduction to Budgeting | Budget Preparation Basics | Part III",
+        "videoId": "v7dN6P33KG4",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "#40 Flexible Budget & Variance Analysis | Foundations of Accounting & Finance",
+        "videoId": "UKdQmh5aQ5w",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "#41 Foundations of Corporate Finance | Part I | Foundations of Accounting & Finance",
+        "videoId": "Av27Tpa9cjk",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "#42 Foundations of Corporate Finance | Part II | Foundations of Accounting & Finance",
+        "videoId": "tIlJ7H6PFNs",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "#43 Time Value of Money: Present & Future Value Explained | Foundations of Accounting & Finance",
+        "videoId": "57XnNMvOYAU",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "#44 Simplifying Cash Flows: Annuities & Perpetuities Explained | Foundations of Accounting & Finance",
+        "videoId": "hjCtQVxleJY",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "#45 Bond Valuation | Part I | Foundations of Accounting & Finance",
+        "videoId": "oVQJZM5wyFM",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "#46 Bond Valuation | Part II | Foundations of Accounting & Finance",
+        "videoId": "sxqZnXJyaSw",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "#47 Stock Valuation | Foundations of Accounting & Finance",
+        "videoId": "NFqp-JsABbc",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "#48 Numerical on Bond & Stock Valuation | Foundations of Accounting & Finance",
+        "videoId": "QnE1cenu_Rc",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "#49 Technique of Evaluating Capital Investment Decisions | Foundations of Accounting & Finance",
+        "videoId": "_iCR5qtKDvA",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "#50 Numericals on Technique of Evaluating Capital Investment Decisions",
+        "videoId": "kWvhFa6Q5S4",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "#51 Risk & Return | Part I | Foundations of Accounting & Finance",
+        "videoId": "BprkNZQeaxo",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "#52 Risk & Return | Part II | Foundations of Accounting & Finance",
+        "videoId": "3dEHeJIHgbg",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "#53 Risk & Return: Individual Securities | Foundations of Accounting & Finance",
+        "videoId": "169xyIvbeNY",
+        "ps": false
+      },
+      {
+        "n": 54,
+        "title": "#54 Risk & Return: Portfolio | Foundations of Accounting & Finance",
+        "videoId": "3mk1JaO4jU8",
+        "ps": false
+      },
+      {
+        "n": 55,
+        "title": "#55 Cost of Capital & Valuation | Part I | Foundations of Accounting & Finance",
+        "videoId": "Tjm-FC_0R88",
+        "ps": false
+      },
+      {
+        "n": 56,
+        "title": "#56 Cost of Capital & Valuation | Part II | Foundations of Accounting & Finance",
+        "videoId": "lC_SBgFOnWg",
+        "ps": false
+      },
+      {
+        "n": 57,
+        "title": "#57 Valuation & Capital Structure | Foundations of Accounting & Finance",
+        "videoId": "4gtbkXpHlno",
+        "ps": false
+      },
+      {
+        "n": 58,
+        "title": "#58 Dividend & Other Payouts | Foundations of Accounting & Finance",
+        "videoId": "zaiCxAixUMM",
+        "ps": false
+      }
+    ]
+  },
+
+  "f24": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLEuzmtv9IuT9ot5UyUDakYM-EVsq_Ngq6&si=96UPtZBgP2MQ-amY",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Introduction to Applied Econometrics",
+        "videoId": "VDNsqb6oJAQ",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Types of Datasets and Variables in Econometrics",
+        "videoId": "BN-FTZ7qvN0",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Deriving the Betas in a Bivariate CLRM",
+        "videoId": "iMrWMMUFSdM",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Bivariate Regression in R",
+        "videoId": "9Z9Ozkr3MvM",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "The Wald's Test of Linear Restrictions",
+        "videoId": "fXUXMMYEHpc",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Definition and Degrees of Multicollinearity",
+        "videoId": "9DhexHduEGA",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Auxiliary Regressions for Multicollinearity using STATA",
+        "videoId": "L6QZOsSu1FM",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Consequences of Multicollinearity",
+        "videoId": "Io-QwwFImUo",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Variance Inflating Factor and Tolerance",
+        "videoId": "AGBdDCbEBuU",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Testing for Multicollinearity in R",
+        "videoId": "2HQxVmrX57M",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Panel Data Models (Pooled OLS, FE, RE, LSDVs) in STATA",
+        "videoId": "b02s2DdRvzM",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Quantile Regression in R",
+        "videoId": "cm29i-n53SM",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Unbiasedness of the Instrumental Variable Estimator",
+        "videoId": "3sC1oMBj_sE",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Proof: Trace of Annihilator Matrix",
+        "videoId": "T-mhKVfaLt4",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Proof: Ridge Regression Estimator is Consistent",
+        "videoId": "JQRoRNz3cvE",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Proof: Asymptotic Variance of GMM",
+        "videoId": "oWe9nx5thUs",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Introduction to Logit and Probit",
+        "videoId": "YZBIV_yhHAs",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Introduction to Panel Data Models",
+        "videoId": "rrxNQ6luxLw",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "First Differences Panel Data Model",
+        "videoId": "BYaJRX0Q688",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Fixed Effects and LSDVs",
+        "videoId": "v57WozC3wiE",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Random Effects Model",
+        "videoId": "Jtm-hGVCujU",
+        "ps": false
+      }
+    ]
+  },
+
+  "f25": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLyqSpQzTE6M-_17_rQS9WcLZFeYRe0alq&si=Z1wEYrohHk-6CeGQ",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Course outline for Applied Econometrics",
+        "videoId": "BlCDUGmbnMs",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Introduction - Applied Econometrics",
+        "videoId": "ybIcdda4ICw",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Instrumental Variable Estimation - Part I",
+        "videoId": "KKf1AgO9V7w",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Instrumental Variable Estimation - Part II",
+        "videoId": "8ccdsX-jGT0",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Instrumental Variable Estimation - Part III",
+        "videoId": "WLM6yWJeefo",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Instrumental Variable Estimation - Part IV",
+        "videoId": "sTmH55uCw7c",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Instrumental Variable Estimation - Part V",
+        "videoId": "0VnS9IlBJng",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Instrumental Variable Estimation - Part VI",
+        "videoId": "ook4VhiFkc8",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Instrumental Variable Estimation - Part VII",
+        "videoId": "iHpgIfquSE0",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Instrumental Variable Estimation - Part VIII",
+        "videoId": "1YsLLt1af5o",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Instrumental Variable Estimation - Part IX",
+        "videoId": "mqnnxNKSP9E",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Instrumental Variable Estimation - Part X",
+        "videoId": "4nmY70MPN-w",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Instrumental Variable Estimation - Part XI",
+        "videoId": "hLFWv8rJkSw",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Simultaneous Equation Model - Part I",
+        "videoId": "jo_EkAj3lBs",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Simultaneous Equation Model - Part II",
+        "videoId": "MhbEWuxXRyc",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Simultaneous Equation Model - Part III",
+        "videoId": "hgzbxPsxcts",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Simultaneous Equation Model - Part IV",
+        "videoId": "9zyeJTpHqUU",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Simultaneous Equation Model - Part V",
+        "videoId": "glh5yqa39ZY",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Simultaneous Equation Model - Part VI",
+        "videoId": "svsfp6GzCoA",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Simultaneous Equation Model - Part VII",
+        "videoId": "VXIYKBLOLS4",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Simultaneous Equation Model - Part VIII",
+        "videoId": "_y4b-gQ-s3M",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Pooled Data and Panel Data Model Estimation - Part I",
+        "videoId": "H6J94iddgfg",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Pooled Data and Panel Data Model Estimation - Part II",
+        "videoId": "dCs6fEA4Mu0",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Pooled Data and Panel Data Model Estimation - Part III",
+        "videoId": "hHsfOeDFUpM",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Pooled Data and Panel Data Model Estimation - Part IV",
+        "videoId": "tSQkcTm_q2k",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Pooled Data and Panel Data Model Estimation - Part V",
+        "videoId": "WhTRqr-ytEE",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Pooled Data and Panel Data Model Estimation - Part VI",
+        "videoId": "I73Qeoctlo8",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Panel Data Model Estimation - Part VII",
+        "videoId": "UvO8YGCPMb8",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Panel Data Model Estimation - Part IX",
+        "videoId": "sRXeK8l3Lsc",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Qualitative Response Model-Part I",
+        "videoId": "w7Ji0Njhe1A",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Qualitative Response Model-Part II",
+        "videoId": "bAWzfysFi3Q",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Qualitative Response Model-Part III",
+        "videoId": "RRJE_Xx_zAw",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Qualitative Response Model-Part IV",
+        "videoId": "ggvMJXc1ymY",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Qualitative Response Model-Part V",
+        "videoId": "FbuORMsteLk",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Qualitative Response Model-Part VI",
+        "videoId": "V4CGGgUIVJg",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Multinomial Regression Model-Part I",
+        "videoId": "-JpDlPiW0c0",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Multinomial Regression Model-Part II",
+        "videoId": "YYhqGfGa5qg",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Multinomial Regression Model-Part III",
+        "videoId": "PZDAlY3DVH0",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Multinomial Regression Model-Part IV",
+        "videoId": "Efyd_MnvY-w",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Dynamic Panel data Model - Part I",
+        "videoId": "jeBxFehWMv8",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Dynamic Panel data Model - Part II",
+        "videoId": "NOa4zvIfJtc",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Dynamic Panel data Model - Part III",
+        "videoId": "rHuieyOtbdI",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "Dynamic Panel data Model - Part IV",
+        "videoId": "pyJhFDkssLQ",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "Dynamic Panel data Model - Part V",
+        "videoId": "waVvtSt_Uq0",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "Dynamic Panel data Model - Part VI",
+        "videoId": "TrOq0Somf9w",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "Dynamic Panel data Model - Part VII",
+        "videoId": "0KuMSS1umaM",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "Dynamic Panel data Model - Part VIII",
+        "videoId": "omNrxgdvml0",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "Dynamic Panel data Model - Part IX",
+        "videoId": "KJE3cXRR7Zk",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "Dynamic Panel data Model - Part X",
+        "videoId": "y6YUqzHo4O0",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "Dynamic Panel data Model - Part XI",
+        "videoId": "NxYJ_8LYkY4",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "Dynamic Panel data Model - Part XII",
+        "videoId": "JeTbqPYOgkM",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "Dynamic Panel data Model - Part XIII",
+        "videoId": "-lFqQ-_sqZU",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "Dynamic Panel data Model - Part XIV",
+        "videoId": "5ds54YsOIqE",
+        "ps": false
+      },
+      {
+        "n": 54,
+        "title": "Dynamic Panel data Model - Part XV",
+        "videoId": "rDvwNQS0UAc",
+        "ps": false
+      },
+      {
+        "n": 55,
+        "title": "Dynamic Panel data Model - Part XVI",
+        "videoId": "VV-lrypEK-c",
+        "ps": false
+      },
+      {
+        "n": 56,
+        "title": "Dynamic Panel data Model - Part XVII",
+        "videoId": "kh22pnD5e2A",
+        "ps": false
+      },
+      {
+        "n": 57,
+        "title": "Dynamic Panel data Model - Part XVIII",
+        "videoId": "WKcDBxjE4qA",
+        "ps": false
+      },
+      {
+        "n": 58,
+        "title": "Dynamic Panel data Model - Part XIX",
+        "videoId": "2FBUdJy8QA4",
+        "ps": false
+      },
+      {
+        "n": 59,
+        "title": "Dynamic Panel data Model - Part XX",
+        "videoId": "OznjFOeeRjU",
+        "ps": false
+      }
+    ]
+  },
+
+  "f26": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL300dEvt9oC3iYmkxv61ZAkPHMQ1Y81-l&si=8xZ0PEhnQMiB_q-w",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Quantitative Techniques for Managers | Operations Research - Introduction| AKTU Digital Education",
+        "videoId": "q1WaeLhG8rQ",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Quantitative Techniques for Managers | Decision Theory - Introduction| AKTU Digital Education",
+        "videoId": "LfF7FLs8yY0",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Quantitative Techniques for Managers| \"Decision Making Under Risk Part-1 \"| AKTU Digital Education",
+        "videoId": "ebDnZHx77bQ",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Quantitative Techniques for Managers| Decision Making Under Risk Part-2| AKTU Digital Education",
+        "videoId": "itfe7bkAAbk",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Quantitative Techniques for Managers | Decision Making Under Uncertainty| AKTU Digital Education",
+        "videoId": "HOyyJm338J0",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Quantitative Techniques for Managers| Decision Tree | AKTU Digital Education",
+        "videoId": "jaGCLvH_rD0",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Quantitative Techniques for Managers | Linear Programming: Introduction| AKTU Digital Education",
+        "videoId": "7XGZaF9ViKg",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Quantitative Techniques for Managers | Linear Programming: Introduction | AKTU Digital Education",
+        "videoId": "9czhVbRQaro",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Quantitative Techniques for Managers |  Mathematical Formulation of LPP | AKTU Digital Education",
+        "videoId": "5DjnWvqjjpI",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Quantitative Techniques for Managers | Linear Programming: Graphical Method | AKTU Digital Education",
+        "videoId": "M6vlYofmv0A",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Quantitative Techniques for Managers  | Linear Programming: Simplex Method | AKTU Digital Education",
+        "videoId": "5YJgzlh1yrk",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Quantitative Techniques for Managers | Linear Programming: Big M Method | AKTU Digital Education",
+        "videoId": "FMbapJX3ads",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Quantitative Techniques for Managers | Linear Programming: Duality | AKTU Digital Education",
+        "videoId": "bYk--XDpV7I",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Quantitative Techniques for Managers | Transportation Model: NWCR and LCM | AKTU Digital Education",
+        "videoId": "6z8aHDAG45c",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Quantitative Techniques for Managers | Transportation Model: Vogel's Approximation Method | AKTU",
+        "videoId": "xyOCcDmxVTM",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Quantitative Techniques for Managers | Transportation Model: Stepping Stone Method | AKTU Digital",
+        "videoId": "aBMJcIXwZWM",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Quantitative Techniques for Managers | Transportation Model: MODI Method | AKTU Digital Education",
+        "videoId": "43lZB4NL22o",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Quantitative Techniques for Managers | Assignment Model: Hungarian Algorithm| AKTU Digital Education",
+        "videoId": "Y0Q2XjtbryU",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Quantitative Techniques for Managers |Assignment Model: Maximisation Problem| AKTU Digital Education",
+        "videoId": "aiVDlwDFJsI",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Quantitative Techniques for Managers | Game Theory: Two-Person Zero-Sum Game| AKTU Digital Education",
+        "videoId": "Kg9ncVwC_rw",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Quantitative Techniques for Managers | Game Theory: Pure Strategy Games | AKTU Digital Education",
+        "videoId": "yP4JRNHtdGU",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Quantitative Techniques for Managers | Game Theory: Principle of Dominance | AKTU Digital Education",
+        "videoId": "1rAI0a6RDDk",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Quantitative Techniques for Managers | Game Theory: Mixed Strategy Games | AKTU Digital Education",
+        "videoId": "qcYAW66tQ0M",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Quantitative Techniques for Managers | AKTU Digital Education",
+        "videoId": "OkXRDUH5BGI",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Quantitative Techniques for Managers | AKTU Digital Education",
+        "videoId": "wGwGuwjLCQA",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Quantitative Techniques for Managers || AKTU Digital Education",
+        "videoId": "sT9J_3cmPoQ",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Quantitative Techniques for Managers | AKTU Digital Education",
+        "videoId": "rMJGlQK4LRg",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Quantitative Techniques for Managers | Sequencing Problem: 2 Jobs,M Machines| AKTU Digital Education",
+        "videoId": "02mMsYU3mEA",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Quantitative Techniques for Managers| Queuing Theory: Application of Poisson| AKTU Digital Education",
+        "videoId": "xZ-MP2ntl6Q",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Quantitative Techniques for Managers | AKTU Digital Education",
+        "videoId": "3ZYEQvuqRos",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Quantitative Techniques for Managers | AKTU Digital Education",
+        "videoId": "92JS7dD3E9s",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Quantitative Techniques for Managers | AKTU Digital Education",
+        "videoId": "pLoXburo7wU",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Quantitative Techniques for Managers || AKTU Digital Education",
+        "videoId": "jmntcUq86Rk",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Quantitative Techniques for Managers || AKTU Digital Education",
+        "videoId": "sw7JX92yKLA",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Quantitative Techniques for Managers | Project Management: Introduction | AKTU Digital Education",
+        "videoId": "KOkwZwkAU04",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Quantitative Techniques for Managers | AKTU Digital Education",
+        "videoId": "QaBdoec9Dx0",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Quantitative Techniques for Managers | AKTU Digital Education",
+        "videoId": "MNVtoAYSHrM",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Quantitative Techniques for Managers || AKTU Digital Education",
+        "videoId": "zoo0Pcy_NLw",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Quantitative Techniques for Managers || AKTU Digital Education",
+        "videoId": "BV2LyfSs0MM",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Quantitative Techniques for Managers | AKTU Digital Education",
+        "videoId": "WfkuF6sG_c0",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Quantitative Techniques for Managers |  AKTU Digital Education",
+        "videoId": "w3J8fp93zWc",
+        "ps": false
+      }
+    ]
+  },
+  
   "m0": {
     "playlistUrl": "https://youtube.com/playlist?list=PLm0X8hqw4lIp2qV8KkMgdK4Jr3P04wANy&si=juRaRgKi9l11rAX8",
     "notesPage": "",
